@@ -5,7 +5,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title>Tractatus De anima</title>
+        <title>Liber 3, distinctio 3, capitulum 6: Utrum intellectus se ipsum intelligat et qualiter idem contingat circa signum sui et quid contra hoc et ad hoc dici conveniat</title>
         <author>Guillelmus Hedonensis</author>
         <editor>Michael Stenskjær Christensen</editor>
       </titleStmt>
@@ -40,8 +40,20 @@
         </change>
      </listChange>
     </revisionDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-diplomatic-1.0.0"
+                 target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a diplomatic edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
   </teiHeader>
-  <text xml:lang="la">
+  <text xml:lang="la" type="diplomatic">
     <front>
       <div xml:id="starts-on">
         <pb ed="#C" n="134-r" /><cb ed="#C" n="a"/>
