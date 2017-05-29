@@ -60,9 +60,9 @@
       </div>
     </front>
     <body>
-      <div xml:id="da-3-d3c6">
+      <div xml:id="goncai342_da-3-d3c6">
         <head>Capitulum sextum</head>
-        <p xml:id="da-3-d3c6-io7s60">
+        <p xml:id="goncai342_da-3-d3c6-io7s60">
           <note type="marginal-note" place="margin-left">
             <lb ed="#C"/> Utrum intellectus seipsum
             <lb ed="#C"/> intelligat<pc type="punctus"/> et qualiter idem
@@ -79,7 +79,7 @@
           <lb ed="#C"/> esse signum et signatum respectu eiusdem<pc type="punctus"/> et prius ac posterius
           <lb ed="#C"/> se ipso<pc type="punctus"/> et huiusmodi<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-bz1xfp">
           <note type="marginal-note" place="margin-left">
             Item
           </note>
@@ -91,7 +91,7 @@
           <lb ed="#C"/> a simili cum intellectus sit instrumentum intelligendi<pc type="punctus-elevatus"/> ipse intellectus
           <lb ed="#C"/> a se ipso non intelligitur<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-fa6vkr">
           <note type="marginal-note" place="margin-left">
             Item
           </note>
@@ -112,7 +112,7 @@
           <lb ed="#C"/> falsum constituere intellectum de eo cuius est pars<pc type="punctus-medius"/> impossibile enim
           <lb ed="#C"/> est<pc type="punctus"/> quo posito sequitur impossibile<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-u744fg">
           <note type="marginal-note" place="margin-left">
             Item
           </note>
@@ -128,7 +128,7 @@
           <lb ed="#C"/> eo cuius est pars<pc type="punctus"/> ergo non est signum sui<pc type="punctus"/> et ita de omnibus aliis<pc type="punctus"/>
         </p>
         <!-- Paul Spade. Om løgneren. -->
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-qvo2xl">
           <lb ed="#C"/> Item<pc type="punctus"/> Cum anima per intellectum abstrahentem abstrahit
           <lb ed="#C"/> lineam vel rectum sive huiusmodi aliquid<pc type="punctus"/> in tali
           abstrac<lb ed="#C"/>tione aliud est ipsum quod intelligitur<pc type="punctus"/> aliud autem id per quod
@@ -150,7 +150,7 @@
           <lb ed="#C"/> est id quod intelligitur<pc type="punctus"/> aliud id quo intelligitur<pc type="punctus"/> et aliud
           <lb ed="#C"/> signum aliud signatum<pc type="punctus"/> ergo intellectus non est signum sui<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-072o7j">
           Item<pc type="punctus"/> Teste aristotele<pc type="punctus"/> voces sunt <choice><orig>note</orig><reg>notae</reg></choice> earum <choice><orig>que</orig><reg>quae</reg></choice> sunt in anima
           <!-- De int. -->
           <lb ed="#C"/> passionum<pc type="punctus"/> passiones autem sunt <choice><orig>note</orig><reg>notae</reg></choice> rerum quas etiam
@@ -165,7 +165,7 @@
           intelli<lb ed="#C"/>gitur ergo ipse intellectus non intelligitur per seipsum sed per aliud
           <lb ed="#C"/> ergo intellectus non est signum sui<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-uqs2mi">
           Item Dato quod intellectus se
           <lb ed="#C"/> ipsum per seipsum intelligat<pc type="punctus-elevatus"/> videtur quod semper seipsum
           <lb ed="#C"/> de neccesitate intelligat<pc type="punctus"/> Oculus enim per similitudines
@@ -187,7 +187,7 @@
           <lb ed="#C"/> ex quo hoc sequitur<pc type="punctus"/> scilicet intellectum seipsum per seipsum intelligere
           <lb ed="#C"/> neque igitur intellectus est signum sui neque iudex sui per se<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-fxc2m7">
           <lb ed="#C"/> Quod autem non ita sit<pc type="punctus"/> sed quod ipse intellectus sit signum et
           iu<lb ed="#C"/>dex sui per se<pc type="punctus"/> et non per aliud<pc type="punctus-elevatus"/> ratione et
           auctorita<lb ed="#C"/>te probemus<pc type="punctus"/> Anima ut ait aristoteles potentia est omnia<pc type="punctus"/> ipsa est
@@ -206,12 +206,12 @@
           <lb ed="#C"/> intellectum intelligit ipsum intellectum<pc type="punctus"/> et idem per se<pc type="punctus"/> et sic
           <lb ed="#C"/> idem est signum et iudex sui
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-w84muj">
           Item<pc type="punctus"/> Nemo sani intellectus
           <lb ed="#C"/> dubitat quin anima suum intellectum intelligat<pc type="punctus"/> hoc enim
           <lb ed="#C"/> aristoteles et beatus augustinus et alii viri auctentici testantur
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-olwbo4">
           <!-- Tjek lombardus -->
           <lb ed="#C"/> Unde augustinus super genesim ad litteram libro xii Quo
           <lb ed="#C"/> enim alio modo intellectus nisi intelligendo conspicitur<pc type="punctus-elevatus"/> Et de
@@ -240,7 +240,7 @@
           <lb ed="#C"/> circulatio<pc type="punctus"/> Quorum utrumque ars et natura
           repudi<lb ed="#C"/>at<pc type="punctus"/> ergo necesse est aliquem intellectum esse signum sui<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-86sg5l">
           <lb ed="#C"/> <choice><orig>Preterea</orig><reg>Praeterea</reg></choice><pc type="punctus"/> Si anima comprehendit suum intellectum per aliud ab ipso
           <lb ed="#C"/> intellectu<pc type="punctus-elevatus"/> illud aliud non est nisi intellectus nihil enim intelligimus
           <lb ed="#C"/> nisi per intellectum<pc type="punctus"/> isti duo intellectus sunt diversi in numero<pc type="punctus"/> et
@@ -255,7 +255,7 @@
           <lb ed="#C"/> se ipso<pc type="punctus-elevatus"/> cum utrumque sit in anima<pc type="punctus-elevatus"/> erit similitudo et id
           <lb ed="#C"/> cuius est similitudo simul in eodem<pc type="punctus"/> hoc autem est inconveniens<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-enexht">
           Item<pc type="punctus"/>
           <lb ed="#C"/> Intellectus est similitudo et species omnium intellectorum ut dicit
           <lb ed="#C"/> aristoteles<pc type="punctus"/> sed ut idem testatur ipse intellectus potest seipsum intelligere<pc type="punctus"/>
@@ -264,7 +264,7 @@
           <lb ed="#C"/> quod intelligitur<pc type="punctus"/> hoc nullatenus contingere posset nisi ipse
           in<lb ed="#C"/>tellectus seipsum per seipsum intelligeret<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-7e7zdk">
           Item<pc type="punctus"/> Anima est
           <lb ed="#C"/> <choice><orig>quedam</orig><reg>quaedam</reg></choice> divina substantia simplex et impertibilis<pc type="punctus"/> Deus autem et
           se<lb ed="#C"/>ipsum et omnia alia per seipsum intelligit<pc type="punctus"/> nihil enim potest
@@ -276,20 +276,20 @@
           <lb ed="#C"/> aut suum intellectum<pc type="punctus"/> et utrumvis dicatur<pc type="punctus-elevatus"/> sequitur idem esse
           <lb ed="#C"/> signum sui<pc type="punctus"/>
         </p>
-        <p>
-          Item<pc type="punctus"/> Iste terminus homo significat intellectum qui
+        <p xml:id="goncai342_da-3-d3c6-rfnloc">
+a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intellectum qui
           <lb ed="#C"/> est signum cuiuslibet hominis<pc type="punctus"/> similiter ergo iste terminus intellectus significat
           <lb ed="#C"/> intellectum qui est signum cuiuslibet intellectus<pc type="punctus"/> sed intellectus huius
           <lb ed="#C"/> termini intellectus est aliquis intellectus<pc type="punctus"/> ergo iste intellectus significatur
           <lb ed="#C"/> per istum intellectum<pc type="punctus"/> ergo iste intellectus est signum sui
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-cwfpxg">
           <note place="margin">Solutio</note>
           Multa
           <lb ed="#C"/> alia possent ad hoc probandum induci<pc type="punctus"/> sed haec ad <choice><orig>praesens</orig><reg>presens</reg></choice>
           <lb ed="#C"/> sufficiant ut credamus intellectum esse signum sui ipsius.
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-lhj8jb">
           <lb ed="#C"/> Unde sicut refert calcidius super <choice><orig>thimeum</orig><reg>thimaeum</reg></choice> platonis<pc type="punctus-elevatus"/>
           pla<lb ed="#C"/>to dicebat animam circulum esse<pc type="punctus"/> ipsa enim <del rend="erasure">est</del> per seipsam
           <lb ed="#C"/> est rediens ad seipsam<pc type="punctus"/> Licet ipsa in hac
@@ -325,7 +325,7 @@
           ul<lb ed="#C"/>la sui mutatione mutabilia facientem<pc type="punctus"/>
           <choice><orig>ni<lb ed="#C"/>chilque</orig><reg>ni<lb ed="#C"/>hilque</reg></choice> patientem<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-0mct3f">
           Licet autem intellectus seipsum non
           <lb ed="#C"/> plene intelligat<pc type="punctus-elevatus"/> seipsum tamen quocumque modo intelligit<pc type="punctus"/>
           <lb ed="#C"/> et non nisi per seipsum<pc type="punctus"/> Cum enim ipse sit species omnium
@@ -368,7 +368,7 @@
           <lb ed="#C"/> nihil est quod quasi contra hoc supra inductum <add place="above-line">est</add> pro
           inconveni<lb ed="#C"/>enti<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-1qpqst">
           Manifestum est enim intellectum non nisi per seipsum
           <lb ed="#C"/> intelligi<pc type="punctus"/> et ipsum sui ipsius esse signum<pc type="punctus"/> Anima enim rationalis
           <lb ed="#C"/> habet in se vim sentiendi et vim intelligendi<pc type="punctus"/>
@@ -431,7 +431,7 @@
           sig<lb ed="#C"/>num et signatum<pc type="punctus-elevatus"/> alia tamen est ratio signi secundum quod signum
           <lb ed="#C"/> alia signati secundum quod signatum<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-4vswnq">
           Ad tertium obiectum
           <lb ed="#C"/> dicamus<pc type="punctus"/> quod re vera voces sunt <choice><orig>note</orig><reg>notae</reg></choice> earum <choice><orig>que</orig><reg>quae</reg></choice> sunt in
           <lb ed="#C"/> anima passionum<pc type="punctus"/> et passiones sunt <choice><orig>note</orig><reg>notae</reg></choice> rerum<pc type="punctus"/>
@@ -447,7 +447,7 @@
           intel<lb ed="#C"/>ligendi instrumentum<pc type="punctus-elevatus"/> eo impossibile est aliud instrumentum intelligendi
           <lb ed="#C"/> esse prius<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-2ozpji">
           Unde cum ipse seipsum sine dubio
           in<lb ed="#C"/>telligat<pc type="punctus-elevatus"/> ipsum per seipsum necesse est intelligi<pc type="punctus"/>
           <lb ed="#C"/> Sed cum idem sit agens et patiens actio et passio<pc type="punctus-elevatus"/>
@@ -460,7 +460,7 @@
           <lb ed="#C"/> et patitur a seipso<pc type="punctus"/> In his ergo non est alietas sive
           <lb ed="#C"/> diversitas secundum rem sed tantum secundum rationem<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-9zv93r">
           Ad
           ulti<lb ed="#C"/>mum dicimus quod licet intellectus sit semper intelligens et sic
           <lb ed="#C"/> semper sit presens <choice><orig>anime</orig><reg>animae</reg></choice><pc type="punctus-elevatus"/> non tamen necesse est ut ipse se
@@ -500,7 +500,7 @@
         </p>
         <!-- From this point, the rest of the text on each folio is surrounded
              by a frame with the note "vacat" marking it as a deletion. -->
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-lx0e8b">
           <del rend="overstrike">
             Ex hiis manifestum est quod cum
             <lb ed="#C"/> dico ego dico falsum<pc type="punctus-elevatus"/> <choice><orig>hec</orig><reg>haec</reg></choice> dictio falsum bene potest construere
@@ -515,7 +515,7 @@
           <lb ed="#C"/> est me dicere falsum<pc type="punctus"/> et prius dictum est quod falsum<pc type="punctus"/> hoc modo et multi<lb ed="#C"/>pliciter
           potest opponi<pc type="punctus"/>
         </p>
-        <p>
+        <p xml:id="goncai342_da-3-d3c6-0szhry">
           Dicimus ad hoc quod nihil prohibet
           <lb ed="#C"/> unum et idem simul et semel esse verum et falsum<pc type="punctus"/> Quia
           <lb ed="#C"/> hominem esse album<pc type="punctus-elevatus"/> est verum pro aliquo<pc type="punctus"/> falsum<pc type="punctus-elevatus"/> pro aliquo<pc type="punctus"/> sed non
@@ -558,7 +558,7 @@
           <lb ed="#C"/> falsorum<pc type="punctus"/> verum autem<pc type="punctus-elevatus"/> gratia istius falsi quod dicitur a me<pc type="punctus"/> et
           <lb ed="#C"/> ita eadem compositio est vera et falsa<pc type="punctus"/>
         </p>
-        <p xml:id="324_3-d3c6-lec8fx">
+        <p xml:id="goncai342_da-3-d3c6-lec8fx">
           Utrum autem eadem de causa
           <note>
             <lb ed="#C"/> Utrum eadem sit causa
@@ -576,7 +576,7 @@
           <choice><orig>inequa<lb ed="#C"/>litatis</orig><reg>inaequa<lb ed="#C"/>litatis</reg></choice> causa <choice><orig>equalitatis</orig><reg>aequalitatis</reg></choice><pc type="punctus-medius"/> et huiusmodi <choice><orig>que</orig><reg>quae</reg></choice> videntur
           inconve<lb ed="#C"/>nientia<pc type="punctus"/>
         </p>
-        <p xml:id="324_3-d3c6-wi176p">
+        <p xml:id="goncai342_da-3-d3c6-wi176p">
           Licet autem ad <choice><orig>presentem</orig><reg>praesentem</reg></choice> tractatum non
           <note><unclear>conclusio</unclear></note>
           pertine<lb ed="#C"/>at huius rei discussio<pc type="punctus-elevatus"/> ne tam <choice><orig>neggligentem</orig><reg>negligentem</reg></choice> vel
@@ -596,7 +596,7 @@
           <lb ed="#C"/> et proprie et causa propinqua<pc type="punctus-elevatus"/> hoc idem est causa veritatis per accidens
           <lb ed="#C"/> et improprie et causa remota <add place="margin-right">non tamen proprie causa sed occasio</add><pc type="punctus"/>
         </p>
-        <p xml:id="324_3-d3c6-nq241n">
+        <p xml:id="goncai342_da-3-d3c6-nq241n">
           Similiter est de hoc sophismate
           <lb ed="#C"/> super initium <choice><orig>predicamentorum</orig><reg>praedicamentory</reg></choice> aristotelis<pc type="punctus"/> <choice><orig>Equivoca</orig><reg>Aequivoca</reg></choice> dicuntur et ceterea<pc type="punctus"/>
           <lb ed="#C"/>Ibi enim dicitur quod aliqua in eo quod sunt <choice><orig>equivoca</orig><reg>aequivoca</reg></choice> sunt univoca<pc type="punctus"/>
@@ -615,7 +615,7 @@
           <lb ed="#C"/> bene iurare et pererare<pc type="punctus"/> Et <unclear>preterea</unclear><pc type="punctus"/> similis autem ratio est de
           <lb ed="#C"/> eo quod est mentiri aliquem et verum dicere<pc type="punctus"/>
         </p>
-        <p xml:id="324_3-d3c6-ynkn7i">
+        <p xml:id="goncai342_da-3-d3c6-ynkn7i">
           Postea
           <lb ed="#C"/> vero docens solvere et respondere ad huiusmodi<pc type="punctus-elevatus"/> dictum<pc type="punctus"/> Prohibet
           <lb ed="#C"/> autem eundem nihil<pc type="punctus-elevatus"/> simpliciter quidem esse mendacem<pc type="punctus"/> quo
@@ -637,7 +637,7 @@
           <lb ed="#C"/> <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio<pc type="punctus"/> iste dicit verum secundum hoc<pc type="punctus"/> ergo iste dicit verum<pc type="punctus"/>
           <lb ed="#C"/> neque <choice><orig>hec</orig><reg>haec</reg></choice><pc type="punctus"/> hoc est verum secundum hoc<pc type="punctus-elevatus"/> ergo hoc est verum<pc type="punctus"/>
         </p>
-        <p xml:id="324_3-d3c6-xygw5c">
+        <p xml:id="goncai342_da-3-d3c6-xygw5c">
           Dato igitur quod
           <lb ed="#C"/> sit simpliciter falsum<pc type="punctus-medius"/> sicut dictum est<pc type="punctus-elevatus"/> obviabitur hoc modo<pc type="punctus"/> hoc
           <lb ed="#C"/> est falsum<pc type="punctus"/> scilicet me dicere falsum<pc type="punctus"/> sed ego dico hoc<pc type="punctus"/> ergo
@@ -654,7 +654,7 @@
           <lb ed="#C"/> quasi <choice><orig>sinodochice</orig><reg>synodochicae</reg></choice> sunt<pc type="punctus"/> Et quod est partis<pc type="punctus-elevatus"/> non debet
           attri<lb ed="#C"/>bui toti<pc type="punctus"/>
         </p>
-        <p xml:id="324_3-d3c6-7j399n">
+        <p xml:id="goncai342_da-3-d3c6-7j399n">
           Sed adhuc obicitur<pc type="punctus"/> Dicitur pro regula
           <note place="margin-left"><lb ed="#C"/>Obiectio</note>
           <lb ed="#C"/> omnis indifinita est vera<pc type="punctus-elevatus"/> cuius aliqua <unclear>particularis</unclear> est vera<pc type="punctus"/> Si autem
@@ -674,7 +674,7 @@
           <lb ed="#C"/> simpliciter autem pererat<pc type="punctus"/>
         </p>
         <!-- Proof read to here -->
-        <p xml:id="324_3-d3c6-bspxe8">
+        <p xml:id="goncai342_da-3-d3c6-bspxe8">
           Solutio<pc type="punctus"/> Secundum <choice><orig>predicta</orig><reg>praedicta</reg></choice>
           mani<lb ed="#C"/>festum est quod pars sumitur in designatione totius<pc type="punctus"/> et
           <lb ed="#C"/> ita in sinodochica est <unclear>locutio</unclear><pc type="punctus"/> et figurativa secundum hoc<pc type="punctus"/> ergo
@@ -721,7 +721,7 @@
           <lb ed="#C"/> est consideratio et impropria<pc type="punctus"/> quia in similitudine sistitur<pc type="punctus-elevatus"/> et
           <lb ed="#C"/> ad id cuius est similitudo non pervenitur<pc type="punctus"/>
         </p>
-        <p xml:id="324_3-d3c6-xux86k">
+        <p xml:id="goncai342_da-3-d3c6-xux86k">
           Quod exempli gratia
           <lb ed="#C"/> declaramus hoc modo<pc type="punctus"/> Statu petri et se ipsa
           <lb ed="#C"/> significat et petrum<pc type="punctus"/> <choice><orig>set</orig><reg>sed</reg></choice> petrum proprie et per se<pc type="punctus"/> se
@@ -793,7 +793,7 @@
           dicti<lb ed="#C"/>onibus non deserviunt<pc type="punctus"/> Intelligendum est enim<pc type="punctus-elevatus"/> principaliter et per se
           <lb ed="#C"/> deserviunt tamen<pc type="punctus-elevatus"/> secundario et secundum quid<pc type="punctus"/> quod est improprie et per accidens<pc type="punctus"/>
         </p>
-        <p xml:id="da-3-d3c6-wtn1xc">
+        <p xml:id="goncai342_da-3-d3c6-wtn1xc">
           <lb ed="#C"/> Adhuc obicitur contra
           <choice><orig>predicta</orig><reg>praedicta</reg></choice><pc type="punctus"/> Ex hoc enim quod <choice><orig>hec</orig><reg>haec</reg></choice> dictio falsum intellectum
           <lb ed="#C"/> constituit de<note>could he have corredted this from pro (which O has) to de?</note> eo cuius est pars<pc type="punctus-elevatus"/> videtur accidere infinitas in
@@ -801,7 +801,7 @@
           <lb ed="#C"/> compositionem<pc type="punctus"/> cum omnis comprehensio infinitatem repudiet et ter<lb ed="#C"/>minum
           requirat in quod quiescat<pc type="punctus"/>
         </p>
-        <p xml:id="da-3-d3c6-q8w6qb">
+        <p xml:id="goncai342_da-3-d3c6-q8w6qb">
           Item<pc type="punctus"/> Cum sicut dictum est <choice><orig>hec</orig><reg>haec</reg></choice> dictio
           <lb ed="#C"/> falsum constituat intellectum de eo cuius est pars in designatione
           <lb ed="#C"/> communem<pc type="punctus-elevatus"/> <choice><orig>queratur</orig><reg>quaeratur</reg></choice><note>meta-mark here, but no marginal note</note> <choice><orig>hec</orig><reg>haec</reg></choice> vox<pc type="punctus"/> a<pc type="punctus"/> in designatione speciali possit
