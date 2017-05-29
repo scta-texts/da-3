@@ -64,9 +64,9 @@
         <head>Capitulum sextum</head>
         <p xml:id="da-3-d3c6-io7s60">
           <note type="marginal-note" place="margin-left">
-            <lb ed="#C"/> Utrum intellectus se ipsum
+            <lb ed="#C"/> Utrum intellectus seipsum
             <lb ed="#C"/> intelligat<pc type="punctus"/> et qualiter idem
-            <lb ed="#C"/> contingat circa signum
+            <lb ed="#C"/> contingat esse signum
             <lb ed="#C"/> sui<pc type="punctus-medius"/> et quid contra hoc et
             <lb ed="#C"/> ad hoc dici
             con<lb ed="#C"/>veniat
@@ -160,7 +160,7 @@
           <lb ed="#C"/> est vox significativa ad placitum<pc type="punctus"/> ergo est nota eius <choice><orig>que</orig><reg>quae</reg></choice>
           <lb ed="#C"/> est in anima passionis<pc type="punctus"/> ergo significat intellectum qui est
           pas<lb ed="#C"/>sio <choice><orig>anime</orig><reg>animae</reg></choice> et sub illa passione concipitur ipse intellectus
-          <lb ed="#C"/> qui est vis <choice><orig>anime</orig><reg>animae</reg></choice> substantialis<pc type="punctus"/> cum passio ipsa sit accidens
+          <lb ed="#C"/> qui est vis <choice><orig>anime</orig><reg>animae</reg></choice> substantialis<pc type="punctus"/> cum passio ipsa sit <choice><unclear>accidens</unclear><unclear>accidentalis</unclear></choice>
           <lb ed="#C"/> ergo hic est dualitas<pc type="punctus"/> et aliud est quod intelligitur<pc type="punctus"/> aliud autem quo
           intelli<lb ed="#C"/>gitur ergo ipse intellectus non intelligitur per seipsum sed per aliud
           <lb ed="#C"/> ergo intellectus non est signum sui<pc type="punctus"/>
@@ -181,8 +181,8 @@
           vide<lb ed="#C"/>tur ipsa res<pc type="punctus"/> Simili modo si intellectus seipsum per seipsum
           intelli<lb ed="#C"/>git cum ipse intellectus sibi ipsi semper sit <choice><orig>presens</orig><reg>praesens</reg></choice> semper
           in<lb ed="#C"/>telligitur ipse intellectus<pc type="punctus"/> sed non contingit simul et semel
-          <lb ed="#C"/> plura intelligi<pc type="punctus"/> ergo si intellectus semper seipsum intelligit<pc type="punctus"/> se
-          <lb ed="#C"/> ipsum solum modo semper intelligit et nihil unquam aliud<pc type="punctus"/>
+          <lb ed="#C"/> plura intelligi<pc type="punctus"/> ergo si intellectus semper seipsum intelligit<pc type="punctus"/> se<lb ed="#C"/>ipsum
+          solum modo semper intelligit et nihil umquam aliud<pc type="punctus"/>
           <lb ed="#C"/> quod patet esse manifeste falsum<pc type="punctus"/> ergo primum est falsum
           <lb ed="#C"/> ex quo hoc sequitur<pc type="punctus"/> scilicet intellectum seipsum per seipsum intelligere
           <lb ed="#C"/> neque igitur intellectus est signum sui neque iudex sui per se<pc type="punctus"/>
@@ -249,7 +249,7 @@
           <lb ed="#C"/> subiecto<pc type="punctus"/> Quod est inconveniens<pc type="punctus"/> <choice><orig>Due</orig><reg>Duae</reg></choice> enim <choice><orig>albedines</orig><reg>albidines</reg></choice> non
           coniun<lb ed="#C"/>guntur simul in eodem subiecto<pc type="punctus"/> <choice><orig>Preterea</orig><reg>Praeterea</reg></choice><pc type="punctus"/> Similitudo et id cuius
           <lb ed="#C"/> est similitudo<pc type="punctus-elevatus"/> numquam sunt in eodem simul<pc type="punctus"/> ut <choice><orig>albedo</orig><reg>albido</reg></choice> et
-          <choice><orig>y<lb ed="#C"/>mago</orig><reg>i<lb ed="#C"/>mago</reg></choice> eius<pc type="punctus"/> <choice><orig>albedo</orig><reg>albido</reg></choice> enim est in subiecto corpore albo quod
+          <choice><orig>y<lb ed="#C"/>mago</orig><reg>i<lb ed="#C"/>mago</reg></choice> eius<pc type="punctus"/> <choice><orig>albedo</orig><reg>albedo</reg></choice> enim est in subiecto corpore albo quod
           <lb ed="#C"/> videtur<pc type="punctus"/> similitudo autem eius<pc type="punctus-elevatus"/> primo in aere lucido
           me<lb ed="#C"/>dio<pc type="punctus"/> deinde in oculo<pc type="punctus"/> Sed si intellectus intelligitur per aliud a
           <lb ed="#C"/> se ipso<pc type="punctus-elevatus"/> cum utrumque sit in anima<pc type="punctus-elevatus"/> erit similitudo et id
@@ -290,7 +290,7 @@
           <lb ed="#C"/> sufficiant ut credamus intellectum esse signum sui ipsius.
         </p>
         <p>
-          <lb ed="#C"/> Unde sicut refert calcidius super thimeum platonis<pc type="punctus-elevatus"/>
+          <lb ed="#C"/> Unde sicut refert calcidius super <choice><orig>thimeum</orig><reg>thimaeum</reg></choice> platonis<pc type="punctus-elevatus"/>
           pla<lb ed="#C"/>to dicebat animam circulum esse<pc type="punctus"/> ipsa enim <del rend="erasure">est</del> per seipsam
           <lb ed="#C"/> est rediens ad seipsam<pc type="punctus"/> Licet ipsa in hac
           morta<lb ed="#C"/>li vita seipsam plene et perfecte non comprehendat<pc type="punctus"/>
@@ -307,7 +307,7 @@
           mi<lb ed="#C"/>rum si ipsum deum cuius est <choice><orig>ymago</orig><reg>imago</reg></choice> non plene
           intel<lb ed="#C"/>ligit<pc type="punctus"/> Unde augustinus de trinitate<pc type="punctus"/> Quo intellectu
           <lb ed="#C"/> homo deum capit qui ipsum suum intellectum quo eum vult
-          <lb ed="#C"/> capere nondum capitur<pc type="punctus-elevatus"/> si autem hunc nondum capit<pc type="punctus-elevatus"/>
+          <lb ed="#C"/> capere nondum capitur<pc type="punctus"/> si autem hunc nondum capit<pc type="punctus-elevatus"/>
           at<lb ed="#C"/>tendat tamen diligenter<pc type="punctus"/> nihil eo esse in sua natura
           <lb ed="#C"/> melius<pc type="punctus"/> et videat utrum ibi videat ulla
           <unclear>line<lb ed="#C"/>amenta</unclear> formarum nitores colorum<pc type="punctus"/> spatiosam
@@ -383,12 +383,12 @@
           <lb ed="#C"/> enim in se est similitudo et exemplum omnium simplicium et
           in<lb ed="#C"/>telligibilium<pc type="punctus-elevatus"/> et omnis <choice><orig>divine</orig><reg>divinae</reg></choice> et intelligibilis <choice><orig>substantie</orig><reg>substantiae</reg></choice><pc type="punctus"/> quoniam ipsa
           <lb ed="#C"/> est <choice><orig>quedam</orig><reg>quaedam</reg></choice> substantia divina simplex et intelligibilis<pc type="punctus"/> non
+          <lb ed="#C"/> autem sensibilis aut corporea<pc type="punctus"/> Instrumenta vero corporea
           <note>
             <lb ed="#C"/> Quod alia est vis et
-            effi<lb ed="#C"/>catia instrumentorum
-            incor<lb ed="#C"/>peorum<pc type="punctus-elevatus"/> alia corporeorum
+            effi<lb ed="#C"/>cacia instrumentorum
+            incor<lb ed="#C"/>poreorum<pc type="punctus-elevatus"/> alia corporeorum
           </note>
-          <lb ed="#C"/> autem sensibilis aut corporea<pc type="punctus"/> Instrumenta vero corporea
           <lb ed="#C"/> huiusmodi privilegium habere non possunt<pc type="punctus"/> Corporea enim
           in<lb ed="#C"/>strumenta tantum rebus corporeis percipiendis et
           ap<lb ed="#C"/>prehendendis deserviunt<pc type="punctus"/> Corporeum enim non agit in
@@ -397,7 +397,7 @@
           <lb ed="#C"/> de sensibus declaratum est<pc type="punctus"/> Corporeum autem non tangit
           <lb ed="#C"/> incorporeum<pc type="punctus"/> neque mediate neque immediate<pc type="punctus"/>
           In<lb ed="#C"/>strumentum autem intelligendi<pc type="punctus-elevatus"/> prae omnibus aliis organis
-          su<lb ed="#C"/>am habet <choice><orig>prerogativam</orig><reg>praerogativam</reg></choice> sibi apropriatam<pc type="punctus-elevatus"/> qua tamen corporea
+          su<lb ed="#C"/>am habet <choice><orig>prerogativam</orig><reg>praerogativam</reg></choice> sibi apropriatam<pc type="punctus-elevatus"/> qua tam corporea
           <lb ed="#C"/> quam incorporea apprehendit<pc type="punctus"/> sed cum aliquid apprehendit
           <lb ed="#C"/> corporeum<pc type="punctus-elevatus"/> per abstractionem et formationem intelligibilem
           <lb ed="#C"/> ex corporeo facit <add place="margin-left">illud</add> incorporeum<pc type="punctus"/> forma enim sive
@@ -480,14 +480,14 @@
           impressio<lb ed="#C"/>num relictarum ex sensu<pc type="punctus"/> Est et operativa sed
           <lb ed="#C"/> licet semper recepta retineat<pc type="punctus-elevatus"/> non tamen semper
           ope<lb ed="#C"/>ratur<pc type="punctus"/> et ideo non semper in actu imaginatur<pc type="punctus"/> Quandoque enim
-          <lb ed="#C"/> retrahitur ab una <choice><orig>ymagine</orig><reg>imaginae</reg></choice> et considerat aliam<pc type="punctus"/> Quandoque
+          <lb ed="#C"/> retrahitur ab una <choice><orig>ymagine</orig><reg>imagine</reg></choice> et considerat aliam<pc type="punctus"/> Quandoque
           <lb ed="#C"/> ab omnibus <choice><orig>ymaginalibus</orig><reg>imaginalibus</reg></choice> formis suspenditur anima
           <lb ed="#C"/> soli intelligibilium rerum inqusitioni et speculationi
           inten<lb ed="#C"/>dens<pc type="punctus"/> sicut superius satis distinctum est capitulo de communi
           <lb ed="#C"/> sensu<pc type="punctus"/> Similiter autem est de intellectu<pc type="punctus"/> Ipse enim <add place="above-line">est</add> vis
           recep<lb ed="#C"/>tiva et retentiva<pc type="punctus"/> et est vis operativa<pc type="punctus"/> In quantum intellectus
-          <lb ed="#C"/> est operativus<pc type="punctus-elevatus"/> tamen operatur circa corporalia et sensibilia
-          abstrac<lb ed="#C"/>ta cum/tum/tamen circa se ipsum et suum principium et res
+          <lb ed="#C"/> est operativus<pc type="punctus-elevatus"/> <unclear>cum</unclear> operatur circa corporalia et sensibilia
+          abstrac<lb ed="#C"/>ta <unclear>tum</unclear> circa se ipsum et suum principium et res
           sim<lb ed="#C"/>plices et incorruptibiles<pc type="punctus"/> Iste autem <choice><orig>operaciones</orig><reg>operationes</reg></choice> sunt
           dis<lb ed="#C"/>sidentes et impedientes se invicem<pc type="punctus"/> Unde cum fiunt anima
           <lb ed="#C"/> occupata circa unum<pc type="punctus-elevatus"/> retrahitur ab alio<pc type="punctus"/> Unde
@@ -502,13 +502,13 @@
              by a frame with the note "vacat" marking it as a deletion. -->
         <p>
           <del rend="overstrike">
-            Ex his manifestum est quod cum
+            Ex hiis manifestum est quod cum
             <lb ed="#C"/> dico ego dico falsum<pc type="punctus-elevatus"/> <choice><orig>hec</orig><reg>haec</reg></choice> dictio falsum bene potest construere
           </del>
           <lb ed="#C"/> intellectum de eo cuius est pars et de quilibet falso<pc type="punctus"/> Quod ut
           me<lb ed="#C"/>lius intelligatur<pc type="punctus-elevatus"/> obiciatur sic<pc type="punctus"/> Cum dico Ego dico
           <lb ed="#C"/> falsum<pc type="punctus-elevatus"/> me dicere falsum<pc type="punctus-medius"/> aut est verum aut falsum<pc type="punctus"/> si verum<pc type="punctus-elevatus"/>
-          <lb ed="#C"/> ergo <choice><orig>hec</orig><reg>haec</reg></choice> dicens falsum non constituit intellectum de ipso<pc type="punctus"/> sed tamen
+          <lb ed="#C"/> ergo <choice><orig>hec</orig><reg>haec</reg></choice> dictio falsum non constituit intellectum de ipso<pc type="punctus"/> sed tamen
           <lb ed="#C"/> de aliis <choice><orig>que</orig><reg>quae</reg></choice> sunt falsa<pc type="punctus"/> nihil autem aliud dicitur a me<pc type="punctus-elevatus"/> ergo falsum est me
           <lb ed="#C"/> dicere falsum<pc type="punctus"/> et prius dictum est quod verum<pc type="punctus"/> si falsum est me
           <lb ed="#C"/> dicere falsum<pc type="punctus-elevatus"/> et hoc dicitur a me<pc type="punctus"/> ergo ego dico falsum<pc type="punctus"/> ego verum
