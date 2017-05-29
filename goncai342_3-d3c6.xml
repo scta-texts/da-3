@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://bitbucket.org/lombardpress/lombardpress-schema/raw/master/LombardPressODD.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -16,7 +16,12 @@
         </edition>
       </editionStmt>
       <publicationStmt>
-        <publisher>Michael</publisher>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives
+            on the Aristotelian Tradition
+          </ref>
+        </authority>
         <availability status="free">
           <p>Published under a <ref target="http://creativecommons.org/licenses/by-nc-nd/3.0/">Creative Commons Attribution-NonCommercial-NoDerivs 3.0 License</ref></p>
         </availability>
@@ -24,26 +29,14 @@
       </publicationStmt>
       <sourceDesc>
         <listWit>
-          <witness xml:id="C" n="cam">Cambridge, Gonville & Gaius, 342/538</witness>
+          <witness xml:id="C" n="cam">Cambridge, Gonville &amp; Gaius, 342/538</witness>
         </listWit>
       </sourceDesc>
     </fileDesc>
-    <revisionDesc status="draft">
-      <listChange>
-        <change when="2016-06-13" who="#" status="draft" n="2016.06">
-          <p>Created file for the first time.</p>
-          <note type="status">
-            <note type="collobaration">Yes</note>
-            <note type="validating-schema">lbp-0.0.1</note>
-            <note type="transcription-type">documentary</note>
-          </note>
-        </change>
-     </listChange>
-    </revisionDesc>
     <encodingDesc>
       <variantEncoding method="parallel-segmentation" location="internal"/>
       <schemaRef n="lbp-diplomatic-1.0.0"
-                 target="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng">
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/diplomatic.rng">
       </schemaRef>
       <editorialDecl>
         <p>
@@ -52,11 +45,18 @@
         </p>
       </editorialDecl>
     </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2016-06-13" who="#" status="draft" n="2016.06">
+          <p>Created file for the first time.</p>
+        </change>
+     </listChange>
+    </revisionDesc>
   </teiHeader>
   <text xml:lang="la" type="diplomatic">
     <front>
       <div xml:id="starts-on">
-        <pb ed="#C" n="134-r" /><cb ed="#C" n="a"/>
+        <pb ed="#C" n="134-v" /><cb ed="#C" n="a"/>
       </div>
     </front>
     <body>
