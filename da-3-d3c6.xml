@@ -184,7 +184,7 @@
           intelligere neque igitur intellectus est signum sui neque iudex sui
           per se
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-p27fzh">
           Quod autem non ita sit sed quod ipse intellectus sit signum et iudex
           sui per se et non per aliud ratione et auctoritate probemus Anima ut
           ait aristoteles potentia est omnia ipsa est enim locus omnium formarum
@@ -202,12 +202,12 @@
           per intellectum intelligit ipsum intellectum et idem per se et sic
           idem est signum et iudex sui
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-l28yln">
           Item Nemo sani intellectus dubitat quin anima suum intellectum
           intelligat hoc enim aristoteles et beatus augustinus et alii viri
           auctentici testantur
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-p9idg6">
           <!-- Tjek lombardus -->
           Unde augustinus super genesim ad litteram libro xii Quo enim alio modo
           intellectus nisi intelligendo conspicitur Et de trinitate libro v
@@ -235,7 +235,7 @@
           et natura repudiat ergo necesse est aliquem intellectum esse signum
           sui
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-fee39d">
           Praeterea Si anima comprehendit suum intellectum per aliud ab ipso
           intellectu illud aliud non est nisi intellectus nihil enim
           intelligimus nisi per intellectum isti duo intellectus sunt diversi in
@@ -250,7 +250,7 @@
           similitudo et id cuius est similitudo simul in eodem hoc autem est
           inconveniens
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-xm4g9s">
           Item Intellectus est similitudo et species omnium intellectorum ut
           dicit aristoteles sed ut idem testatur ipse intellectus potest seipsum
           intelligere ergo ipse intellectus est species et similitudo sui ergo
@@ -258,7 +258,7 @@
           intellectum et quod intelligitur hoc nullatenus contingere posset nisi
           ipse intellectus seipsum per seipsum intelligeret
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-839eu6">
           Item Anima est quaedam divina substantia simplex et impertibilis Deus
           autem et seipsum et omnia alia per seipsum intelligit nihil enim
           potest esse in deo quod non sit deus anima vero in sui simplicitate
@@ -269,7 +269,7 @@
           seipsam aut suum intellectum et utrumvis dicatur sequitur idem esse
           signum sui
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-bwivhg">
           Item Iste terminus homo significat intellectum qui est signum
           cuiuslibet hominis similiter ergo iste terminus intellectus significat
           intellectum qui est signum cuiuslibet intellectus sed intellectus
@@ -277,12 +277,12 @@
           intellectus significatur per istum intellectum ergo iste intellectus
           est signum sui
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-so1dqe">
           <note place="margin">Solutio</note> Multa alia possent ad hoc
           probandum induci sed haec ad presens sufficiant ut credamus
           intellectum esse signum sui ipsius.
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-g0pv59">
           Unde sicut refert calcidius super thimaeum platonis plato dicebat
           animam circulum esse ipsa enim <del rend="erasure">est</del> per
           seipsam est rediens ad seipsam Licet ipsa in hac mortali vita seipsam
@@ -313,7 +313,7 @@
           tempore sempiternum sine ulla sui mutatione mutabilia facientem
           nihilque patientem
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-de9rjw">
           Licet autem intellectus seipsum non plene intelligat seipsum tamen
           quocumque modo intelligit et non nisi per seipsum Cum enim ipse sit
           species omnium intellectorum et ipse seipsum intelligat ipse nimirum
@@ -349,7 +349,7 @@
           est hoc homine secundum quod homo et ita nihil est quod quasi contra
           hoc supra inductum <add place="above-line">est</add> pro inconvenienti
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-kfwosi">
           Manifestum est enim intellectum non nisi per seipsum intelligi et
           ipsum sui ipsius esse signum Anima enim rationalis habet in se vim
           sentiendi et vim intelligendi ipsa tamen in se tantum intelligibilis
@@ -405,7 +405,7 @@
           est ratio signi secundum quod signum alia signati secundum quod
           signatum
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-8ec1aq">
           Ad tertium obiectum dicamus quod re vera voces sunt notae earum quae
           sunt in anima passionum et passiones sunt notae rerum passiones vero
           relictae ex rebus corporeis et sensibilibus diversae sunt ab ipsis
@@ -418,7 +418,7 @@
           sit primum intelligendi instrumentum eo impossibile est aliud
           instrumentum intelligendi esse prius
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-3e99ef">
           Unde cum ipse seipsum sine dubio intelligat ipsum per seipsum necesse
           est intelligi Sed cum idem sit agens et patiens actio et passio haec
           tamen non simpliciter esse dicetur sed secundum accidens Unde id quod
@@ -429,7 +429,7 @@
           seipsum agit in seipsum et patitur a seipso In his ergo non est
           alietas sive diversitas secundum rem sed tantum secundum rationem
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-zvyzg0">
           Ad ultimum dicimus quod licet intellectus sit semper intelligens et
           sic semper sit presens animae non tamen necesse est ut ipse se ipsum
           semper intelligat neque etiam oportet ut simpliciter semper intelligat
@@ -464,7 +464,7 @@
         </p>
         <!-- From this point, the rest of the text on each folio is surrounded
              by a frame with the note "vacat" marking it as a deletion. -->
-        <p>
+        <p xml:id="da-3-d3c6-elka1r">
           <del rend="overstrike">
             Ex hiis manifestum est quod cum dico ego dico falsum haec dictio
             falsum bene potest construere
@@ -478,7 +478,7 @@
           dicitur a me ergo ego dico falsum ego verum est me dicere falsum et
           prius dictum est quod falsum hoc modo et multipliciter potest opponi
         </p>
-        <p>
+        <p xml:id="da-3-d3c6-rb5p6n">
           Dicimus ad hoc quod nihil prohibet unum et idem simul et semel esse
           verum et falsum Quia hominem esse album est verum pro aliquo falsum
           pro aliquo sed non contingit idem secundum idem et pro eodem simul
