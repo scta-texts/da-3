@@ -463,14 +463,14 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
         <p xml:id="goncai342_da-3-d3c6-9zv93r">
           Ad
           ulti<lb ed="#C"/>mum dicimus quod licet intellectus sit semper intelligens et sic
-          <lb ed="#C"/> semper sit presens <choice><orig>anime</orig><reg>animae</reg></choice><pc type="punctus-elevatus"/> non tamen necesse est ut ipse se
+          <lb ed="#C"/> semper sit <choice><orig>presens</orig><reg>praesens</reg></choice> <choice><orig>anime</orig><reg>animae</reg></choice><pc type="punctus-elevatus"/> non tamen necesse est ut ipse se
           <lb ed="#C"/> ipsum semper intelligat<pc type="punctus"/> neque etiam oportet ut simpliciter semper
           <lb ed="#C"/> intelligat<pc type="punctus"/> potest enim esse intellectus<pc type="punctus-elevatus"/> etsi non intelligat
           <lb ed="#C"/> aliquid<pc type="punctus"/> Sicut accidit circa sensum et imaginationem<pc type="punctus"/> In sensu
           <lb ed="#C"/> enim relinquuntur similitudines <choice><orig>que</orig><reg>quae</reg></choice> statim destruuntur
           <lb ed="#C"/> sublatis sensibilibus<pc type="punctus"/> In imaginatione autem rerum
           similitu<lb ed="#C"/>dines imprimuntur<pc type="punctus"/> qui<note>should be quae</note> non statim destruuntur<pc type="punctus"/> sed
-          rema<lb ed="#C"/>nent sublatis sensibilibus<pc type="punctus"/> Que similitudines licet
+          rema<lb ed="#C"/>nent sublatis sensibilibus<pc type="punctus"/> <choice><orig>Que</orig><reg>Quae</reg></choice> similitudines licet
           <lb ed="#C"/> in instrumento imaginationis remaneant<pc type="punctus-elevatus"/> non tamen semper
           <lb ed="#C"/> circa eas considerandas occupatur<pc type="punctus"/> <choice><orig>Hec</orig><reg>Haec</reg></choice> enim vis sicut
           <lb ed="#C"/> in <choice><orig>precedentibus</orig><reg>praecedentibus</reg></choice> dictum est<pc type="punctus-elevatus"/> duplex est<pc type="punctus"/> Est enim
@@ -505,13 +505,13 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
             Ex hiis manifestum est quod cum
             <lb ed="#C"/> dico ego dico falsum<pc type="punctus-elevatus"/> <choice><orig>hec</orig><reg>haec</reg></choice> dictio falsum bene potest construere
           </del>
-          <lb ed="#C"/> intellectum de eo cuius est pars et de quilibet falso<pc type="punctus"/> Quod ut
+          <lb ed="#C"/> intellectum de eo cuius est pars et de quolibet falso<pc type="punctus"/> Quod ut
           me<lb ed="#C"/>lius intelligatur<pc type="punctus-elevatus"/> obiciatur sic<pc type="punctus"/> Cum dico Ego dico
           <lb ed="#C"/> falsum<pc type="punctus-elevatus"/> me dicere falsum<pc type="punctus-medius"/> aut est verum aut falsum<pc type="punctus"/> si verum<pc type="punctus-elevatus"/>
           <lb ed="#C"/> ergo <choice><orig>hec</orig><reg>haec</reg></choice> dictio falsum non constituit intellectum de ipso<pc type="punctus"/> sed tamen
           <lb ed="#C"/> de aliis <choice><orig>que</orig><reg>quae</reg></choice> sunt falsa<pc type="punctus"/> nihil autem aliud dicitur a me<pc type="punctus-elevatus"/> ergo falsum est me
           <lb ed="#C"/> dicere falsum<pc type="punctus"/> et prius dictum est quod verum<pc type="punctus"/> si falsum est me
-          <lb ed="#C"/> dicere falsum<pc type="punctus-elevatus"/> et hoc dicitur a me<pc type="punctus"/> ergo ego dico falsum<pc type="punctus"/> ego verum
+          <lb ed="#C"/> dicere falsum<pc type="punctus-elevatus"/> et hoc dicitur a me<pc type="punctus"/> ergo ego dico falsum<pc type="punctus"/> ergo verum
           <lb ed="#C"/> est me dicere falsum<pc type="punctus"/> et prius dictum est quod falsum<pc type="punctus"/> hoc modo et multi<lb ed="#C"/>pliciter
           potest opponi<pc type="punctus"/>
         </p>
@@ -527,20 +527,20 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
           <lb ed="#C"/> <choice><orig>equalis</orig><reg>aequalis</reg></choice> dispositio intellectuum et rerum<pc type="punctus-elevatus"/> falsitas est<pc type="punctus"/> Veritas
           <lb ed="#C"/> igitur est <choice><orig>quedam</orig><reg>quaedam</reg></choice> <choice><orig>equalitas</orig><reg>aequalitas</reg></choice><pc type="punctus"/> falsitas<pc type="punctus-elevatus"/> <choice><orig>quedam</orig><reg>quaedam</reg></choice> <choice><orig>inequalitas</orig><reg>inaequalitas</reg></choice> sicut
           <lb ed="#C"/> etiam testatur augustinus<pc type="punctus"/> Iste autem <unclear>intellectus/intelligens</unclear> homo communis est ad
-          <lb ed="#C"/> omnem particularem hominem et sive prefigatur pro sorte
+          <lb ed="#C"/> omnem particularem hominem et sive <choice><orig>prefigatur</orig><reg>praefigatur</reg></choice> pro sorte
           <lb ed="#C"/> sive pro platone sive pro quovis alio<pc type="punctus"/> semper eundem significat
           <lb ed="#C"/> intellectum<pc type="punctus"/> Cum igitur dico<pc type="punctus"/> homo est sortes<pc type="punctus"/> hunc terminum communem homo
-          <lb ed="#C"/> possum prefigere pro quocumque hominum <unclear>volv()o</unclear><pc type="punctus"/> Et si <choice><orig>prefigatur</orig><reg>praefigatur</reg></choice>
+          <lb ed="#C"/> possum <choice><orig>prefigere</orig><reg>praefigere</reg></choice> pro quocumque hominum <unclear>volv()o</unclear><pc type="punctus"/> Et si <choice><orig>prefigatur</orig><reg>praefigatur</reg></choice>
           <lb ed="#C"/> <add place="margin-left">pro</add> sorte<pc type="punctus-elevatus"/> sit veritas in compositione<pc type="punctus"/> sicut enim est res ita dicit
           <lb ed="#C"/> intellectus<pc type="punctus"/> et ita est ibi <choice><orig>equalitas</orig><reg>aequalitas</reg></choice> inter intellecum et rem<pc type="punctus"/> si autem
           <lb ed="#C"/> <choice><orig>prefigatur</orig><reg>praefigatur</reg></choice> pro alio a sorte<pc type="punctus-elevatus"/> est in eadem compositione <choice><orig>inequalitas</orig><reg>inaequalitas</reg></choice>
           <lb ed="#C"/> inter intellectus et res<pc type="punctus"/> non enim ita est res sicut dicit intellectus<pc type="punctus"/>
           <lb ed="#C"/> Una igitur et eadem compositio intellectuum simul et semel
           <lb ed="#C"/> potest esse vera et falsa<pc type="punctus"/> sed gratia diversorum<pc type="punctus"/> hoc idem testatur
-          <lb ed="#C"/> aristoteles in topicorum libro de diffinitione versus finem<pc type="punctus"/> ubi ait<pc type="punctus"/>
-          <lb ed="#C"/> Si debeat quis diffinire ad aliquid et in eius diffinitione
+          <lb ed="#C"/> aristoteles in topicorum libro de <choice><orig>diffinitione</orig><reg>definitione</reg></choice> versus finem<pc type="punctus"/> ubi ait<pc type="punctus"/>
+          <lb ed="#C"/> Si debeat quis <choice><orig>diffinire</orig><reg>definire</reg></choice> ad aliquid et in eius <choice><orig>diffinitione</orig><reg>definitione</reg></choice>
           <lb ed="#C"/> non ponitur illud ad quod dicitur sed aliquid plura complectens<pc type="punctus-elevatus"/>
-          <lb ed="#C"/> male diffinivit<pc type="punctus"/> Ut si dixerit medicinam
+          <lb ed="#C"/> male <choice><orig>diffinivit</orig><reg>definivit</reg></choice><pc type="punctus"/> Ut si dixerit medicinam
           dis<cb ed="#C" n="b"/><lb ed="#C"/>ciplinam <unclear>eritis/entis</unclear><pc type="punctus"/> Nam si nullius eorum <choice><orig>que</orig><reg>quae</reg></choice> sunt medicina
           <lb ed="#C"/> est disciplina<pc type="punctus-elevatus"/> palam quoniam totaliter oratio facta est<pc type="punctus"/>
           <lb ed="#C"/> Si autem alicuius est disciplina<pc type="punctus-medius"/> alicuius non<pc type="punctus-elevatus"/> in aliquo mentitur
@@ -598,11 +598,11 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
         </p>
         <p xml:id="goncai342_da-3-d3c6-nq241n">
           Similiter est de hoc sophismate
-          <lb ed="#C"/> super initium <choice><orig>predicamentorum</orig><reg>praedicamentory</reg></choice> aristotelis<pc type="punctus"/> <choice><orig>Equivoca</orig><reg>Aequivoca</reg></choice> dicuntur et ceterea<pc type="punctus"/>
+          <lb ed="#C"/> super initium <choice><orig>predicamentorum</orig><reg>praedicamentorum</reg></choice> aristotelis<pc type="punctus"/> <choice><orig>Equivoca</orig><reg>Aequivoca</reg></choice> dicuntur et ceterea<pc type="punctus"/>
           <lb ed="#C"/>Ibi enim dicitur quod aliqua in eo quod sunt <choice><orig>equivoca</orig><reg>aequivoca</reg></choice> sunt univoca<pc type="punctus"/>
           <lb ed="#C"/> et in eo quod univoca<pc type="punctus-elevatus"/> <choice><orig>equivoca</orig><reg>aequivoca</reg></choice><pc type="punctus-medius"/> ita quod <choice><orig>hec</orig><reg>haec</reg></choice> determinatio in eo
           <lb ed="#C"/> quod communiter teneatur pro causa propinqua et causa <add place="above-line">occasione</add>
-          remo<lb ed="#C"/>ta<pc type="punctus"/> sive pro causa per se et causa per accidens<pc type="punctus"/> Unde hic acciddit
+          remo<lb ed="#C"/>ta<pc type="punctus"/> sive pro causa per se et causa per accidens<pc type="punctus"/> Unde hic <choice><orig>acciddit</orig><reg>accidit</reg></choice>
           <lb ed="#C"/> circularitas causarum<pc type="punctus"/> quod esse non potest in causis propinquiis
           <lb ed="#C"/> et per se<pc type="punctus"/> sed in aliis bene contingit<pc type="punctus"/> Quod autem idem sit
           si<lb ed="#C"/>mul et semel verum et falsum<pc type="punctus-elevatus"/> testatur aristoteles in secundo
@@ -644,7 +644,7 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
           <lb ed="#C"/> ego dico falsum<pc type="punctus"/> ego verum est me dicere falsum<pc type="punctus"/> ergo <choice><orig>sicud</orig><reg>sicut</reg></choice>
           <lb ed="#C"/> falsum applicatur ei simpliciter<pc type="punctus-elevatus"/> ita verum<pc type="punctus"/> ergo sicut est simpliciter
           <lb ed="#C"/> falsum<pc type="punctus-elevatus"/> ita est simpliciter verum<pc type="punctus"/> quod est inconveniens<pc type="punctus"/> Videtur secundum
-          <lb ed="#C"/> scientiam aristotelis<pc type="punctus"/> quod <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio non valet<pc type="punctus"/> hoc est falsum<pc type="punctus"/> et dico
+          <lb ed="#C"/> sententiam aristotelis<pc type="punctus"/> quod <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio non valet<pc type="punctus"/> hoc est falsum<pc type="punctus"/> et dico
           <lb ed="#C"/> hoc<pc type="punctus-elevatus"/> ergo ego dico falsum<pc type="punctus"/> sed debet inferri<pc type="punctus-medius"/> ergo ego dico falsum
           <lb ed="#C"/> secundum hoc<pc type="punctus"/> Similiter <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio non <unclear>valet</unclear><pc type="punctus"/> dico hoc falsum<pc type="punctus"/> ergo dico
           <lb ed="#C"/> falsum<pc type="punctus"/> Quia dicere hoc falsum<pc type="punctus-elevatus"/> est dicere falsum secundum hoc<pc type="punctus"/> Similiter <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio
@@ -777,7 +777,7 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
           <lb ed="#C"/> sit gratia aliorum<pc type="punctus"/> secundum quid autem et improprie gratia sui et ipsius cuius
           <lb ed="#C"/> est pars<pc type="punctus"/> cum secundum hunc respectum<pc type="punctus-elevatus"/> pars <del rend="ovestrike">accipiatur</del> <choice><orig>sinodochice</orig><reg>synecdochice</reg></choice>
           <lb ed="#C"/> accipiatur in designatione sui totius<pc type="punctus"/> hoc est hoc ipsum falsum<pc type="punctus-elevatus"/>
-          <lb ed="#C"/> in designatione <add place="above-line">eius</add> quod est me dicere falsum<pc type="punctus"/> <unclear>Habito</unclear> igitur utens
+          <lb ed="#C"/> in designatione <add place="above-line">eius</add> quod est me dicere falsum<pc type="punctus"/> Merito igitur utens
           ta<lb ed="#C"/>li compositione falsus est simpliciter<pc type="punctus"/> id est gratia illorum pro quibus simpliciter
           <lb ed="#C"/> et proprie sit illa compositio<pc type="punctus"/> Verus autem est non simpliciter sed quoad quid<pc type="punctus"/>
           <lb ed="#C"/> id est gratia ipsius compositionis improprie et per accidens <choice><orig>designate</orig><reg>designatae</reg></choice><pc type="punctus"/> Et
@@ -809,7 +809,7 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
           <lb ed="#C"/> <pc type="punctus"/>a<pc type="punctus"/> esse falsum<pc type="punctus-elevatus"/> dicitur <pc type="punctus"/>a<pc type="punctus"/> aut ergo <pc type="punctus"/>a<pc type="punctus"/> est verum aut est falsum<pc type="punctus"/>
           <lb ed="#C"/> et sequitur manifesta contradictio<pc type="punctus"/> hoc etiam dato<pc type="punctus-elevatus"/> sequitur idem
           <lb ed="#C"/> secundum idem simul et semel esse verum et falsum<pc type="punctus"/> Sequitur etiam idem esse <!-- esse splotched out with ink -->
-          <cb ed="#C" n="a"/>
+          <cb ed="#C" n="b"/>
           <lb ed="#C"/> totum et partem respectu unius et eiusdem scilicet sui ipsius<pc type="punctus"/> Quoniam iste
           <lb ed="#C"/> intellectus <pc type="punctus"/>a<pc type="punctus"/> est iste <pc type="punctus"/>a<pc type="punctus"/> esse falsum<pc type="punctus"/> sed a<pc type="punctus"/> esse falsum<pc type="punctus-elevatus"/> est totum
           <lb ed="#C"/> ad <pc type="punctus"/>a<pc type="punctus"/> ergo <pc type="punctus"/>a<pc type="punctus"/> est pars <pc type="punctus"/>a<pc type="punctus"/> et totum ad <pc type="punctus"/>a<pc type="punctus"/> ergo unum et
