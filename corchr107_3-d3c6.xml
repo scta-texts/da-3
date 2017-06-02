@@ -560,7 +560,7 @@
         <p xml:id="corchr107_da-3-d3c6-xygw5c">
           Dato igitur quod sit simpliciter falsum<pc type="punctus"/>
           <lb ed="#O"/> sicut dictum est obviabitur hoc modo<pc type="punctus"/> hoc est falsum<pc type="punctus-elevatus"/> scilicet me dicere
-          <lb ed="#O"/> falsum<pc type="punctus"/> sed ego dico hoc<pc type="punctus"/> ergo ego dico falsum<pc type="punctus"/> ego verum est me dicere
+          <lb ed="#O"/> falsum<pc type="punctus"/> sed ego dico hoc<pc type="punctus"/> ergo ego dico falsum<pc type="punctus"/> ergo verum est me dicere
           <lb ed="#O"/> falsum<pc type="punctus"/> ergo sicut falsum applicatur ei simpliciter ita verum<pc type="punctus"/> ergo <choice><orig>sicud</orig><reg>sicut</reg></choice>
           <lb ed="#O"/> ergo simpliciter falsum<pc type="punctus-elevatus"/> ita est simpliciter verum<pc type="punctus"/> quod est inconveniens<pc type="punctus"/> Videtur
           <lb ed="#O"/> secundum sententiam aristotelis<pc type="punctus"/> quod <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio non valet<pc type="punctus"/> hoc est falsum<pc type="punctus"/> et dico hoc<pc type="punctus-elevatus"/> ergo
@@ -574,7 +574,7 @@
         </p>
         <p xml:id="corchr107_da-3-d3c6-7j399n">
           sed adhuc obicitur<pc type="punctus"/> dicitur pro regula<pc type="punctus"/> omnis indifi<lb ed="#O"/>nita
-          est vera<pc type="punctus-elevatus"/> cuius aliqua <unclear>particularis</unclear> est vera<pc type="punctus"/> si autem fuerit aliqua singularis
+          est vera<pc type="punctus-elevatus"/> cuius aliqua particularis est vera<pc type="punctus"/> si autem fuerit aliqua singularis
           <lb ed="#O"/> falsa<pc type="punctus"/> vel etiam <choice><orig>multe</orig><reg>multae</reg></choice> singulares <unclear>false</unclear> non ideo sequitur defini<lb ed="#O"/>tam
           esse falsam unica enim particularis vera<pc type="punctus"/> verificat indefinitam<pc type="punctus"/>
           <lb ed="#O"/> Sed non unica falsificat eam nisi forte secundum accidens<pc type="punctus-elevatus"/> sed cum ego
@@ -752,7 +752,7 @@
           <lb ed="#O"/> discrete <pc type="punctus"/>a<pc type="punctus"/> esse falsum<pc type="punctus-elevatus"/> sequitur idem respectu eiusdem esse verum et falsum<pc type="punctus"/> et
           <lb ed="#O"/> alia huiusmodi sequuntur impossibilia<pc type="punctus"/> impossibile autem est quo ponito sequitur
           <lb ed="#O"/> impossibile<pc type="punctus"/> <choice><orig>hec</orig><reg>haec</reg></choice> et huiusmodi inconvenientia nonquam eveniunt in terminis communibus<pc type="punctus"/>
-          <lb ed="#O"/> Alia multa possunt circa <choice><orig>hec</orig><reg>haec</reg></choice> inquiri et dubitari<pc type="punctus"/> quibus ad presens
+          <lb ed="#O"/> Alia multa possunt circa <choice><orig>hec</orig><reg>haec</reg></choice> inquiri et dubitari<pc type="punctus"/> quibus ad <choice><orig>presens</orig><reg>praesens</reg></choice>
           <lb ed="#O"/> supersedemus ut ad principale propositum festinemus<pc type="punctus"/>
         </p>
       </div>

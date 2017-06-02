@@ -641,7 +641,7 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
           Dato igitur quod
           <lb ed="#C"/> sit simpliciter falsum<pc type="punctus-medius"/> sicut dictum est<pc type="punctus-elevatus"/> obviabitur hoc modo<pc type="punctus"/> hoc
           <lb ed="#C"/> est falsum<pc type="punctus"/> scilicet me dicere falsum<pc type="punctus"/> sed ego dico hoc<pc type="punctus"/> ergo
-          <lb ed="#C"/> ego dico falsum<pc type="punctus"/> ego verum est me dicere falsum<pc type="punctus"/> ergo <choice><orig>sicud</orig><reg>sicut</reg></choice>
+          <lb ed="#C"/> ego dico falsum<pc type="punctus"/> ergo verum est me dicere falsum<pc type="punctus"/> ergo <choice><orig>sicud</orig><reg>sicut</reg></choice>
           <lb ed="#C"/> falsum applicatur ei simpliciter<pc type="punctus-elevatus"/> ita verum<pc type="punctus"/> ergo sicut est simpliciter
           <lb ed="#C"/> falsum<pc type="punctus-elevatus"/> ita est simpliciter verum<pc type="punctus"/> quod est inconveniens<pc type="punctus"/> Videtur secundum
           <lb ed="#C"/> sententiam aristotelis<pc type="punctus"/> quod <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio non valet<pc type="punctus"/> hoc est falsum<pc type="punctus"/> et dico
@@ -854,7 +854,7 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
           <lb ed="#C"/> falsum<pc type="punctus"/> sequitur idem respectu eiusdem esse verum et falsum<pc type="punctus"/> et alia huiusmodi sequuntur
           <lb ed="#C"/> impossibilia<pc type="punctus"/> impossibile autem est<pc type="punctus-elevatus"/> quo ponito sequitur impossibile<pc type="punctus"/> <choice><orig>hec</orig><reg>haec</reg></choice> et huiusmodi
           inconveni<lb ed="#C"/>entia nonquam eveniunt in terminis communibus<pc type="punctus"/> Alia multa
-          <lb ed="#C"/> possunt circa <choice><orig>hec</orig><reg>haec</reg></choice> inquiri et dubitari<pc type="punctus-medius"/> quibus ad presens
+          <lb ed="#C"/> possunt circa <choice><orig>hec</orig><reg>haec</reg></choice> inquiri et dubitari<pc type="punctus-medius"/> quibus ad <choice><orig>presens</orig><reg>praesens</reg></choice>
           <lb ed="#C"/> supersedemus ut ad principale propositum
           festi<lb ed="#C"/>nemus<pc type="punctus"/>
         </p>
