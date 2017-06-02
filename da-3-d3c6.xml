@@ -1647,26 +1647,46 @@
             <lem wit="#C" type="correction-addition">
               <add place="margin-below">
                 Unde
+                <ref corresp="#da-3-d3c6-quote-4dmsup">
+                  <name ref="#Basilius">Basilius</name>
+                </ref>
+                magnus theologus ait
                 <cit>
-                  <ref>
-                    <name ref="#Basilius">Basilius</name>
-                  </ref>
-                  <bibl>???</bibl>
+                  <quote xml:id="da-3-d3c6-quote-4dmsup">Imaginis honor ad
+                  <app>
+                    <lem>prototypum</lem>
+                    <rdg wit="#O" type="correction-substitution">
+                      <subst>
+                        <add>prototypum</add>
+                        <del>protototypum</del>
+                      </subst>
+                    </rdg>
+                  </app>
+                  pervenit, id est ad id ad cuius similitudinem facta est.
+                  </quote>
+                  <bibl>
+                    <name ref="#BasiliusCaesariensis">Basil. Caes.</name>
+                    <title ref="#BasiliusCaesariensis_DeSpirituSancto">De spirit.
+                    sanct.</title>
+                    cap. 18, n. 45.
+                  </bibl>
+                  <note>Cf.
+                  <name ref="#JohnDamascenus">John. Damasc.</name>
+                  <title ref="#JohnDamascenus_DeFideOrthodoxa">De Fid.
+                  Orth.</title>
+                  lib. IV, cap. 16.
+                  </note>
                 </cit>
-                magnus theologus ait <quote>Imaginis honor ad <subst><del
-                rend="expunctuation">protototypuum</del><add>prototypuum</add></subst>
-                pervenit, id est ad id ad cuius similitudinem facta est.
                 Prototypus enim est exemplar ad cuius imitatione sit aliquid, ut
-                Petrus est prototypus ad imaginem quem repraesentat Petrus. Si
-                autem ponat statua et cetera.</quote>
+                Petrus est prototypus ad imaginem quem repraesentat Petrus.
               </add>
             </lem>
             <rdg wit="#O" type="variation-absent"/>
           </app>
           Si autem ponatur statua quasi res et non quasi rei
           <app>
-            <lem wit="#C"><unclear reason="damage">signum</unclear></lem>
-            <rdg wit="#O">signum</rdg>
+            <lem wit="#O">signum</lem>
+            <rdg wit="#C"><unclear reason="damage">signum</unclear></rdg>
           </app>
           , hoc est sicut lapis aut lignum, nihil in ea ulterius <pb ed="#C"
           n="137-r"/><cb ed="#C" n="a"/> attendendo nisi seipsam, tunc quidem

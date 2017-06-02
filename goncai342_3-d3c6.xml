@@ -738,10 +738,13 @@ a-3-d3c6-          Item<pc type="punctus"/> Iste terminus homo significat intell
           <lb ed="#C"/> ecclesiis<pc type="punctus"/>
           <add place="margin-below">
             <lb ed="#C"/> Unde basilius magnus theologus ait<pc type="punctus"/> Ymaginis honor ad
-            <lb ed="#C"/> <subst><del rend="expunctuation">prothototypuum</del><add>prothotypuum</add></subst> pervenit id est ad id ad cuius similitudinem facta est<pc type="punctus"/>
+            <lb ed="#C"/> <subst><del rend="expunctuation">prothototypum</del><add>prothotypum</add></subst> pervenit id est ad id ad cuius similitudinem facta est<pc type="punctus"/>
             <lb ed="#C"/> prothotypus enim est exemplar ad cuius <unclear>imitatione</unclear> sit aliquid<pc type="punctus"/> ut
             pe<lb ed="#C"/>trus est prothotypus ad imaginem quem representat petrus<pc type="punctus"/> Si autem
-            <lb ed="#C"/> ponat statua<pc type="punctus"/> et cetera<pc type="punctus"/>
+            <lb ed="#C"/> ponatur statua<pc type="punctus"/> et cetera<pc type="punctus"/>
+            <!-- Note that the final "Si autem ponatur statua et cetera" is only
+                 to show where in the text it fits. It is already in the text,
+                 and should not occur twice. -->
           </add>
           Si autem ponatur statua quasi res et non quasi rei <unclear reason="damage">signum</unclear> hoc est sicut lapis aut lignum<pc type="punctus-medius"/> nihil in ea ulterius
           <pb ed="#C" n="137-r"/><cb ed="#C" n="a"/>
