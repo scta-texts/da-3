@@ -611,8 +611,10 @@
             </bibl>
           </cit>
           , licet ipsa in hac mortali vita seipsam plene et perfecte non
-          comprehendat (nihil enim a nobis plene scitur et perfecte). Unde
-          Socrates dicebat
+          comprehendat (nihil enim a nobis plene scitur et perfecte).
+        </p>
+        <p xml:id="da-3-d3c6-9exvkn">
+          Unde Socrates dicebat
           <cit>
             <quote>hoc solum scio me nihil scire</quote>
             <bibl>
@@ -636,13 +638,16 @@
             <rdg wit="#O">illud</rdg>
           </app>
           a quo incohavit, et ideo est sicut circulus in quo utique idem est
-          principium et finis. Unde etiam
+          principium et finis.
+        </p>
+        <p xml:id="da-3-d3c6-t26lt0">
+          Unde etiam
+          <ref>
+            <name ref="#Avicenna">Avicennes</name>
+            <title ref="#Avic.InDA">Super Librum de anima</title>
+          </ref>
+          dicit quod
           <cit>
-            <ref>
-              <name ref="#Avicenna">Avicennes</name>
-              super librum de anima
-            </ref>
-            dicit quod
             <quote>
               anima intelligit seipsam et hoc facit eam intelligere se esse
               intelligentem et rem intellectam.
@@ -651,11 +656,14 @@
           </cit>
           Unde anima et seipsam et suum intellectum intelligit, etsi non plene et
           perfecte, unde nihil mirum si ipsum Deum cuius est imago non plene
-          intelligit. Unde
+          intelligit.
+        </p>
+        <p xml:id="da-3-d3c6-1m11tl">
+          Unde
           <cit>
             <ref>
               <name ref="#Augustine">Augustinus</name>
-              <title ref="#Aug.Trin">De trinitate</title>
+              <title ref="#Aug.Trin">De trinitate</title>:
             </ref>
             <!-- Really long Augustine quote! -->
             <quote>
