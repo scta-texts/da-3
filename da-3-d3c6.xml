@@ -158,9 +158,9 @@
           propono falsum</quote>, dicunt <quote>nihil proponis</quote>, et haec
           est sententia cassationis et causa eius; sed cuilibet consideranti
           constat quod huic voci <mentioned>ego dico falsum</mentioned> aliquis
-          subest intellectus, ergo iste terminus falsum non constituit
-          intellectum de eo cuius est pars, ergo non est signum sui et ita de
-          omnibus aliis.
+          subest intellectus, ergo iste terminus <cb ed="#O" n="b"/> falsum non
+          constituit intellectum de eo cuius est pars, ergo non est signum sui
+          et ita de omnibus aliis.
         </p>
         <!-- Paul Spade. Om løgneren. -->
         <p xml:id="da-3-d3c6-l5c348">
@@ -644,7 +644,7 @@
           principium et finis.
         </p>
         <p xml:id="da-3-d3c6-t26lt0">
-          Unde etiam
+          Unde etiam <cb ed="#O" n="b"/>
           <ref>
             <name ref="#Avicenna">Avicennes</name>
             <title ref="#Avic.InDA">Super Librum de anima</title>
@@ -946,10 +946,11 @@
         <p xml:id="da-3-d3c6-zvyzg0">
           Ad ultimum dicimus quod licet intellectus sit semper intelligens et
           sic semper sit praesens animae, non tamen necesse est ut ipse seipsum
-          semper intelligat, neque etiam oportet ut simpliciter semper intelligat.
-          Potest enim esse intellectus etsi non intelligat aliquid, sicut accidit
-          circa sensum et imaginationem; in sensu enim relinquuntur similitudines
-          quae statim destruuntur sublatis sensibilibus, in
+          <cb ed="#O" n="b"/> semper intelligat, neque etiam oportet ut
+          simpliciter semper intelligat. Potest enim esse intellectus etsi non
+          intelligat aliquid, sicut accidit circa sensum et imaginationem; in
+          sensu enim relinquuntur similitudines quae statim destruuntur sublatis
+          sensibilibus, in
           <app>
             <lem wit="#C">imaginatione</lem>
             <rdg wit="#O">imaginationes</rdg>
@@ -1380,18 +1381,17 @@
           et secundum quid verus</mentioned>; ergo non valet haec argumentatio
           <mentioned>iste est verus secundum hoc, ergo iste est
           verus</mentioned>, similiter, <mentioned>iste dicit verum secundum
-          hoc, ergo dicit verum</mentioned>, fallit enim argumentatio a
-          praedicatione determinata ad praedicationem simplicem. Cum ergo dicit
-          aliquis <quote>ego dico falsum</quote>, debes respondere
-          <quote>simpliciter falsum est</quote>, et non debes dicere
-          <quote>verum est simpliciter</quote>, sed <quote>verum est
-          secundum quid</quote>, id est secundum hoc quod dico esse
-          simpliciter falsum est; unde sicut non valet haec argumentatio
-          <mentioned>iste bene iura secundum hoc, ergo iste bene
-          iurat</mentioned>, ita non valet haec argumentatio <mentioned>iste
-          dicit verum secundum hoc, ergo iste dicit verum</mentioned>, neque
-          haec <mentioned>hoc est verum secundum hoc, ergo hoc est
-          verum</mentioned>.
+          hoc, ergo dicit <cb ed="#O" n="b"/> verum</mentioned>, fallit enim
+          argumentatio a praedicatione determinata ad praedicationem simplicem.
+          Cum ergo dicit aliquis <quote>ego dico falsum</quote>, debes
+          respondere <quote>simpliciter falsum est</quote>, et non debes dicere
+          <quote>verum est simpliciter</quote>, sed <quote>verum est secundum
+          quid</quote>, id est secundum hoc quod dico esse simpliciter falsum
+          est; unde sicut non valet haec argumentatio <mentioned>iste bene iura
+          secundum hoc, ergo iste bene iurat</mentioned>, ita non valet haec
+          argumentatio <mentioned>iste dicit verum secundum hoc, ergo iste dicit
+          verum</mentioned>, neque haec <mentioned>hoc est verum secundum hoc,
+          ergo hoc est verum</mentioned>.
         </p>
         <p xml:id="da-3-d3c6-xygw5c">
           Dato igitur quod sit simpliciter falsum, sicut dictum est, obviabitur
@@ -1787,10 +1787,10 @@
             </rdg>
             <rdg wit="#O">eius</rdg>
           </app>
-          quod est <mentioned>me dicere falsum</mentioned>; merito
-          igitur utens tali compositione falsus est simpliciter, id est gratia
-          illorum pro quibus simpliciter et proprie sit illa compositio, verus
-          autem est non simpliciter sed quoad quid, id est gratia ipsius
+          quod est <mentioned>me dicere falsum</mentioned>; merito igitur utens
+          tali compositione <cb ed="#O" n="b"/> falsus est simpliciter, id est
+          gratia illorum pro quibus simpliciter et proprie sit illa compositio,
+          verus autem est non simpliciter sed quoad quid, id est gratia ipsius
           compositionis improprie et per accidens designatae. Et hoc est quod
           dicit
           <cit>
@@ -1935,9 +1935,10 @@
             <rdg wit="#O">complexi</rdg>
           </app>
           , et sic patet quod hic neque infinitas accidit neque circulatio.
-          Secus est de terminis dissertis. Licet enim
-          concedamus quod terminus communis in communi possit signare id cuius
-          est pars, non tamen illud generaliter admittimus in terminis dissertis
+          Secus est de terminis dissertis. Licet enim concedamus quod terminus
+          communis in communi possit signare id cuius est pars, non tamen illud
+          generaliter <pb ed="#O" n="94-v"/><cb ed="#O" n="a"/> admittimus in
+          terminis dissertis
           <app>
             <lem wit="#C">discrete</lem>
             <rdg wit="#O"><unclear>discrete</unclear></rdg>
