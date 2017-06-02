@@ -611,8 +611,21 @@
             </bibl>
           </cit>
           , licet ipsa in hac mortali vita seipsam plene et perfecte non
-          comprehendat (nihil enim a nobis plene scitur et perfecte), unde
-          socrates dicebat <quote>hoc solum scio me nihil scire</quote>; ipsa
+          comprehendat (nihil enim a nobis plene scitur et perfecte). Unde
+          Socrates dicebat
+          <cit>
+            <quote>hoc solum scio me nihil scire</quote>
+            <bibl>
+              <name ref="#Cicero">Cic.</name>
+              <title ref="#Cic.Acad">Acad.</title>
+              I 16.
+            </bibl>
+            <note>
+              Cf. <name ref="#Plato">Pl.</name> <title ref="#Pl.Apol">Apol.</title>
+              29b.
+            </note>
+          </cit>
+          ; ipsa
           tamen seipsam in suo intellectu comprehendit, et in comprehendendo
           seipsam finis est et principium suae comprehensionis et redit super
           <app>
