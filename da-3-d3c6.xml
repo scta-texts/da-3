@@ -73,7 +73,7 @@
         <change when="2017-05-29" status="draft">
           <p>Created file for the first time.</p>
         </change>
-     </listChange>
+      </listChange>
     </revisionDesc>
   </teiHeader>
   <text xml:lang="la" type="critical">
@@ -109,7 +109,7 @@
           baculus percutitur nec oculus videtur
           <app>
             <!-- Change added after copy of O -->
-            <lem wit="#C"><add place="margin-left">a se ipso</add></lem>
+            <lem wit="#C" type="correction-addition"><add place="margin-left">a se ipso</add></lem>
             <rdg wit="#O" type="variation-absent"/>
           </app>
           ; nullus enim sensus potest esse iudex sui, sicut declaratum est
@@ -147,10 +147,10 @@
           significatur
           <app>
             <!-- Correction read by O. -->
-            <lem wit="#C" type="correction-addition">
+            <lem wit="#O">hac</lem>
+            <rdg wit="#C" type="correction-addition">
               <add place="above">hac</add>
-            </lem>
-            <rdg wit="#O">hac</rdg>
+            </rdg>
           </app>
           propositione <mentioned>ego dico falsum</mentioned>, ergo nihil est
           quod ea significatur, et haec est causa quare quidam ad talia
@@ -171,10 +171,10 @@
           intellectivi, alia
           <app>
             <!-- Correction read by O. -->
-            <lem wit="#C" type="correction-addition">
-              <add place="above-line">enim</add>
-            </lem>
-            <rdg wit="#O">enim</rdg>
+            <lem wit="#O">enim</lem>
+            <rdg wit="#C" type="correction-addition">
+              <add place="above">enim</add>
+            </rdg>
           </app>
           est impressio facta in anima quam rectum quod est in materia, ergo in
           apprehensione
@@ -262,7 +262,7 @@
           <app>
             <lem wit="#C">de</lem>
             <rdg wit="#O" type="correction-substitution">
-               <subst>
+              <subst>
                 <add>de</add>
                 <del>dei</del>
               </subst>
@@ -276,10 +276,10 @@
           semper sit praesens, ipse in videndo semper seipsum videret, et sic
           omnis videns semper et continue suum videret oculum, dum enim praesens
           <app>
-            <lem wit="#C" type="correction-addition">
+            <lem wit="#O">est</lem>
+            <rdg wit="#C" type="correction-addition">
               <add place="above-line">est</add>
-            </lem>
-            <rdg wit="#O">est</rdg>
+            </rdg>
           </app>
           id quo videtur res, praesentialiter etiam videtur ipsa res; simili
           modo si intellectus seipsum per seipsum intelligit, cum ipse
@@ -382,7 +382,7 @@
               libro
               <app>
                 <lem n="libro" />
-                <rdg wit="#O"><unclear>X</unclear></rdg>
+                <rdg wit="#O" type="variation-present"><unclear>X</unclear></rdg>
               </app>
               XII:
             </ref>
@@ -454,10 +454,10 @@
           , si utrumque intelligitur per reliquum, ergo ibi
           <app>
             <!-- Change added before O copied -->
-            <lem wit="#C">
-              <add place="above-line">est</add>
-            </lem>
-            <rdg wit="#O">est</rdg>
+            <lem wit="#O">est</lem>
+            <rdg wit="#C" type="correction-addition">
+              <add place="above">est</add>
+            </rdg>
           </app>
           circularis intellectio, et talis nulla est; si autem illud secundum
           intelligitur per aliud a primo, iterum illud aliud quod iam est
@@ -635,10 +635,10 @@
           seipsam finis est et principium suae comprehensionis et redit super
           <app>
             <!-- Correction before copy of O -->
-            <lem wit="#C" type="correction-addition">
+            <lem wit="#O">illud</lem>
+            <rdg wit="#C" type="correction-addition">
               <add place="above-line">illud</add>
-            </lem>
-            <rdg wit="#O">illud</rdg>
+            </rdg>
           </app>
           a quo incohavit, et ideo est sicut circulus in quo utique idem est
           principium et finis.
@@ -683,7 +683,7 @@
               </app>
               tamen diligenter, nihil eo
               <app>
-                <lem wit="#C" n="eo" />
+                <lem n="eo" />
                 <rdg wit="#O" type="correction-deletion"><del>sive</del></rdg>
               </app>
               esse in sua natura melius, et videat utrum ibi videat ulla lineamenta
@@ -703,11 +703,10 @@
               </app>
               huiusmodi; nihil certe istorum invenimus in eo quo in natura
               <app>
-                <lem>nostra</lem>
+                <lem wit="#O">nostra</lem>
                 <rdg wit="#C" type="correction-addition">
                   <add place="right-margin">nostra</add>
                 </rdg>
-                <rdg wit="#O">nostra</rdg>
               </app>
               nihil melius invenimus, id est in nostro intellectu quo sapientiam
               capimus quanto capaces sumus; quod ergo non invenimus in meliore
@@ -757,17 +756,16 @@
           quae videntur esse diversa, idem tamen esse in subiecto
           <app>
             <!-- Correction before copy of O -->
-            <lem>et in substantia</lem>
+            <lem wit="#O">et in substantia</lem>
             <rdg wit="#C" type="variation-addition">
               <add place="margin-left">et in substantia</add>
             </rdg>
-            <rdg wit="#O">et in substantia</rdg>
           </app>
           , diversa vero tamen in ratione; grammaticum enim et musicum idem est
           in subiecto et substantia, alia tamen est ratio grammatici alia
           musici; idemque et unum est materia et privatio, sed ratione diversa,
           <app>
-            <lem>
+            <lem wit="#O">
               et secundum diversas rationes diversas sortitur denominationes
               diversosque effectus
             </lem>
@@ -776,10 +774,6 @@
                 et secundum diversas rationes diversas sortitur denominationes
                 diversosque effectus
               </add>
-            </rdg>
-            <rdg wit="#O">
-              et secundum diversas rationes diversas sortitur denominationes
-              diversosque effectus
             </rdg>
           </app>
           , et secundum ratione
@@ -796,21 +790,19 @@
           signatum; sicut etiam idem est hoc animal et iste homo, et tamen
           <app>
             <!-- Correction before copy of O -->
-            <lem>hoc</lem>
+            <lem wit="#O">hoc</lem>
             <rdg wit="#C" type="correction-addition">
               <add place="margin-left">hoc</add>
             </rdg>
-            <rdg wit="#O">hoc</rdg>
           </app>
           animal secundum quod animal prius est hoc homine secundum quod homo, et
           ita nihil est quod quasi contra hoc supra inductum
           <app>
             <!-- Correction before copy of O -->
-            <lem>est</lem>
+            <lem wit="#O">est</lem>
             <rdg wit="#C" type="correction-addition">
               <add place="above-line">est</add>
             </rdg>
-            <rdg wit="#O">est</rdg>
           </app>
           pro inconvenienti.
         </p>
@@ -848,11 +840,10 @@
           aliquid apprehendit corporeum per abstractionem et formationem
           intelligibilem ex corporeo, facit
           <app>
-            <lem>illud</lem>
+            <lem wit="#O">illud</lem>
             <rdg wit="#C" type="correction-addition">
               <add place="margin-left">illud</add>
             </rdg>
-            <rdg wit="#O">illud</rdg>
           </app>
           incorporeum, forma
           <app>
@@ -919,7 +910,7 @@
             <!-- O probably just overlooked the word (like he does sometimes)
                  and then added it. -->
             <lem wit="#C">ipse</lem>
-            <rdg wit="#O">
+            <rdg wit="#O" type="correction-addition">
               <add place="margin-left">ipse</add>
             </rdg>
           </app>
@@ -958,7 +949,7 @@
           autem rerum similitudines imprimuntur
           <app>
             <!-- Shared error from C -->
-            <lem type="conjecture-correction">quae</lem>
+            <lem type="conjecture-corrected"><corr>quae</corr></lem>
             <rdg wit="#C #O">qui</rdg>
           </app>
           non statim destruuntur sed remanent sublatis sensibilibus, quae
@@ -989,11 +980,10 @@
           est capitulo de communi sensu; similiter autem est de
           intellectu, ipse enim
           <app>
-            <lem>est</lem>
+            <lem wit="#O">est</lem>
             <rdg wit="#C" type="correction-addition">
-              <add place="above-line">est</add>
+              <add place="above">est</add>
             </rdg>
-            <rdg wit="#O">est</rdg>
           </app>
           vis receptiva
           <app>
@@ -1027,11 +1017,10 @@
           aliis ipsa convertitur ad se et seipsam per seipsam considerat; licet
           ergo intellectus semper sit sibi praesens, non tamen seipsum
           <app>
-            <lem>semper</lem>
+            <lem wit="#O">semper</lem>
             <rdg wit="#C" type="correction-addition">
               <add place="right-margin">semper</add>
             </rdg>
-            <rdg wit="#O">semper</rdg>
           </app>
           intelligit, semper enim sibi praesens est per essentiam sed non semper
           per considerationem.
@@ -1110,11 +1099,10 @@
           <unclear>volv()o</unclear>, et si praefigatur
           <app>
             <!-- Correction after copy of O ancestor. -->
-            <lem>pro</lem>
+            <lem wit="#O">pro</lem>
             <rdg wit="#C" type="correction-addition">
               <add place="margin-left">pro</add>
             </rdg>
-            <rdg wit="#O">pro</rdg>
           </app>
           Sorte, sit veritas in compositione, sicut enim est res ita dicit
           intellectus, et ita est ibi aequalitas inter intellecum et rem; si autem
@@ -1231,13 +1219,11 @@
           causa propinqua hoc idem est causa veritatis per accidens et
           improprie, et causa remota
           <app>
-            <lem>
-              non tamen proprie causa sed occasio
+            <lem wit="#C" type="correction-addition">
+              <add place="margin-right">
+                non tamen proprie causa sed occasio
+              </add>
             </lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="margin-right">non tamen proprie causa sed
-              occasio</add>
-            </rdg>
             <rdg wit="#O" type="variation-absent"/>
           </app>
           .
@@ -1354,11 +1340,10 @@
           verus, sed debet
           <app>
             <!-- Correction before copy of O ancestor -->
-            <lem>dici</lem>
+            <lem wit="#O">dici</lem>
             <rdg wit="#C" type="correction-addition">
               <add place="above-line">dici</add>
             </rdg>
-            <rdg wit="#O">dici</rdg>
           </app>
           <app>
             <lem wit="#C">falsus sine</lem>
@@ -1367,11 +1352,10 @@
           determinatione, verus autem non nisi cum determinatione aliqua, et hoc
           <app>
             <!-- Correction before coyp of O ancestor -->
-            <lem>est</lem>
+            <lem wit="#O">est</lem>
             <rdg wit="#C" type="correction-addition">
-              <add place="above-line">est</add>
+              <add place="above">est</add>
             </rdg>
-            <rdg wit="#O">est</rdg>
           </app>
           quod dicit <mentioned>simpliciter
           <app>
@@ -1411,9 +1395,8 @@
           <mentioned>ergo ego dico falsum secundum hoc</mentioned>. Similiter
           haec argumentatio non
           <app>
-            <lem>valet</lem>
+            <lem wit="#O">valet</lem>
             <rdg wit="#C"><unclear>valet</unclear></rdg>
-            <rdg wit="#O">valet</rdg>
           </app>
           <mentioned>dico hoc falsum, ergo dico falsum</mentioned>, quia dicere
           <mentioned>hoc falsum</mentioned> est dicere <mentioned>falsum
@@ -1450,17 +1433,15 @@
           , hoc ipsum quod dico tu dicis esse falsum, et haec dictio falsum
           construit intellectum
           <app>
-            <lem>communem et indefinitum</lem>
+            <lem wit="#O">communem et indefinitum</lem>
             <rdg wit="#C" type="correction-addition">
               <add place="margin-left">communem et indefinitum</add>
             </rdg>
-            <rdg wit="#O">communem et indefinitum</rdg>
           </app>
           de hoc ipso falso cuius est pars et de quolibet alio
           <app>
-            <lem>falso</lem>
+            <lem wit="#O">falso</lem>
             <rdg wit="#C"><unclear>falso</unclear></rdg>
-            <rdg wit="#O">falso</rdg>
           </app>
           , et hoc ipsum dicitur a me, ergo haec indefinitas verificatur
           <app>
@@ -1508,19 +1489,17 @@
           Solutio secundum praedicta: Manifestum est quod pars sumitur in
           designatione totius, et ita in synecdochica est
           <app>
-            <lem>locutio</lem>
+            <lem wit="#O">locutio</lem>
             <rdg wit="#C"><unclear>locutio</unclear></rdg>
-            <rdg wit="#O">locutio</rdg>
           </app>
           et figurativa secundum hoc, ergo impropria;
           figura enim
           <app>
             <!-- Correction before copy of O ancestor -->
-            <lem>est</lem>
+            <lem wit="#O">est</lem>
             <rdg wit="#C" type="correction-addition">
-              <add place="above-line">est</add>
+              <add place="above">est</add>
             </rdg>
-            <rdg wit="#O">est</rdg>
           </app>
           vitium quoddam, sed ratione
           <app>
@@ -1540,11 +1519,10 @@
           quantum ad hoc. Dico ergo secundum
           <app>
             <!-- Correction after copy of O ancestor -->
-            <lem>quod</lem>
+            <lem wit="#O">quod</lem>
             <rdg wit="#C" type="correction-addition">
-              <add place="above-lin">quod</add>
+              <add place="above">quod</add>
             </rdg>
-            <rdg wit="#O">quod</rdg>
           </app>
           designatio extenditur ad alia debita, et propria est designatio
           secundum autem quod contrahitur ad ipsum cuius est pars, indebita et
@@ -1754,7 +1732,7 @@
           intellectum et rem cuius est signum simpliciter,
           <app>
             <lem n="simpliciter"/>
-            <rdg wit="#O">
+            <rdg wit="#O" type="variation-present">
               et proprie
             </rdg>
             <witDetail wit="#O">sed del. <mentioned>et</mentioned></witDetail>
@@ -1771,9 +1749,8 @@
           </app>
           simul concipi vel intelligi, quoniam unum
           <app>
-            <lem>principaliter</lem>
+            <lem wit="#O">principaliter</lem>
             <rdg wit="#C"><unclear>principaliter</unclear></rdg>
-            <rdg wit="#O">principaliter</rdg>
           </app>
           et simpliciter concipitur aliud per accidens et secundum quid. Ubi
           autem unum propter alterum utrobique tantum, cum igitur aliquis dicit
@@ -1795,17 +1772,15 @@
             <rdg wit="#C" type="correction-deletion">
               <del rend="ovestrike">accipiatur</del>
             </rdg>
-            <rdg wit="#O" />
           </app>
           synecdochicae accipiatur in designatione sui totius, hoc est hoc ipsum
           falsum in designatione
           <app>
             <!-- Correction before copy of O ancestor -->
-            <lem>eius</lem>
+            <lem wit="#O">eius</lem>
             <rdg wit="#C" type="correction-addition">
               <add place="above-line">eius</add>
             </rdg>
-            <rdg wit="#O">eius</rdg>
           </app>
           quod est <mentioned>me dicere falsum</mentioned>; merito igitur utens
           tali compositione <cb ed="#O" n="b"/> falsus est simpliciter, id est
@@ -1975,7 +1950,7 @@
           supersedemus ut ad principale propositum festinemus.
         </p>
         <anchor xml:id="end_deletion_C" />
-     </div>
+      </div>
     </body>
   </text>
 </TEI>
