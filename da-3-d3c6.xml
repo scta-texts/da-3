@@ -64,7 +64,13 @@
           reading mistakes that are not readily explained by C).
         </p>
         <p>
-          Orthography is classicized. Punctuation and paragraphing are my own.
+          Orthography is classicized. I have also standardized expressions that
+          may have been established as valid medieval variants. This means that
+          I render <mentioned>Sortes</mentioned> as
+          <mentioned>Socrates</mentioned> and <mentioned>sinodoch...</mentioned>
+          as <mentioned>synecdoch...</mentioned> even though these may be
+          examples of established medieval variants. Punctuation and
+          paragraphing are my own.
         </p>
       </editorialDecl>
     </encodingDesc>
@@ -1091,14 +1097,14 @@
             </bibl>
           </cit>
           . Iste autem intellectus <mentioned>homo</mentioned> communis est ad
-          omnem particularem hominem, et sive prefigatur pro Sorte sive pro
+          omnem particularem hominem, et sive prefigatur pro Socrate sive pro
           Platone sive pro quovis
           <app>
             <lem wit="#C">alio</lem>
             <rdg wit="#O">aliquo</rdg>
           </app>
           , semper eundem significat intellectum. Cum igitur dico
-          <mentioned>homo est Sortes</mentioned>, hunc terminum
+          <mentioned>homo est Socrates</mentioned>, hunc terminum
           <app>
             <lem wit="#C">communem</lem>
             <rdg wit="#O" type="variation-absent" />
@@ -1112,9 +1118,9 @@
               <add place="margin-left">pro</add>
             </rdg>
           </app>
-          Sorte, fit veritas in compositione, sicut enim est res ita dicit
+          Socrate, fit veritas in compositione, sicut enim est res ita dicit
           intellectus, et ita est ibi aequalitas inter intellecum et rem; si autem
-          praefigatur pro alio a Sorte, est in eadem compositione inaequalitas
+          praefigatur pro alio a Socrate, est in eadem compositione inaequalitas
           inter intellectus et res, non enim ita est res sicut dicit intellectus;
           una igitur et eadem compositio intellectuum simul et semel potest esse
           vera et falsa, sed gratia diversorum. Hoc idem testatur
@@ -1155,8 +1161,8 @@
               VI 12.149b4--9 (Arist. Lat. 3.1, p. 139.15--21).
             </bibl>
           </cit>
-          A simili, cum dico <mentioned>homo est Sortes</mentioned>, cum aliquis
-          homo sit Sortes aliquis non, pro aliquo sum verus pro aliquo falsus;
+          A simili, cum dico <mentioned>homo est Socrates</mentioned>, cum aliquis
+          homo sit Socrates aliquis non, pro aliquo sum verus pro aliquo falsus;
           pari itaque modo hanc compositionem <mentioned>ego dico
           falsum</mentioned> dicimus esse simul et semel veram et falsam, sed
           gratia diversorum; cum enim haec dictio falsum significet intellectum
@@ -1459,9 +1465,9 @@
             <lem wit="#C">pro</lem>
             <rdg wit="#O">per</rdg>
           </app>
-          aliquo particulari; ergo est simpliciter vera, sicut si videam Sortem,
+          aliquo particulari; ergo est simpliciter vera, sicut si videam Socratem,
           verum est simpliciter me videre hominem, licet neminem videam alium a
-          Sorte; ergo nihil est quod dicit
+          Socrate; ergo nihil est quod dicit
           <ref corresp="#da-3-d3c6-quote-mjye6j">
             <name ref="#Aristotle">Aristoteles</name>
           </ref>
@@ -1759,7 +1765,7 @@
           <mentioned>ego dico falsum</mentioned>, per hanc dictionem falsum fit
           designatio multarum compositionum falsarum, sed simpliciter et proprie
           designat compositiones extrinsecas quae non sunt haec ipsa compositio,
-          sed aliae ab ista, ut <mentioned>Sortem esse asinum</mentioned>,
+          sed aliae ab ista, ut <mentioned>Socratem esse asinum</mentioned>,
           <mentioned>album esse nigrum</mentioned> et cetera, quorum falsorum
           cum nullum dicatur est etiam falsa haec ipsa compositio quae est
           <mentioned>me dicere falsum</mentioned>, et sic reflectitur et
@@ -1899,10 +1905,10 @@
           , ut res et nullum eorum est pars huius enuntiabilis <mentioned>ego
           dico falsum</mentioned>. Iste enim terminus
           <mentioned>falsum</mentioned> communem intellectum significat ad omne
-          falsum, ad <mentioned>Sortem esse asinum</mentioned> et alia omnia
+          falsum, ad <mentioned>Socratem esse asinum</mentioned> et alia omnia
           quorum nullum est iste intellectus <mentioned>falsum</mentioned>; iste
           enim intellectus <mentioned>falsum</mentioned> est intellectus simplex
-          et incomplexus, sed iste intellectus <mentioned>Sortem esse
+          et incomplexus, sed iste intellectus <mentioned>Socratem esse
           asinum</mentioned> est intellectus complexus et compositus. Simplex
           autem non est compositum neque complexum incomplexum et tamen sub hoc
           communi simplici et incomplexo intellectu omnes tales speciales
@@ -1910,7 +1916,7 @@
           intellectus <mentioned>falsum</mentioned> pars est huius enuntiabilis
           <mentioned>ego dico falsum</mentioned>, et nullius aliorum est pars
           nec aliquod aliorum est pars ipsius; unde sicut iste intellectus
-          <mentioned>Sortem esse asinum</mentioned> non est pars
+          <mentioned>Socratem esse asinum</mentioned> non est pars
           <app>
             <lem n="pars"/>
             <rdg wit="#O" type="correction-deletion">
