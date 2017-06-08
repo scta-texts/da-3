@@ -440,10 +440,10 @@
             <lb ed="#O"/> dicere falsum<pc type="punctus"/>
           </note>
           Ex hiis manifestum est quod cum dico<pc type="punctus"/> ego dico falsum<pc type="punctus-elevatus"/>
-          <lb ed="#O"/> <choice><orig>hec</orig><reg>haec</reg></choice> dictio falsum bene potest construere intellectum de eo cuius est pars<pc type="punctus"/> et de quolibet
+          <lb ed="#O"/> <choice><orig>hec</orig><reg>haec</reg></choice> dictio falsum bene potest constituere intellectum de eo cuius est pars<pc type="punctus"/> et de quolibet
           <lb ed="#O"/> falso<pc type="punctus"/> quod ut melius intelligatur obiciatur sic<pc type="punctus"/> cum dico<pc type="punctus"/> ego d<lb ed="#O"/>ico
           falsum<pc type="punctus-elevatus"/> me dicere falsum<pc type="punctus-medius"/> aut est verum<pc type="punctus"/> aut falsum<pc type="punctus"/> si verum<pc type="punctus-elevatus"/> ergo <choice><orig>hec</orig><reg>haec</reg></choice> dictio
-          <lb ed="#O"/> falsum non constituit intellectum de ipso<pc type="punctus"/> Sed tamen de aliis <choice><orig>que</orig><reg>quae</reg></choice> sunt
+          <lb ed="#O"/> falsum non constituit intellectum de ipso<pc type="punctus"/> Sed tantum de aliis <choice><orig>que</orig><reg>quae</reg></choice> sunt
           <lb ed="#O"/> falsa<pc type="punctus"/> <choice><orig>nichil</orig><reg>nihil</reg></choice> autem aliud dicitur a me<pc type="punctus-elevatus"/> ergo falsum est me dicere falsum<pc type="punctus"/> et prius
           <lb ed="#O"/> dicitur quod verum<pc type="punctus"/> si falsum est me dicere falsum et hoc dicitur a me<pc type="punctus"/> ergo ego dico
           <lb ed="#O"/> falsum<pc type="punctus"/> ergo verum est me dicere falsum<pc type="punctus"/> et prius dictum est quod falsum<pc type="punctus"/> ergo modo et m<lb ed="#O"/>ultipliciter
@@ -455,14 +455,14 @@
           <lb ed="#O"/> est verum per aliquo<pc type="punctus"/> falsum pro aliquo<pc type="punctus"/> sed non contingit idem secundum idem et pro eodem simul
           <lb ed="#O"/> esse verum et falsum<pc type="punctus"/> veritas enim enuntiabilis est dispositio intellectuum composit<lb ed="#O"/>orum
           <choice><orig>equalis</orig><reg>aequalis</reg></choice> dispositioni rerum designatarum in compositione perfecta<pc type="punctus"/> sive
-          <lb ed="#O"/> dicere perfectam compositione perfectam<pc type="punctus-elevatus"/> dico pro enuntiationibus affirmationis<pc type="punctus"/>
-          <lb ed="#O"/> dicere perfectam<pc type="punctus-elevatus"/> pro negationis<pc type="punctus"/> si autem non sit <choice><orig>equalis</orig><reg>aequalis</reg></choice> dispositio intellectuum
+          <lb ed="#O"/> dicere perfecta compositione perfectam<pc type="punctus-elevatus"/> dico pro enuntiationibus affirmativis<pc type="punctus"/>
+          <lb ed="#O"/> dicere perfecta<pc type="punctus-elevatus"/> pro negationis<pc type="punctus"/> si autem non sit <choice><orig>equalis</orig><reg>aequalis</reg></choice> dispositio intellectuum
           <lb ed="#O"/> et rerum<pc type="punctus-elevatus"/> falsitas est<pc type="punctus"/> veritas igitur est <choice><orig>quedam</orig><reg>quaedam</reg></choice> <choice><orig>equalitas</orig><reg>aequalitas</reg></choice><pc type="punctus"/> falsitas<pc type="punctus-elevatus"/> <choice><orig>que<lb ed="#O"/>dam</orig><reg>quae<lb ed="#O"/>dam</reg></choice>
           <choice><orig>inequalitas</orig><reg>inaequalitas</reg></choice><pc type="punctus"/> sicut etiam testatur Augustinus<pc type="punctus"/> iste autem <unclear>intellectus/intelligens</unclear> homo
           <lb ed="#O"/> communis est ad omnem particularem hominem<pc type="punctus-medius"/> et sive <choice><orig>prefigatur</orig><reg>praefigatur</reg></choice> pro sorte
           <lb ed="#O"/> sive pro platone sive pro quovis aliquo<pc type="punctus"/> semper eundem significat inte<lb ed="#O"/>llectum<pc type="punctus"/>
           cum igitur dico<pc type="punctus"/> homo est sortes<pc type="punctus"/> hunc terminum homo possum <choice><orig>pre<lb ed="#O"/>figere</orig><reg>prae<lb ed="#O"/>figere</reg></choice>
-          pro quocumque hominum <unclear>volv()o</unclear><pc type="punctus"/> et si <choice><orig>prefigatur</orig><reg>praefigatur</reg></choice> pro sorte<pc type="punctus-elevatus"/> sit veri<lb ed="#O"/>tas
+          pro quocumque hominum voluero<pc type="punctus"/> et si <choice><orig>prefigatur</orig><reg>praefigatur</reg></choice> pro sorte<pc type="punctus-elevatus"/> fit veri<lb ed="#O"/>tas
           in compositione<pc type="punctus"/> sicut enim est res<pc type="punctus"/> ita dicit intellectus<pc type="punctus"/> et ita est ibi <choice><orig>equalitas</orig><reg>aequalitas</reg></choice>
           <lb ed="#O"/> inter intellecum et rem<pc type="punctus"/> si autem <choice><orig>prefigatur</orig><reg>praefigatur</reg></choice> pro alio a sorte est in eadem
           <lb ed="#O"/> compositione <choice><orig>inequalitas</orig><reg>inaequalitas</reg></choice> inter intellectus et res<pc type="punctus"/> non enim ita est res sicut dicit
@@ -506,15 +506,15 @@
         </p>
         <p xml:id="corchr107_da-3-d3c6-wi176p">
           licet
-          <lb ed="#O"/> autem ad <choice><orig>presentem</orig><reg>praesentem</reg></choice> tractatum non pertineat huius rei discussio
-          <lb ed="#O"/> ne tam <choice><orig>neggligentem</orig><reg>negligentem</reg></choice> quam ignorantem videamur pertransire <unclear>dicimus</unclear>
+          <lb ed="#O"/> autem ad <choice><orig>presenter</orig><reg>praesenter</reg></choice> tractatum non pertineat huius rei discussio
+          <lb ed="#O"/> ne tam <choice><orig>neggligenter</orig><reg>negligenter</reg></choice> quam ignorantem videamur pertransire <unclear>dicimus</unclear>
           <lb ed="#O"/> ad <choice><orig>presens</orig><reg>praesens</reg></choice> quod duplex est causa scilicet propinqua et remota<pc type="punctus"/> secundum causam
           <lb ed="#O"/> propinquam sive proximam unquam eadem est causa veritatis et falsitatis nihilque
           <lb ed="#O"/> simul et semel verum est et falsum<pc type="punctus-elevatus"/> eadem causa proxima<pc type="punctus"/> propria enim et proxima
           <lb ed="#O"/> causa veritatis est <choice><orig>equalitas</orig><reg>aequalitas</reg></choice> dispositionis intellectuum et rerum<pc type="punctus"/> falsita<lb ed="#O"/>tis
           autem <choice><orig>inequalitas</orig><reg>inaequalitas</reg></choice><pc type="punctus"/> <choice><orig>set</orig><reg>sed</reg></choice> tamen id quod est propinqua et propria causa falsitatis
           <lb ed="#O"/> potest esse remota et impropria causa veritatis in eodem <choice><orig>enunciabili</orig><reg>enuntiabili</reg></choice><pc type="punctus"/>
-          <lb ed="#O"/> quoniam <choice><orig>inequalis</orig><reg>inaequalis</reg></choice> dispositio huiusmodi intellectus<pc type="punctus"/> me dicere falsum respectu aliorum fa<lb ed="#O"/>lsorum
+          <lb ed="#O"/> quoniam <choice><orig>inequalis</orig><reg>inaequalis</reg></choice> dispositio huius intellectus<pc type="punctus"/> me dicere falsum respectu aliorum fa<lb ed="#O"/>lsorum
           est causa <choice><orig>precedens</orig><reg>praecedens</reg></choice> ad hoc<pc type="punctus"/> ut respectu istius sit <choice><orig>equalis</orig><reg>aequalis</reg></choice> dispositio in
           <lb ed="#O"/> eodem intellectu<pc type="punctus"/> unde falsitas procul dubio est causa veritatis<pc type="punctus"/> sed
           <lb ed="#o"/> causa remota et per accidens<pc type="punctus"/> et quod est causa falsitatis per se et proprie ut
@@ -526,7 +526,7 @@
           <lb ed="#O"/> <choice><orig>equivoca</orig><reg>aequivoca</reg></choice> sunt univoca<pc type="punctus"/> et in eo quod univoca sunt <choice><orig>equivoca</orig><reg>aequivoca</reg></choice><pc type="punctus"/>
           <lb ed="#O"/> ita quod <choice><orig>hec</orig><reg>haec</reg></choice> determinatio in eo quod communiter teneatur pro causa propinqua et causa re<lb ed="#O"/>mota<pc type="punctus"/>
           sive pro causa per se<pc type="punctus"/> et causa per accidens<pc type="punctus"/> unde hic <choice><orig>acciddit</orig><reg>accidit</reg></choice> circula<lb ed="#O"/>ritas
-          causarum quod esse non potest in causis propinquiis et per se sed <unclear>intelligentiis</unclear>
+          causarum quod esse non potest in causis propriis et per se sed <unclear>intelligentiis</unclear>
           <lb ed="#O"/> bene contingit<pc type="punctus"/> Quod autem idem sit simul et semel verum et falsum<pc type="punctus-elevatus"/>
           <lb ed="#O"/> testatur aristoteles in secundo elenchorum ubi docet solvere paralogismos
           <lb ed="#O"/> qui fiunt secundum quid et simpliciter<pc type="punctus"/> dicit enim nihil prohibet eundem quo<lb ed="#O"/>ad
@@ -538,7 +538,7 @@
         </p>
         <p xml:id="corchr107_da-3-d3c6-ynkn7i">
           Postea vero dicens solvere et respondere ad huiusmodi
-          <lb ed="#O"/> dictum<pc type="punctus"/> prohibet autem eundem nihil simpliciter quidem esse men<lb ed="#O"/>dacem<pc type="punctus"/>
+          <lb ed="#O"/> dicit<pc type="punctus"/> prohibet autem eundem nihil simpliciter quidem esse men<lb ed="#O"/>dacem<pc type="punctus"/>
           quo autem verum<pc type="punctus"/> vel aliquo modo etiam esse verum aliquem<pc type="punctus"/> verum autem
           <lb ed="#O"/> non<pc type="punctus"/> Est igitur solutio auctoris quod qui dicit se mentiri sim<lb ed="#O"/>pliciter
           falsus est<pc type="punctus-elevatus"/> sed non est simpliciter verus immo secundum quid sive alio modo
@@ -553,7 +553,7 @@
           <lb ed="#O"/> simplicem<pc type="punctus"/> Cum ergo dicit aliquis<pc type="punctus"/> ego dico falsum<pc type="punctus-elevatus"/> debes respon<lb ed="#O"/>dere
           simpliciter<pc type="punctus"/> falsum est<pc type="punctus"/> et non debes dicere verum est simpliciter<pc type="punctus"/> sed
           <lb ed="#O"/> verum est secundum quid id est secundum hoc quod dico esse simpliciter falsum est<pc type="punctus"/> Unde sicut non
-          <lb ed="#O"/> valet <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio<pc type="punctus"/> iste bene iura secundum hoc<pc type="punctus-medius"/> ergo iste bene iurat<pc type="punctus-elevatus"/> ita non
+          <lb ed="#O"/> valet <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio<pc type="punctus"/> iste bene iurat secundum hoc<pc type="punctus-medius"/> ergo iste bene iurat<pc type="punctus-elevatus"/> ita non
           <lb ed="#O"/> valet <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio<pc type="punctus"/> iste dicit verum secundum hoc<pc type="punctus"/> ergo iste dicit verum<pc type="punctus"/> neque <choice><orig>hec</orig><reg>haec</reg></choice><pc type="punctus"/>
           <lb ed="#O"/> hoc est verum secundum hoc<pc type="punctus"/> ergo hoc est verum<pc type="punctus"/>
         </p>
@@ -567,13 +567,13 @@
           <lb ed="#O"/> ego dico falsum<pc type="punctus"/> sed debet inferri<pc type="punctus-medius"/> ergo ego dico falsum secundum hoc<pc type="punctus"/>
           <lb ed="#O"/> Similiter <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio non valet<pc type="punctus"/> dico hoc falsum<pc type="punctus"/> ergo dico falsum<pc type="punctus"/> quia
           <lb ed="#O"/> dicere hoc falsum est dicere falsum secundum hoc<pc type="punctus"/> Similiter <choice><orig>hec</orig><reg>haec</reg></choice> argumentatio non valet dico hoc
-          <lb ed="#O"/> quod est falsum<pc type="punctus"/> ergo dico falsum<pc type="punctus"/> sic enim a propositione sumpta secundum quid
+          <lb ed="#O"/> quod est falsum<pc type="punctus"/> ergo dico falsum<pc type="punctus"/> fit enim a propositione sumpta secundum quid
           <lb ed="#O"/> ad conclusionem sumptam simpliciter<pc type="punctus"/> et de similibus similiter<pc type="punctus"/> omnes
-          <lb ed="#O"/> enim tales loquationes quasi <choice><orig>sinodochice</orig><reg>synecdochicae</reg></choice> sunt<pc type="punctus"/> et quod est partis non debet
+          <lb ed="#O"/> enim tales <choice><orig>loquutiones</orig><reg>locutiones</reg></choice> quasi <choice><orig>sinodochice</orig><reg>synecdochicae</reg></choice> sunt<pc type="punctus"/> et quod est partis non debet
           <lb ed="#O"/> attribui toti<pc type="punctus"/>
         </p>
         <p xml:id="corchr107_da-3-d3c6-7j399n">
-          sed adhuc obicitur<pc type="punctus"/> dicitur pro regula<pc type="punctus"/> omnis indifi<lb ed="#O"/>nita
+          sed adhuc obicitur<pc type="punctus"/> dicitur pro regula quod<pc type="punctus"/> omnis indifi<lb ed="#O"/>nita
           est vera<pc type="punctus-elevatus"/> cuius aliqua particularis est vera<pc type="punctus"/> si autem fuerit aliqua singularis
           <lb ed="#O"/> falsa<pc type="punctus"/> vel etiam <choice><orig>multe</orig><reg>multae</reg></choice> singulares <unclear>false</unclear> non ideo sequitur defini<lb ed="#O"/>tam
           esse falsam unica enim particularis vera<pc type="punctus"/> verificat indefinitam<pc type="punctus"/>
@@ -584,17 +584,17 @@
           verificatur per aliquo particulari<pc type="punctus"/> ergo est simpliciter
           <lb ed="#O"/> vera<pc type="punctus"/> sicut si videam sortem verum est simpliciter me videre
           <lb ed="#O"/> hominem<pc type="punctus"/> licet neminem videam alium a sorte<pc type="punctus"/> ergo nihil est quod dicit
-          <lb ed="#O"/> aristotelis qui se mentiri<pc type="punctus"/> quoad aliquid verus est<pc type="punctus"/> sed simpliciter falsus<pc type="punctus"/>
+          <lb ed="#O"/> aristoteles qui se mentiri<pc type="punctus"/> quoad aliquid verus est<pc type="punctus"/> sed simpliciter falsus<pc type="punctus"/>
           <lb ed="#O"/> et qui iurat se periurare<pc type="punctus-elevatus"/> quoad quid bene iurat<pc type="punctus"/> simpliciter autem
           <lb ed="#O"/> periurat<pc type="punctus"/>
         </p>
         <p xml:id="corchr107_da-3-d3c6-bspxe8">
           Solutio<pc type="punctus"/> secundum <choice><orig>predicta</orig><reg>praedicta</reg></choice> manifestum est quod pars sumitur in desi<lb ed="#O"/>gnatione
-          totius et ita in <choice><orig>sinodochica</orig><reg>synecdochica</reg></choice> est locutio<pc type="punctus"/> et figurativa secundum hoc<pc type="punctus"/>
+          totius et ita <choice><orig>sinodochica</orig><reg>synecdochica</reg></choice> est locutio<pc type="punctus"/> et figurativa secundum hoc<pc type="punctus"/>
           <lb ed="#O"/> ergo impropria<pc type="punctus"/> figura enim est vitium quoddam<pc type="punctus"/> sed ratione excusatum<pc type="punctus"/>
-          <lb ed="#O"/> prout igitur falsum sumitur in designatione sui totius<pc type="punctus-elevatus"/> figura<lb ed="#O"/>tivam
+          <lb ed="#O"/> prout igitur falsum sumitur in designatione sui totius<pc type="punctus-elevatus"/> figura<lb ed="#O"/>tiva
           et impropria<pc type="punctus"/> et quodammodo vitiosa est designatio prout ad
-          <lb ed="#O"/> aliorum <unclear>formarum</unclear> designationem extenditur<pc type="punctus"/> nulla est ibi <choice><orig>sino<lb ed="#O"/>doche</orig><reg>synec<lb ed="#O"/>doche</reg></choice><pc type="punctus"/>
+          <lb ed="#O"/> aliorum falsorum designationem extenditur<pc type="punctus"/> nulla est ibi <choice><orig>sino<lb ed="#O"/>doche</orig><reg>synec<lb ed="#O"/>doche</reg></choice><pc type="punctus"/>
           nulla figura<pc type="punctus"/> nulla improprietas<pc type="punctus"/> nec etiam vitium apparens<pc type="punctus"/>
           <lb ed="#O"/> quantum ad hoc dico<pc type="punctus"/> ergo secundum quod designatio extenditur ad alia<pc type="punctus-elevatus"/>
           <lb ed="#O"/> debita et propria est designatio secundum autem quod contrahitur ad ipsum cuius est
@@ -606,9 +606,9 @@
           <lb ed="#O"/> <choice><orig>littere</orig><reg>litterae</reg></choice><pc type="punctus"/> voces<pc type="punctus"/> intellectus<pc type="punctus"/> et res<pc type="punctus"/> autem sicut <choice><orig>littere</orig><reg>litterae</reg></choice> proprie sunt <choice><orig>note</orig><reg>notae</reg></choice>
           <lb ed="#O"/> vocum<pc type="punctus"/> et voces intellectuum<pc type="punctus-elevatus"/> ita intellectus sunt <choice><orig>proprie</orig><reg>propriae</reg></choice> <choice><orig>note</orig><reg>notae</reg></choice> rerum<pc type="punctus"/>
           <lb ed="#O"/> sunt enim <choice><orig>anime</orig><reg>animae</reg></choice> passiones et rerum similitudines<pc type="punctus"/><pc type="punctus"/> vocum igitur
-          <lb ed="#O"/> significatio mediante intellectu ad aliquam rem sentiendam et <choice><orig>comprehendendam</orig><reg>compraehendendam</reg></choice> nos perducit<pc type="punctus"/> omnis igitur compositio vocum sit
+          <lb ed="#O"/> significatio mediante intellectu ad aliquam rem sentiendam et <choice><orig>comprehendendam</orig><reg>compraehendendam</reg></choice> nos perducit<pc type="punctus"/> omnis igitur compositio vocum fit
           <lb ed="#O"/> non propter ipsam vocum compositione immo proprie et principaliter propter
-          <lb ed="#O"/> compositione rerum<pc type="punctus"/> sicut <choice><orig>hec</orig><reg>haec</reg></choice> compositio homo est animal<pc type="punctus"/> non proponitur ut desi<lb ed="#O"/>gnetur
+          <lb ed="#O"/> compositionem rerum<pc type="punctus"/> sicut <choice><orig>hec</orig><reg>haec</reg></choice> compositio homo est animal<pc type="punctus"/> non proponitur ut desi<lb ed="#O"/>gnetur
           <choice><orig>hec</orig><reg>haec</reg></choice> ipsa vocum compositio <choice><orig>que</orig><reg>quae</reg></choice> est<pc type="punctus"/> homo est animal<pc type="punctus"/> sic enim esset
           <lb ed="#O"/> tantum falsa<pc type="punctus"/> quoniam <choice><orig>hec</orig><reg>haec</reg></choice> vox non est illa<pc type="punctus"/> sed ut designetur sub
           <lb ed="#O"/> vocibus mediante intellectu compositio rerum id est animalitatem cum
@@ -619,9 +619,9 @@
           non se ipsam<pc type="punctus"/> sed rerum dispositionem declarat<pc type="punctus"/> et similiter in omnibus<pc type="punctus"/> Omnis
           <lb ed="#O"/> ergo <choice><orig>enunciabilium</orig><reg>enuntiabilium</reg></choice> compositio non gratia sui proponitur<pc type="punctus-medius"/> Sed gratia alterius id est
           <lb ed="#O"/> gratia compositionis <choice><orig>que</orig><reg>quae</reg></choice> est in rebus designatis proprie dico et principa<lb ed="#O"/>liter<pc type="punctus"/>
-          cum ergo dico<pc type="punctus"/> ego falsum proprie et principaliter designatur
+          cum ergo dico<pc type="punctus"/> ego falsum proprie et principaliter designantur
           <lb ed="#O"/> <choice><orig>Alie</orig><reg>Aliae</reg></choice> compositiones <choice><orig>que</orig><reg>quae</reg></choice> cointelliguntur<pc type="punctus"/> in ista vel sub ista in coniunct<lb ed="#O"/>ate
-          huiusmodi <unclear>autem</unclear> falsum<pc type="punctus"/> sed per consequens et quasi per accidens et secundum quid <unclear>animus</unclear>
+          huiusmodi termini falsum<pc type="punctus"/> sed per consequens et quasi per accidens et secundum quid animus
           <lb ed="#O"/> dirigitur ad hanc ipsam compositionem <choice><orig>que</orig><reg>quae</reg></choice> est me dicere falsum<pc type="punctus"/> semper
           <lb ed="#O"/> enim sub intellectu nititur animus recurrere ad rem cuius <choice><orig>ymago</orig><reg>imago</reg></choice>
           <lb ed="#O"/> et similitudo est intellectus<pc type="punctus"/> et si in ipso intellectu sistat animus
@@ -630,7 +630,7 @@
         </p>
         <p xml:id="corchr107_da-3-d3c6-xux86k">
           quod exempli gratia declaramus hoc modo<pc type="punctus"/> statua
-          <lb ed="#O"/> petri et se ipsa significat et petrum<pc type="punctus"/> Sed petrum proprie et <del rend="punctuation">proprii</del> per se<pc type="punctus"/>
+          <lb ed="#O"/> petri et se ipsam significat et petrum<pc type="punctus"/> Sed petrum proprie et <del rend="punctuation">proprii</del> per se<pc type="punctus"/>
           <lb ed="#O"/> se ipsam autem improprie et per accidens<pc type="punctus"/> principaliter enim et finaliter <note>possibly deletion here</note>
           <lb ed="#O"/> est statua ad designandum petrum<pc type="punctus"/> et non ad designandum
           <lb ed="#O"/> se ipsam<pc type="punctus"/> unde duplex est consideratio <choice><orig>statue</orig><reg>statuae</reg></choice><pc type="punctus"/> potest enim quis intu<lb ed="#O"/>ens
@@ -654,32 +654,23 @@
           ea<pc type="punctus"/> et sic utens statua in communi<pc type="punctus-elevatus"/> simpliciter et improprie
           <lb ed="#O"/> est bene utens<pc type="punctus"/> secundum quid autem et per accidens sive improprie<pc type="punctus-elevatus"/> male<pc type="punctus"/> Similiter
           <lb ed="#O"/> intellige de intellectu et re signata sub intellectu possumus<pc type="punctus"/>
-          <lb ed="#O"/> enim uti intellectu cum pro se<pc type="punctus"/> tum pro re<pc type="punctus"/> sed pro se improprie<pc type="punctus-elevatus"/> cum in ipso
+          <lb ed="#O"/> enim uti intellectu tum pro se<pc type="punctus"/> tum pro re<pc type="punctus"/> sed pro se improprie<pc type="punctus-elevatus"/> cum in ipso
           <lb ed="#O"/> nihil attendamus nisi impsum et non rem propter quam est intellectus et de qua<pc type="punctus"/>
           <lb ed="#O"/> Cum autem utimur intellectu non pro se sed pro re cuius est <choice><orig>ymago</orig><reg>imago</reg></choice>
           <lb ed="#O"/> et similitudo<pc type="punctus-elevatus"/> tunc utimur proprie<pc type="punctus"/> hoc est simpliciter et per se<pc type="punctus"/> cum vero
           <lb ed="#O"/> per ipsum intellectum concipimus intellectum et rem cuius est signum<pc type="punctus-elevatus"/> sim<lb ed="#O"/>pliciter
-          <!-- Intereting in line below: "Et" is added and then deleted between simpliciter and
-               proprie. If proprie is substitution for simul in C, and it is
-               written above the line, a copy of that may read it the same way I
-               did at first, as the part of that line. This means that the "et"
-               added is a solution to the problem that arises from that
-               misreading. This then means that the deletion of simul is just
-               skipped and hence the correction to "... plura proprie simul"
-               just becomes "... plura simul". This would give reason to believe
-               that O is copied from a copy of C. -->
           <lb ed="#O"/> <del rend="punct">et</del> proprie concipimus<pc type="punctus"/> quoad quid autem improprie<pc type="punctus"/> In his tamen
           <lb ed="#O"/> non dicuntur plura simul concipi vel intelligi<pc type="punctus-elevatus"/> quoniam
           <lb ed="#O"/> unum principaliter et simpliciter concipitur<pc type="punctus"/> aliud per accidens et secundum quid<pc type="punctus"/>
-          <lb ed="#O"/> ubi autem unum propter alterum <unclear>utrobique</unclear> tantum<pc type="punctus"/> cum igitur aliquis dicit e<lb ed="#O"/>go
-          dico falsum per hanc dictionem falsum sit designatio multarum com<lb ed="#O"/>positionum
+          <lb ed="#O"/> ubi autem unum propter alterum utrobique tantum<pc type="punctus"/> cum igitur aliquis dicit e<lb ed="#O"/>go
+          dico falsum per hanc dictionem falsum fit designatio multarum com<lb ed="#O"/>positionum
           falsarum<pc type="punctus"/> Sed simpliciter et proprie designat compositiones extrinse<lb ed="#O"/>cas
           <choice><orig>que</orig><reg>quae</reg></choice> non sunt <choice><orig>hec</orig><reg>haec</reg></choice> ipsa compositio<pc type="punctus"/> sed <choice><orig>alie</orig><reg>aliae</reg></choice> ab ista<pc type="punctus"/> ut sortem esse
           <lb ed="#O"/> asinum<pc type="punctus"/> album esse nigrum<pc type="punctus"/> et cetera<pc type="punctus"/> quorum falsorum cum nullum di<lb ed="#O"/>catur<pc type="punctus"/>
           Est etiam falsa <choice><orig>hec</orig><reg>haec</reg></choice> ipsa compositio <choice><orig>que</orig><reg>quae</reg></choice> est me dicere falsum<pc type="punctus"/> et sic
-          <lb ed="#O"/> reflectitur et retorquetur intellectus huiusmodi non falsum ad se ipsum mediante
-          <lb ed="#O"/> totali compositione cuius est pars<pc type="punctus"/> et ita quoad hoc etiam improprie est disign<lb ed="#O"/>ativus
-          sui ipsius<pc type="punctus"/> unde compositio illa simpliciter et proprie sit gratia aliorum<pc type="punctus"/>
+          <lb ed="#O"/> reflectitur et retorquetur intellectus huius termini falsum ad se ipsum mediante
+          <lb ed="#O"/> totali compositione cuius est pars<pc type="punctus"/> et ita quoad hoc etiam improprie est design<lb ed="#O"/>ativus
+          sui ipsius<pc type="punctus"/> unde compositio illa simpliciter et proprie fit gratia aliorum<pc type="punctus"/>
           <lb ed="#O"/> secundum quid autem et improprie gratia sui et ipsius cuius est pars cum secundum hunc
           <lb ed="#O"/> respectum pars <choice><orig>sinodochice</orig><reg>synecdochice</reg></choice> accipiatur in designatione
           <lb ed="#O"/> sui totius<pc type="punctus"/> hoc est hoc ipsum falsum<pc type="punctus-elevatus"/> in designatione eius
@@ -693,7 +684,7 @@
           <lb ed="#O"/> in eo quod est mentiri aliquem et verum dicere id est quid dicit se mentiri<pc type="punctus"/> ut si
           <lb ed="#O"/> dicat ego mentior<pc type="punctus-elevatus"/> quoad quid verus est simpliciter autem men<lb ed="#O"/>dax<pc type="punctus"/>
           quia igitur non proprie<pc type="punctus"/> et per se instrumenta <choice><orig>quelibet</orig><reg>quaelibet</reg></choice> secundum
-          <lb ed="#O"/> quod instrumenta se ipsa vel sua tota designant ideo dicebant quidam <choice><orig>predecessores</orig><reg>praedecessores</reg></choice> doctores viri quasi per regula<pc type="punctus-elevatus"/> quod instrumenta dicendi
+          <lb ed="#O"/> quod instrumenta se ipsa vel sua tota designant ideo dicebant quidam <choice><orig>predecessores</orig><reg>praedecessores</reg></choice> doctores nostri quasi pro regula<pc type="punctus-elevatus"/> quod instrumenta dicendi
           <lb ed="#O"/> suis dictionibus non deserviunt<pc type="punctus"/> Intelligendum est enim principa<lb ed="#O"/>liter
           <lb ed="#O"/> et per se deserviunt tamen<pc type="punctus-elevatus"/> secundario et secundum quid<pc type="punctus"/> quod est improprie
           <lb ed="#O"/> et per accidens<pc type="punctus"/>
@@ -701,17 +692,17 @@
         <p xml:id="corchr107_da-3-d3c6-wtn1xc">
           Adhuc obicitur contra <choice><orig>predicta</orig><reg>praedicta</reg></choice><pc type="punctus"/> Ex hoc enim quod <choice><orig>hec</orig><reg>haec</reg></choice>
           <lb ed="#O"/> dictio falsum intellectum constituit pro eo cuius est pars<pc type="punctus-elevatus"/> videtur accidere infi<lb ed="#O"/>nitas
-          in comprehensione et curculatio<pc type="punctus-medius"/> et sic nihil posse comprehen<lb ed="#O"/>di
+          in comprehensione et circulatio<pc type="punctus-medius"/> et sic nihil posse comprehen<lb ed="#O"/>di
           per talem compositionem cum omnis comprehensio infinitatem re<lb ed="#O"/>pudiet
-          et terminum requirat in quod quiescat<pc type="punctus"/>
+          et terminum requirat in quo quiescat<pc type="punctus"/>
         </p>
         <p xml:id="corchr107_da-3-d3c6-q8w6qb">
           Item cum
           <lb ed="#O"/> sicut dictum est <choice><orig>hec</orig><reg>haec</reg></choice> dictio falsum constituat intellectum de eo cuius est
-          <lb ed="#O"/> pars in designatione communem<pc type="punctus-medius"/> <choice><orig>queratur</orig><reg>quaeratur</reg></choice> utrum <choice><orig>hec</orig><reg>haec</reg></choice> vox<pc type="punctus"/> a<pc type="punctus"/> in de<lb ed="#O"/>signatione
+          <lb ed="#O"/> pars in designatione communi<pc type="punctus-medius"/> <choice><orig>queratur</orig><reg>quaeratur</reg></choice> utrum <choice><orig>hec</orig><reg>haec</reg></choice> vox<pc type="punctus"/> a<pc type="punctus"/> in de<lb ed="#O"/>signatione
           speciali possit intellectum constituere<pc type="punctus"/> de
           <lb ed="#O"/> eo quod est <pc type="punctus"/>a<pc type="punctus"/> esse sive <pc type="punctus"/>a<pc type="punctus"/> esse falsum vel huiusmodi<pc type="punctus"/> Si <unclear>vero/non</unclear><pc type="punctus-elevatus"/> <choice><orig>queratur</orig><reg>quaeratur</reg></choice>
-          <lb ed="#O"/> ratio quare non<pc type="punctus"/> Si potest contra<pc type="punctus"/> hoc quod est <pc type="punctus"/>a<pc type="punctus"/> esse falsum<pc type="punctus-elevatus"/> dicitur <pc type="punctus"/>a<pc type="punctus"/> aut ergo
+          <lb ed="#O"/> ratio quare non<pc type="punctus"/> Si potest contra<pc type="punctus"/> hoc quod est <pc type="punctus"/>a<pc type="punctus"/> esse falsum<pc type="punctus-elevatus"/> dicatur <pc type="punctus"/>a<pc type="punctus"/> aut ergo
           <lb ed="#O"/> <pc type="punctus"/>a<pc type="punctus"/> est verum aut est falsum<pc type="punctus"/> et sequitur manifesta contradictio<pc type="punctus"/> hoc etiam
           <lb ed="#O"/> dato<pc type="punctus-elevatus"/> sequitur idem secundum idem simul et semel esse verum et falsum<pc type="punctus"/> sequitur
           <lb ed="#O"/> etiam idem esse totum et partem respectu unius et eiusdem scilicet sui ipsius<pc type="punctus"/> quoniam
@@ -743,14 +734,14 @@
           <lb ed="#O"/> intellectus me dicere falsum<pc type="punctus"/> licet in communi designetur per hunc terminum falsum<pc type="punctus"/>
           <lb ed="#O"/> incomplexum enim est pars complexi<pc type="punctus"/> sed impossibile est ut complexum sit
           <lb ed="#O"/> pars complexi<pc type="punctus"/> et sic patet quod hic neque infinitas accidit neque circulatio<pc type="punctus"/>
-          <lb ed="#O"/> Secus est de terminis <unclear>dissertis</unclear><pc type="punctus"/> licet enim concedamus quod terminus communis in
+          <lb ed="#O"/> Secus est de terminis discretis<pc type="punctus"/> licet enim concedamus quod terminus communis in
           <lb ed="#O"/> communi possit signare id cuius est pars<pc type="punctus-elevatus"/> non tamen illud generaliter
           <pb ed="#O" n="94-v"/><cb ed="#O" n="a"/>
-          <lb ed="#O"/> admittimus in terminis diseretis <unclear>discrete</unclear><pc type="punctus"/> unde <pc type="punctus"/>a<pc type="punctus"/> non potest signare
+          <lb ed="#O"/> admittimus in terminis discretis <unclear>discrete</unclear><pc type="punctus"/> unde <pc type="punctus"/>a<pc type="punctus"/> non potest signare
           <lb ed="#O"/> <pc type="punctus"/>a<pc type="punctus"/> esse secundum quod est eius pars<pc type="punctus"/> quod patet per impossibile quod sequitur<pc type="punctus"/> sequitur
           <lb ed="#O"/> enim unum et idem esse totum et partem sui ipsius<pc type="punctus"/> et si <pc type="punctus"/>a<pc type="punctus"/> dicatur
           <lb ed="#O"/> discrete <pc type="punctus"/>a<pc type="punctus"/> esse falsum<pc type="punctus-elevatus"/> sequitur idem respectu eiusdem esse verum et falsum<pc type="punctus"/> et
-          <lb ed="#O"/> alia huiusmodi sequuntur impossibilia<pc type="punctus"/> impossibile autem est quo ponito sequitur
+          <lb ed="#O"/> alia huiusmodi sequuntur impossibilia<pc type="punctus"/> impossibile autem est quo posito sequitur
           <lb ed="#O"/> impossibile<pc type="punctus"/> <choice><orig>hec</orig><reg>haec</reg></choice> et huiusmodi inconvenientia nonquam eveniunt in terminis communibus<pc type="punctus"/>
           <lb ed="#O"/> Alia multa possunt circa <choice><orig>hec</orig><reg>haec</reg></choice> inquiri et dubitari<pc type="punctus"/> quibus ad <choice><orig>presens</orig><reg>praesens</reg></choice>
           <lb ed="#O"/> supersedemus ut ad principale propositum festinemus<pc type="punctus"/>
