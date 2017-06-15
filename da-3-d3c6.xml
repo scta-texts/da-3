@@ -298,7 +298,7 @@
           sui neque iudex sui per se.
         </p>
         <p xml:id="da-3-d3c6-p27fzh">
-          Quod autem non ita sit sed quod ipse intellectus sit signum et iudex
+          Quod autem non ita sit, sed quod ipse intellectus sit signum et iudex
           sui per se et non per aliud ratione et auctoritate probemus.
           <cit>
             <quote>
@@ -419,7 +419,10 @@
           </cit>
           , quasi dicat <quote>cum homo secundum intellectum sit imago et
           similitudo Dei, nullo modo Deum poterit intellectu capere, nisi etiam
-          ipsum suum intellectum intelligat</quote>, et cetera multa. Et
+          ipsum suum intellectum intelligat</quote>, et cetera multa.
+        </p>
+        <p xml:id="da-3-d3c6-rkaodn">
+          Et
           <ref corresp="#da-3-d3c6-quote-lckzx6">
             <name ref="#Aristotle">Aristoteles</name>
           </ref>
@@ -431,7 +434,7 @@
             <bibl>
               <name ref="#Aristotle">Arist.</name>
               <title ref="#Arist.DA">DA</title>
-              IIIl.4 430a2--3.
+              III.4 430a2--3.
             </bibl>
             <note>
               He does not literally say that in this passage, but it is as
@@ -586,8 +589,8 @@
           Item, iste terminus <mentioned>homo</mentioned> significat intellectum
           qui est signum cuiuslibet hominis, similiter ergo iste terminus
           <mentioned>intellectus</mentioned> significat intellectum qui est
-          signum cuiuslibet intellectus; sed <mentioned>intellectus</mentioned>
-          huius termini intellectus est aliquis intellectus, ergo iste
+          signum cuiuslibet intellectus; sed intellectus huius termini
+          <mentioned>intellectus</mentioned> est aliquis intellectus, ergo iste
           intellectus significatur per istum intellectum; ergo iste intellectus
           est signum sui.
         </p>
@@ -596,7 +599,7 @@
           sufficiant ut credamus intellectum esse signum sui ipsius.
         </p>
         <p xml:id="da-3-d3c6-g0pv59">
-          Unde sicut refert
+          Unde, sicut refert
           <ref corresp="#da-3-d3c6-quote-senn4r">
             <name ref="#Calcidius">Calcidius</name> <title
             ref="Plato.Timaeus">Super Timaeum Platonis</title>,
@@ -758,8 +761,11 @@
           n="a"/> intellectus et intellectum et intelligens, anima enim per
           seipsam seipsam intelligit, et intellectus seipsum per seipsum,
           quapropter idem in re est ipsa anima et suus intellectus, sicut patebit
-          inferius capitulis sequentibus. In aliis autem multis evenit aliqua
-          quae videntur esse diversa, idem tamen esse in subiecto
+          inferius capitulis sequentibus.
+        </p>
+        <p xml:id="da-3-d3c6-9ylfma">
+          In aliis autem multis evenit aliqua quae videntur esse diversa, idem
+          tamen esse in subiecto
           <app>
             <!-- Correction before copy of O -->
             <lem wit="#O">et in substantia</lem>
@@ -851,7 +857,7 @@
               <add place="margin-left">illud</add>
             </rdg>
           </app>
-          incorporeum, forma
+          incorporeum. Forma
           <app>
             <lem wit="#C">enim</lem>
             <rdg wit="#O" type="variation-absent" />
@@ -886,7 +892,10 @@
           sensibilem et visionem intellectualem, aliter enim est in coporeis
           aliter in incorporeis, et ideo non valent argumentationes inductae a
           simili, licet enim oculus non se videat, non tamen consequens est ut
-          intellectus non se intelligat. Notandum tamen quod in
+          intellectus non se intelligat.
+        </p>
+        <p xml:id="da-3-d3c6-dcyya3">
+          Notandum tamen quod in
           <app>
             <lem wit="#C">omni</lem>
             <rdg wit="#O" type="variation-absent" />
@@ -1035,8 +1044,8 @@
              by a frame with the note "vacat" marking it as a deletion in C.
              This deletion has clearly been made after the copy of O's ancestor,
              as it is all present in O. -->
-        <delSpan spanTo="#end_deletion_C"/>
         <p xml:id="da-3-d3c6-elka1r">
+          <del xml:id="da-3-d3c6-del-xf7auu" rend="vacat" next="#da-3-d3c6-del-e52rvc"/>
           <del rend="overstrike">
             Ex hiis manifestum est quod cum dico <mentioned>ego dico
             falsum</mentioned> haec dictio falsum bene potest constituere
@@ -1070,6 +1079,7 @@
             <lem wit="#C">pro</lem>
             <rdg wit="#O">per</rdg>
           </app>
+          <!-- Aequalitas would usually be adequatio -->
           aliquo falsum pro aliquo, sed non contingit idem secundum idem et pro
           eodem simul esse verum et falsum; veritas enim enuntiabilis est
           dispositio intellectuum compositorum aequalis dispositioni rerum
@@ -1097,7 +1107,7 @@
             </bibl>
           </cit>
           . Iste autem intellectus <mentioned>homo</mentioned> communis est ad
-          omnem particularem hominem, et sive prefigatur pro Socrate sive pro
+          omnem particularem hominem, et sive praefigatur pro Socrate sive pro
           Platone sive pro quovis
           <app>
             <lem wit="#C">alio</lem>
@@ -1123,7 +1133,10 @@
           praefigatur pro alio a Socrate, est in eadem compositione inaequalitas
           inter intellectus et res, non enim ita est res sicut dicit intellectus;
           una igitur et eadem compositio intellectuum simul et semel potest esse
-          vera et falsa, sed gratia diversorum. Hoc idem testatur
+          vera et falsa, sed gratia diversorum.
+        </p>
+        <p xml:id="da-3-d3c6-n4mizj">
+          Hoc idem testatur
           <ref corresp="#da-3-d3c6-quote-4os1aj">
             <name ref="#Aristotle">Aristoteles</name> in <title
             ref="#Arist.Top">Topicis</title>, libro de definitione, versus
@@ -1161,6 +1174,8 @@
               VI 12.149b4--9 (Arist. Lat. 3.1, p. 139.15--21).
             </bibl>
           </cit>
+        </p>
+        <p xml:id="da-3-d3c6-grczpn">
           A simili, cum dico <mentioned>homo est Socrates</mentioned>, cum aliquis
           homo sit Socrates aliquis non, pro aliquo sum verus pro aliquo falsus;
           pari itaque modo hanc compositionem <mentioned>ego dico
@@ -1359,10 +1374,11 @@
             </rdg>
           </app>
           <app>
-            <lem wit="#C">falsus sine</lem>
-            <rdg wit="#O"><unclear>falsus/talis sine</unclear></rdg>
+            <lem wit="#C">falsus</lem>
+            <rdg wit="#O"><unclear>falsus/talis</unclear></rdg>
           </app>
-          determinatione, verus autem non nisi cum determinatione aliqua, et hoc
+          sine determinatione, verus autem non nisi cum determinatione aliqua,
+          et hoc
           <app>
             <!-- Correction before coyp of O ancestor -->
             <lem wit="#O">est</lem>
@@ -1507,7 +1523,7 @@
               <add place="above">est</add>
             </rdg>
           </app>
-          vitium quoddam, sed ratione excusatum, prout igitur falsum sumitur in
+          vitium quoddam, sed ratione excusatum; prout igitur falsum sumitur in
           designatione sui totius,
           <cb ed="#C" n="b"/>
           figurativa, et impropria et quodammodo vitiosa est designatio, prout
@@ -1536,10 +1552,11 @@
             </lem>
             <rdg wit="#O" type="variation-absent" />
           </app>
-          , quod est simpliciter falsum. Quod etiam (ut melius intelligatur)
-          <!-- Beginning of Peri Herm. -->
-          notandum quod quatuor sunt quae debemus attendere: litterae, voces,
-          intellectus et res;
+          , quod est simpliciter falsum.
+        </p>
+        <p xml:id="da-3-d3c6-6hncwy">
+          Quod etiam (ut melius intelligatur) notandum quod quatuor sunt quae
+          debemus attendere: litterae, voces, intellectus et res;
           <app>
             <lem wit="#C">sicut autem</lem>
             <rdg wit="#O" type="variation-inversion">autem sicut</rdg>
@@ -1704,7 +1721,10 @@
             <rdg wit="#O">improprie</rdg>
           </app>
           est bene utens, secundum quid autem et per
-          accidens sive improprie male. Similiter intellige de intellectu et re
+          accidens sive improprie male.
+        </p>
+        <p xml:id="da-3-d3c6-xlifql">
+          Similiter intellige de intellectu et re
           signata sub intellectu. Possumus enim uti intellectu tum pro se tum pro
           re, sed pro se improprie cum in ipso nihil attendamus nisi impsum et
           non rem propter quam est intellectus et de qua; cum autem
@@ -1715,7 +1735,7 @@
             </rdg>
           </app>
           utimur intellectu non pro se sed pro re cuius est imago et similitudo,
-          tunc utimur proprie, hoc est simpliciter et per se; Cum vero per ipsum
+          tunc utimur proprie, hoc est simpliciter et per se; cum vero per ipsum
           intellectum concipimus
           <app>
             <lem wit="#C">ipsum</lem>
@@ -1755,7 +1775,7 @@
           </app>
           <!-- Bon mot -->
           et simpliciter concipitur aliud per accidens et secundum quid. Ubi
-          autem unum propter alterum utrobique tantum, cum igitur aliquis dicit
+          autem unum propter alterum, utrobique tantum, cum igitur aliquis dicit
           <mentioned>ego dico falsum</mentioned>, per hanc dictionem falsum fit
           designatio multarum compositionum falsarum, sed simpliciter et proprie
           designat compositiones extrinsecas quae non sunt haec ipsa compositio,
@@ -1828,7 +1848,7 @@
             <rdg wit="#O">pro</rdg>
             <witDetail wit="#C">fortasse corr. ex <mentioned>pro</mentioned></witDetail>
           </app>
-          eo cuius est pars videtur accidere infinitas in comprehensione et
+          eo cuius est pars, videtur accidere infinitas in comprehensione et
           circulatio, et sic nihil posse comprehendi per talem compositionem, cum
           omnis comprehensio infinitatem repudiet et terminum requirat in quo
           quiescat.
@@ -1870,15 +1890,18 @@
           </app>
           totum ad <c type="variable">a</c>, ergo unum et idem est totum et pars
           sui ipsius, quod est impossibile. Et hic manifesta inciderit infinitas
-          et circulatio. Ad hoc notandum quod aliud est intellectus, aliud est
-          res, ut dictum est. Res enim secundum quod res sunt extra animam
-          quarum similitudines in anima, sicut in tabula depinguuntur quae
-          similitudines, et passiones animae dicuntur, et intellectus et ex
-          talium passionum sive intellectuum coniunctione debita, id est ex
-          intellectu subiectivo et intellectu praedicativo, conficitur
-          enuntiabile. Sicut ergo haec res quae est homo non est iste
-          intellectus <mentioned>homo</mentioned> qui est in anima, nec pars
-          eius, ita res non est enuntiabile nec pars enuntiabilis,
+          et circulatio.
+        </p>
+        <p xml:id="da-3-d3c6-0q7d42">
+          Ad hoc notandum quod aliud est intellectus, aliud est res, ut dictum
+          est. Res enim secundum quod res sunt extra animam quarum similitudines
+          in anima, sicut in tabula depinguuntur quae similitudines, et
+          passiones animae dicuntur, et intellectus et ex talium passionum sive
+          intellectuum coniunctione debita, id est ex intellectu subiectivo et
+          intellectu praedicativo, conficitur enuntiabile. Sicut ergo haec res
+          quae est homo non est iste intellectus <mentioned>homo</mentioned> qui
+          est in anima, nec pars eius, ita res non est enuntiabile nec pars
+          enuntiabilis,
           <app>
             <lem wit="#C">ut</lem>
             <rdg wit="#O">et</rdg>
@@ -1938,11 +1961,12 @@
           discrete <mentioned>a esse falsum</mentioned>, sequitur idem respectu
           eiusdem esse verum et falsum et alia huiusmodi sequuntur impossibilia;
           impossibile autem est quo posito sequitur impossibile haec et
-          huiusmodi inconvenientia nonquam eveniunt in terminis communibus. Alia
-          multa possunt circa haec inquiri et dubitari quibus ad presens
+          huiusmodi inconvenientia nonquam eveniunt in terminis communibus.
+        </p>
+        <p xml:id="da-3-d3c6-3ofj1r">
+          Alia multa possunt circa haec inquiri et dubitari quibus ad presens
           supersedemus ut ad principale propositum festinemus.
         </p>
-        <anchor xml:id="end_deletion_C" />
       </div>
     </body>
   </text>
