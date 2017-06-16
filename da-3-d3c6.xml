@@ -99,207 +99,216 @@
         <p xml:id="da-3-d3c6-io7s60">
           Ex praemissis habemus idem esse intellectum et intellectionem et rem
           intellectam, contra quod obici solet a quibusdam physicae facultatis
-          ignaris quorum oppositiones, ut refellantur, proponamus. Dicunt ergo
-          quasi pro magno inconvenienti quod inde sequitur unum et idem esse
-          signum et signatum respectu eiusdem et prius ac posterius se ipso et
-          huiusmodi.
+          ignaris quorum oppositiones, ut refellantur, proponamus.
         </p>
-        <p xml:id="da-3-d3c6-jj1y9m">
-          Item, instrumentum percutiendi secundum quod
-          <app>
-            <lem wit="#C">est</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          instrumentum a se ipso non suscipit percussionem, non enim percutit se
-          ipsum, similiter instrumentum videndi non videt seipsum; unde nec
-          baculus percutitur nec oculus videtur
-          <app>
-            <!-- Change added after copy of O -->
-            <lem wit="#C" type="correction-addition"><add place="margin-left">a se ipso</add></lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          ; nullus enim sensus potest esse iudex sui, sicut declaratum est
-          superius; ergo a simili cum intellectus sit instrumentum intelligendi,
-          ipse intellectus a se ipso non intelligitur.
-        </p>
-        <p xml:id="da-3-d3c6-lcvp0v">
-          Item,
-          <app>
-            <lem wit="#C">hoc</lem>
-            <rdg wit="#O">haec</rdg>
-          </app>
-          volunt probare ducendo ad metam falsi vel impossibilis hoc modo: Si
-          pars non potest constituere intellectum de suo toto, multo fortius
-          idem non potest constituere intellectum de se ipso. Huius autem
-          conditionalis antecedens volunt probare in terminis insolubilibus, ut
-          in eo quod est <mentioned>ego dico falsum</mentioned>, si enim haec
-          dictio falsum constituit intellectum de eo quod est me dicere falsum,
-          ergo cum dico <mentioned>ego dico falsum</mentioned>, idem est ac si
-          dicerem <mentioned>ego dico me dicere falsum</mentioned> sed adhuc
-          haec <mentioned>dico falsum</mentioned> eundem constituit intellectum
-          <app>
-            <lem wit="#C">quem</lem>
-            <rdg wit="#O">que</rdg>
-          </app>
-          prius, ergo idem est ac si diceretur <mentioned>ego dico me dicere me
-          dicere falsum</mentioned>, et sic in infinitum, sed impossibile est
-          aliquid in infinitum procedere; ergo impossibile est primum, scilicet
-          hanc dictionem falsum constituere intellectum de eo cuius est pars,
-          impossibile enim est quo posito sequitur impossibile.
-        </p>
-        <p xml:id="da-3-d3c6-pcpw02">
-          Preterea, si ita, procedit in infinitum, sed infinita non contingit
-          pertransire intelligentem, ergo impossibile est intelligi quod
-          significatur
-          <app>
-            <!-- Correction read by O. -->
-            <lem wit="#O">hac</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above">hac</add>
-            </rdg>
-          </app>
-          propositione <mentioned>ego dico falsum</mentioned>, ergo nihil est
-          quod ea significatur, et haec est causa quare quidam ad talia
-          proposita dicunt <quote>nihil dicis</quote>, et cum dicitur <quote>ego
-          propono falsum</quote>, dicunt <quote>nihil proponis</quote>, et haec
-          est sententia cassationis et causa eius; sed cuilibet consideranti
-          constat quod huic voci <mentioned>ego dico falsum</mentioned> aliquis
-          subest intellectus, ergo iste terminus <cb ed="#O" n="b"/> falsum non
-          constituit intellectum de eo cuius est pars, ergo non est signum sui
-          et ita de omnibus aliis.
-        </p>
-        <!-- Paul Spade. Om løgneren. -->
-        <p xml:id="da-3-d3c6-l5c348">
-          Item, cum anima per intellectum abstrahentem abstrahit lineam vel
-          rectum sive huiusmodi aliquid in tali abstractione, aliud est ipsum
-          quod intelligitur, aliud autem id per quod intelligitur; aliud enim est
-          quod iam imprimitur animae abstrahenti, aliud autem forma ipsius
-          intellectivi, alia
-          <app>
-            <!-- Correction read by O. -->
-            <lem wit="#O">enim</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above">enim</add>
-            </rdg>
-          </app>
-          est impressio facta in anima quam rectum quod est in materia, ergo in
-          apprehensione
-          <cb ed="#C" n="b"/>
-          recti fit
-          <app>
-            <lem wit="#C">dualitas</lem>
-            <rdg wit="#O"><unclear>dualitas</unclear></rdg>
-            <witDetail wit="#O"><mentioned>d</mentioned> splotched out with ink</witDetail>
-          </app>
-          , aliud est enim in anima interius aliud in materia exterius, et ita
-          de aliis quibuscumque intellectis. Cum autem anima se ipsam sive
-          intellectus seipsum intelligit, in intelligendo patitur, ergo a seipsa
-          suscipit quandam passionem; illa passio est accidens ipsi, adest enim et
-          abest subiecto manente incorrupto, quandoque
-          <app>
-            <lem wit="#C">enim</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          intelligit
-          <app>
-            <lem wit="#C">seipsam</lem>
-            <rdg wit="#O">seipsa</rdg>
-          </app>
-          quandoque non; nihil autem est sua passio sicut nulla substantia est
-          suum accidens, ergo anima non est ipsa sui passio qua seipsam
-          intelligit, neque intellectus sua passio qua se intelligit; ergo
-          similiter hic sicut
-          <app>
-            <lem wit="#C">in</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          aliis est dualitas in apprehensione, et aliud est id quod
-          intelligitur, aliud id quo intelligitur et aliud signum aliud
-          signatum, ergo intellectus non est signum sui.
-        </p>
-        <p xml:id="da-3-d3c6-j9y1li">
-          <!-- De int. -->
-          Item, teste
-          <cit>
-            <ref>
-              <name ref="#Aristotle">Aristotele</name>
-            </ref>
-            <quote type="paraphrase">
-              , voces sunt notae earum quae sunt in anima passionum. Passiones
-              autem sunt notae rerum quas etiam passiones aristoteles
-              similitudines rerum apellat.
-            </quote>
-            <bibl ana="#Aristotle_DeInterpretatione_1_fibmi7
-                       #Aristotle_DeInterpretatione_1_gdm4fb" n="trans_boethii">
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.Int">Int. </title>
-              1.16a2--8.
-            </bibl>
-          </cit>
-          Heae autem sunt accidentales animae sicut praedictum est. Vires autem
-          sunt substantiales animae sive essentiales. Iste vero terminus
-          <mentioned>intellectus</mentioned> est vox significativa ad placitum,
-          ergo est nota eius quae est in anima passionis, ergo significat
-          intellectum qui est passio animae, et sub illa passione concipitur
-          ipse intellectus qui est vis animae substantialis, cum
-          <app>
-            <lem wit="#C">passio ipsa</lem>
-            <rdg wit="#O" type="variation-inversion">ipsa passio</rdg>
-          </app>
-          sit accidentalis; ergo hic est dualitas, et aliud est quod
-          intelligitur aliud autem quo intelligitur; ergo ipse intellectus non
-          intelligitur per seipsum sed per aliud ergo intellectus non est signum
-          sui.
-        </p>
-        <p xml:id="da-3-d3c6-kw5pkf">
-          Item, dato quod intellectus
-          <app>
-            <!-- Insubstantial correction in O -->
-            <lem wit="#C">seipsum</lem>
-            <rdg wit="#O" type="correction-substitution">
-              <subst>
-                <add>seipsum</add>
-                <del>seiipsum</del>
-              </subst>
-            </rdg>
-          </app>
-          per seipsum intelligat, videtur
-          quod semper seipsum
-          <app>
-            <lem wit="#C">de</lem>
-            <rdg wit="#O" type="correction-substitution">
-              <subst>
-                <add>de</add>
-                <del>dei</del>
-              </subst>
-            </rdg>
-          </app>
-          neccesitate intelligat. Oculus enim per similitudines coloratorum
-          apprehendit colorata, et semper dum sibi praesens est illa similitudo
-          videndo sentit id cuius est illa similitudo, semper enim videtur album
-          dum similitudo albi est preasens in oculo, et ita de aliis. Si autem
-          oculus seipsum apprehenderet, et videret seipsum, cum ipse oculus sibi
-          semper sit praesens, ipse in videndo semper seipsum videret, et sic
-          omnis videns semper et continue suum videret oculum, dum enim praesens
-          <app>
-            <lem wit="#O">est</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above-line">est</add>
-            </rdg>
-          </app>
-          id quo videtur res, praesentialiter etiam videtur ipsa res; simili
-          modo si intellectus seipsum per seipsum intelligit, cum ipse
-          intellectus sibi ipsi semper sit praesens, semper intelligitur ipse
-          intellectus, sed non contingit simul et semel plura intelligi; ergo si
-          intellectus semper seipsum intelligit, seipsum solum modo semper
-          intelligit, et nihil umquam aliud, quod patet esse manifeste falsum;
-          ergo primum est falsum ex quo hoc sequitur, scilicet intellectum
-          seipsum per seipsum intelligere, neque igitur intellectus est signum
-          sui neque iudex sui per se.
-        </p>
+        <div type="section">
+          <head><supplied ana="#meta-text">Rationes principales</supplied></head>
+          <p xml:id="da-3-d3c6-du7fk1">
+            Dicunt ergo quasi pro magno inconvenienti quod inde sequitur unum et
+            idem esse signum et signatum respectu eiusdem et prius ac posterius se
+            ipso et huiusmodi.
+          </p>
+          <p xml:id="da-3-d3c6-jj1y9m">
+            Item, instrumentum percutiendi secundum quod
+            <app>
+              <lem wit="#C">est</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            instrumentum a se ipso non suscipit percussionem, non enim percutit se
+            ipsum, similiter instrumentum videndi non videt seipsum; unde nec
+            baculus percutitur nec oculus videtur
+            <app>
+              <!-- Change added after copy of O -->
+              <lem wit="#C" type="correction-addition"><add place="margin-left">a se ipso</add></lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            ; nullus enim sensus potest esse iudex sui, sicut declaratum est
+            superius; ergo a simili cum intellectus sit instrumentum intelligendi,
+            ipse intellectus a se ipso non intelligitur.
+          </p>
+          <p xml:id="da-3-d3c6-lcvp0v">
+            Item,
+            <app>
+              <lem wit="#C">hoc</lem>
+              <rdg wit="#O">haec</rdg>
+            </app>
+            volunt probare ducendo ad metam falsi vel impossibilis hoc modo: Si
+            pars non potest constituere intellectum de suo toto, multo fortius
+            idem non potest constituere intellectum de se ipso. Huius autem
+            conditionalis antecedens volunt probare in terminis insolubilibus, ut
+            in eo quod est <mentioned>ego dico falsum</mentioned>, si enim haec
+            dictio falsum constituit intellectum de eo quod est me dicere falsum,
+            ergo cum dico <mentioned>ego dico falsum</mentioned>, idem est ac si
+            dicerem <mentioned>ego dico me dicere falsum</mentioned>, sed adhuc
+            haec <mentioned>dicere falsum</mentioned> eundem constituit intellectum
+            <app>
+              <lem wit="#C">quem</lem>
+              <rdg wit="#O">que</rdg>
+            </app>
+            prius, ergo idem est ac si diceretur <mentioned>ego dico me dicere me
+            dicere falsum</mentioned>, et sic in infinitum, sed impossibile est
+            aliquid in infinitum procedere; ergo impossibile est primum, scilicet
+            hanc dictionem falsum constituere intellectum de eo cuius est pars,
+            impossibile enim est quo posito sequitur impossibile.
+          </p>
+          <p xml:id="da-3-d3c6-pcpw02">
+            Preterea, si ita, procedit in infinitum, sed infinita non contingit
+            pertransire intelligentem, ergo impossibile est intelligi quod
+            significatur
+            <app>
+              <!-- Correction read by O. -->
+              <lem wit="#O">hac</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above">hac</add>
+              </rdg>
+            </app>
+            propositione <mentioned>ego dico falsum</mentioned>, ergo nihil est
+            quod ea significatur, et haec est causa quare quidam ad talia
+            proposita dicunt <quote>nihil dicis</quote>, et cum dicitur <quote>ego
+            propono falsum</quote>, dicunt <quote>nihil proponis</quote>, et haec
+            est sententia cassationis et causa eius; sed cuilibet consideranti
+            constat quod huic voci <mentioned>ego dico falsum</mentioned> aliquis
+            subest intellectus, ergo iste terminus <cb ed="#O" n="b"/> falsum non
+            constituit intellectum de eo cuius est pars, ergo non est signum sui
+            et ita de omnibus aliis.
+          </p>
+          <!-- Paul Spade. Om løgneren. -->
+          <p xml:id="da-3-d3c6-l5c348">
+            Item, cum anima per intellectum abstrahentem abstrahit lineam vel
+            rectum sive huiusmodi aliquid in tali abstractione, aliud est ipsum
+            quod intelligitur, aliud autem id per quod intelligitur; aliud enim est
+            quod iam imprimitur animae abstrahenti, aliud autem forma ipsius
+            intellectivi, alia
+            <app>
+              <!-- Correction read by O. -->
+              <lem wit="#O">enim</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above">enim</add>
+              </rdg>
+            </app>
+            est impressio facta in anima quam rectum quod est in materia, ergo in
+            apprehensione
+            <cb ed="#C" n="b"/>
+            recti fit
+            <app>
+              <lem wit="#C">dualitas</lem>
+              <rdg wit="#O"><unclear>dualitas</unclear></rdg>
+              <witDetail wit="#O"><mentioned>d</mentioned> splotched out with ink</witDetail>
+            </app>
+            , aliud est enim in anima interius aliud in materia exterius, et ita
+            de aliis quibuscumque intellectis. Cum autem anima se ipsam sive
+            intellectus seipsum intelligit, in intelligendo patitur, ergo a seipsa
+            suscipit quandam passionem; illa passio est accidens ipsi, adest enim et
+            abest subiecto manente incorrupto, quandoque
+            <app>
+              <lem wit="#C">enim</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            intelligit
+            <app>
+              <lem wit="#C">seipsam</lem>
+              <rdg wit="#O">seipsa</rdg>
+            </app>
+            quandoque non; nihil autem est sua passio sicut nulla substantia est
+            suum accidens, ergo anima non est ipsa sui passio qua seipsam
+            intelligit, neque intellectus sua passio qua se intelligit; ergo
+            similiter hic sicut
+            <app>
+              <lem wit="#C">in</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            aliis est dualitas in apprehensione, et aliud est id quod
+            intelligitur, aliud id quo intelligitur et aliud signum aliud
+            signatum, ergo intellectus non est signum sui.
+          </p>
+          <p xml:id="da-3-d3c6-j9y1li">
+            <!-- De int. -->
+            Item, teste
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Aristotele</name>
+              </ref>
+              <quote type="paraphrase">
+                , voces sunt notae earum quae sunt in anima passionum. Passiones
+                autem sunt notae rerum quas etiam passiones aristoteles
+                similitudines rerum apellat,
+              </quote>
+              <bibl ana="#Aristotle_DeInterpretatione_1_fibmi7
+                         #Aristotle_DeInterpretatione_1_gdm4fb" n="trans_boethii">
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.Int">Int. </title>
+                1.16a2--8.
+              </bibl>
+            </cit>
+            heae autem sunt accidentales animae sicut praedictum est, vires autem
+            sunt substantiales animae sive essentiales; iste vero terminus
+            <mentioned>intellectus</mentioned> est vox significativa ad placitum,
+            ergo est nota eius quae est in anima passionis, ergo significat
+            intellectum qui est passio animae, et sub illa passione concipitur
+            ipse intellectus qui est vis animae substantialis, cum
+            <app>
+              <lem wit="#C">passio ipsa</lem>
+              <rdg wit="#O" type="variation-inversion">ipsa passio</rdg>
+            </app>
+            sit accidentalis; ergo hic est dualitas, et aliud est quod
+            intelligitur aliud autem quo intelligitur; ergo ipse intellectus non
+            intelligitur per seipsum sed per aliud ergo intellectus non est signum
+            sui.
+          </p>
+          <p xml:id="da-3-d3c6-kw5pkf">
+            Item, dato quod intellectus
+            <app>
+              <!-- Insubstantial correction in O -->
+              <lem wit="#C">seipsum</lem>
+              <rdg wit="#O" type="correction-substitution">
+                <subst>
+                  <add>seipsum</add>
+                  <del>seiipsum</del>
+                </subst>
+              </rdg>
+            </app>
+            per seipsum intelligat, videtur
+            quod semper seipsum
+            <app>
+              <lem wit="#C">de</lem>
+              <rdg wit="#O" type="correction-substitution">
+                <subst>
+                  <add>de</add>
+                  <del>dei</del>
+                </subst>
+              </rdg>
+            </app>
+            neccesitate intelligat. Oculus enim per similitudines coloratorum
+            apprehendit colorata, et semper dum sibi praesens est illa similitudo
+            videndo sentit id cuius est illa similitudo, semper enim videtur album
+            dum similitudo albi est preasens in oculo, et ita de aliis. Si autem
+            oculus seipsum apprehenderet, et videret seipsum, cum ipse oculus sibi
+            semper sit praesens, ipse in videndo semper seipsum videret, et sic
+            omnis videns semper et continue suum videret oculum, dum enim praesens
+            <app>
+              <lem wit="#O">est</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above-line">est</add>
+              </rdg>
+            </app>
+            id quo videtur res, praesentialiter etiam videtur ipsa res; simili
+            modo si intellectus seipsum per seipsum intelligit, cum ipse
+            intellectus sibi ipsi semper sit praesens, semper intelligitur ipse
+            intellectus, sed non contingit simul et semel plura intelligi; ergo si
+            intellectus semper seipsum intelligit, seipsum solum modo semper
+            intelligit, et nihil umquam aliud, quod patet esse manifeste falsum;
+            ergo primum est falsum ex quo hoc sequitur, scilicet intellectum
+            seipsum per seipsum intelligere, neque igitur intellectus est signum
+            sui neque iudex sui per se.
+          </p>
+        </div>
+        <div type="section">
+          <head><supplied ana="#meta-text">Determinatio</supplied></head>
         <p xml:id="da-3-d3c6-p27fzh">
           Quod autem non ita sit, sed quod ipse intellectus sit signum et iudex
-          sui per se et non per aliud ratione et auctoritate probemus.
+          sui per se, et non per aliud, ratione et auctoritate probemus.
+        </p>
+        <p xml:id="da-3-d3c6-zo63m7">
           <cit>
             <quote>
               Anima
@@ -338,8 +347,8 @@
           </cit>
           , ut in qua sunt omnes formae et similitudines intelligibiles, sicut
           in materia sunt formae sensibiles, et ipsa etiam seipsam sine dubio
-          potest intelligere et suum intellectum, sed quicquid intelligit
-          intellectu, intelligit ergo seipsam et suum intellectum non nisi
+          potest intelligere et suum intellectum; sed quicquid intelligit
+          intellectu; intelligit ergo seipsam et suum intellectum non nisi
           intellectu intelligit. Si autem
           <app>
             <lem wit="#C">comprehenderem</lem>
@@ -501,7 +510,10 @@
             <lem wit="#C">simul</lem>
             <rdg wit="#O">scibilis</rdg>
           </app>
-          in eodem subiecto. Praeterea, similitudo et id
+          in eodem subiecto.
+        </p>
+        <p xml:id="da-3-d3c6-zrtkx4">
+          Praeterea, similitudo et id
           <app>
             <lem wit="#C">cuius</lem>
             <rdg wit="#O">quod</rdg>
@@ -818,6 +830,11 @@
           </app>
           pro inconvenienti.
         </p>
+      </div>
+      <div type="section">
+        <head>
+          <supplied ana="#meta-text">Ad rationes principales</supplied>
+        </head>
         <p xml:id="da-3-d3c6-kfwosi">
           Manifestum est enim intellectum non nisi per seipsum intelligi, et
           ipsum sui ipsius esse signum. Anima enim rationalis habet in se vim
@@ -1965,6 +1982,7 @@
           Alia multa possunt circa haec inquiri et dubitari quibus ad presens
           supersedemus ut ad principale propositum festinemus.
         </p>
+      </div>
       </div>
     </body>
   </text>
