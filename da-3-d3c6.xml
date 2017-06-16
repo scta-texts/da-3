@@ -1683,18 +1683,16 @@
               lectionem duplicem vocis <mentioned>utitur</mentioned> et
               <mentioned>utimur</mentioned> ut videtur habet
             </witDetail>
-            <note>Note that O reads utitur.</note>
           </app>
           , cum non
           <app>
             <lem>utamur</lem>
             <rdg wit="#O">utatur</rdg>
-            <rdg wit="#C">utamur</rdg>
+            <rdg wit="#C">utamur et utatur</rdg>
             <witDetail wit="#C">
               lectionem duplicem vocis <mentioned>utatur</mentioned> et
               <mentioned>utamur</mentioned> ut videtur habet
             </witDetail>
-            <note>Note that O reads utatur.</note>
           </app>
           <app>
             <lem wit="#C">statua</lem>
