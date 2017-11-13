@@ -305,1695 +305,1695 @@
         </div>
         <div type="section">
           <head><supplied ana="#meta-text">Determinatio</supplied></head>
-        <p xml:id="da-3-d3c6-p27fzh">
-          Quod autem non ita sit, sed quod ipse intellectus sit signum et iudex
-          sui per se, et non per aliud, ratione et auctoritate probemus.
-        </p>
-        <p xml:id="da-3-d3c6-zo63m7">
-          <cit>
-            <quote>
-              Anima
-            </quote>
-            <ref>
-              , ut ait <name ref="#Aristotle">Aristoteles</name>,
-            </ref>
-            <quote>potentia est omnia</quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.DA">DA</title>
-              III.4 430a30--31.
-            </bibl>
-            <note>
-              Cf.
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.DA">DA</title>
-              III.4 429a24 and III.8 431b21. Themistius and Philoponus are
-              closer to the phrasing in their commentaries, e.g.
-              <name ref="#Themistius">Them.</name>
-              <title ref="#Them.InDA">In DA</title>
-              ad III.4 429a15, p. 214.5, and
-              <name ref="#Philoponus">Philop.</name>
-              <title ref="#Philop.InDA">In DA</title>
-              ad III.4 429a21--22, p. 11.57.
-            </note>
-          </cit>
-          ,
-          <cit>
-            <quote type="paraphrase">ipsa est enim locus omnium formarum</quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.DA">DA</title>
-              III.4 429a25--29.
-            </bibl>
-          </cit>
-          , ut in qua sunt omnes formae et similitudines intelligibiles, sicut
-          in materia sunt formae sensibiles, et ipsa etiam seipsam sine dubio
-          potest intelligere et suum intellectum; sed quicquid intelligit
-          intellectu; intelligit ergo seipsam et suum intellectum non nisi
-          intellectu intelligit. Si autem
-          <app>
-            <lem wit="#C">comprehenderem</lem>
-            <rdg wit="#O">apprehenderem</rdg>
-          </app>
-          me in mea albidine per meam albidinem, ipsam meam albidinem per ipsam
-          meam albidinem comprehenderem, et etiam totum per partem, id est album
-          per albidinem; album enim est subiectum in albidine, et sic albedo est
-          pars albi secundum quod <pb ed="#C" n="135-r"/><cb ed="#C" n="a"/>
-          album (pars inquam formalis sive accidentalis). Similiter si anima per
-          intellectum seipsam in suo intelligit intellectu,
-          <app>
-            <lem n="intellectu" />
-            <rdg wit="#C" type="correction-deletion"><del>ipsa</del></rdg>
-            <rdg wit="#O">ipsa</rdg>
-            <witDetail wit="#C">ut vid.</witDetail>
-          </app>
-          utique per intellectum intelligit ipsum intellectum et idem per se, et
-          sic idem est signum et iudex sui.
-        </p>
-        <p xml:id="da-3-d3c6-l28yln">
-          Item, nemo sani intellectus dubitat quin anima suum intellectum
-          intelligat, hoc enim <name ref="#Aristotle">Aristoteles</name> et
-          beatus <name ref="#Augustine">Augustinus</name> et alii
-          <app>
-            <lem wit="#C">viri</lem>
-            <rdg wit="#O" type="correction-substitution">
-              <subst>
-                <del>veiri</del>
-                <add>viri</add>
-              </subst>
-            </rdg>
-          </app>
-          auctentici testantur.
-        </p>
-        <p xml:id="da-3-d3c6-p9idg6">
-          <!-- Tjek lombardus -->
-          Unde
-          <cit>
-            <ref>
-              <name ref="#Augustine">Augustinus</name>
-              <title ref="#Aug.SuperGenesim">
-                Super Genesim ad <pb ed="#O" n="92-v"/><cb ed="#O" n="a"/>
-                litteram,
-              </title>
-              libro
-              <app>
-                <lem n="libro" />
-                <rdg wit="#O" type="variation-present"><unclear>X</unclear></rdg>
-              </app>
-              XII:
-            </ref>
-            <quote>
-              Quo enim alio modo intellectus nisi intelligendo conspicitur?
-            </quote>
-            <bibl>
-              <name ref="#Augustine">Aug.</name>
-              <title ref="#Aug.SuperGenesim">Sup. Gen. ad litt.</title>
-              XII, cap. 24 (Patr. Lat. 34, col. 474, §50).
-            </bibl>
-          </cit>
-          , et
-          <cit>
-            <ref>
-              <title ref="#Aug.Trin">De trinitate</title>
-              , libro V, capitolo II:
-            </ref>
-            <quote>
-              Quo intellectu homo Deum capit, nisi ipsum intellectum suum quo eum
-              vult capere capiatur?
-            </quote>
-            <bibl>
-              <name ref="#Augustine">Aug.</name>
-              <title ref="#Aug.SuperGenesim">Trin.</title>
-              V.1.2 (Corp. Chr. 50.1, p. 206.29--30).
-            </bibl>
-          </cit>
-          , quasi dicat <quote>cum homo secundum intellectum sit imago et
-          similitudo Dei, nullo modo Deum poterit intellectu capere, nisi etiam
-          ipsum suum intellectum intelligat</quote>, et cetera multa.
-        </p>
-        <p xml:id="da-3-d3c6-rkaodn">
-          Et
-          <ref corresp="#da-3-d3c6-quote-lckzx6">
-            <name ref="#Aristotle">Aristoteles</name>
-          </ref>
-          dicit quod
-          <cit>
-            <quote xml:id="da-3-d3c6-quote-lckzx6" type="paraphrase">
-              intellectus et omnia alia et seipsum intelligit
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.DA">DA</title>
-              III.4 430a2--3.
-            </bibl>
-            <note>
-              He does not literally say that in this passage, but it is as
-              close as we get.
-            </note>
-          </cit>
-          . Quomodo etiam nos loqueremur de nostro intellectu nisi ipsum nostrum
-          intellectum intelligeremus? Voces enim sunt notae intellectuum;
-          intellectus autem sunt signa rerum; cum ergo intelligitur intellectus,
-          aut ipse intellectus intelligit seipsum per seipsum, aut per aliud; si
-          per seipsum habeo propositum, si per aliud, illud aliud iterum
-          contingit intelligi, aut ergo per se aut per aliud; si per se, habeo
-          propositum, quoniam inde sequitur aliquem intellectum esse signum sui;
-          si per aliud, aut ergo per primum intellectum aut per alium, tam ab
-          hoc ipso quam a primo; si per primum, ergo primum est signum
-          <app>
-            <lem wit="#C">huius</lem>
-            <rdg wit="#O">huiusmodi</rdg>
-          </app>
-          , sed hoc dicebatur esse signum primi, ergo per medium hoc est signum
-          sui;
-          <app>
-            <lem wit="#C">praeterea</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          , si utrumque intelligitur per reliquum, ergo ibi
-          <app>
-            <!-- Change added before O copied -->
-            <lem wit="#O">est</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above">est</add>
-            </rdg>
-          </app>
-          circularis intellectio, et talis nulla est; si autem illud secundum
-          intelligitur per aliud a primo, iterum illud aliud quod iam est
-          tertium aut intelligitur per se aut per alterum duorum primorum aut
-          per aliud ab illis, quod sit quartum, et
-          <app>
-            <lem wit="#C">sic</lem>
-            <rdg wit="#O">ergo</rdg>
-          </app>
-          procedendo aut infinitas proveniet aut circulatio, quorum utrumque ars
-          et natura repudiat, ergo necesse est aliquem intellectum esse signum
-          sui.
-        </p>
-        <p xml:id="da-3-d3c6-fee39d">
-          Praeterea, si anima comprehendit suum intellectum per aliud ab ipso
-          intellectu, illud aliud non est nisi intellectus, nihil enim
-          intelligimus nisi per intellectum.
-          <app>
-            <lem wit="#C">Isti</lem>
-            <rdg wit="#O">nisi</rdg>
-          </app>
-          duo
-          <app>
-            <lem wit="#C">intellectus</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          sunt diversi in numero et non in specie, uterque enim est ad eundem
-          finem; sic ergo contingit duas formas eiusdem speciei simul et semel
-          esse in eodem subiecto, quod est inconveniens, duae enim albidines non
-          coniunguntur
-          <app>
-            <lem wit="#C">simul</lem>
-            <rdg wit="#O">scibilis</rdg>
-          </app>
-          in eodem subiecto.
-        </p>
-        <p xml:id="da-3-d3c6-zrtkx4">
-          Praeterea, similitudo et id
-          <app>
-            <lem wit="#C">cuius</lem>
-            <rdg wit="#O">quod</rdg>
-          </app>
-          est similitudo numquam sunt in eodem simul, ut albedo et imago eius,
-          albedo enim est in subiecto corpore albo quod videtur, similitudo autem
-          eius primo in aere lucido medio, deinde in oculo; sed si intellectus
-          intelligitur per aliud a se ipso, cum utrumque sit in anima, erit
-          similitudo et id cuius est similitudo simul in eodem, hoc autem est
-          inconveniens.
-        </p>
-        <p xml:id="da-3-d3c6-xm4g9s">
-          Item,
-          <cit>
-            <quote xml:id="da-3-d3c6-quote-qzba2x" type="paraphrase">
-              intellectus est similitudo et species omnium intellectorum
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.DA">DA</title>
-              III.8 432a1--3.
-            </bibl>
-            <note>
-              The reference to <mentioned>similitudines</mentioned> is difficult
-              to support.
-            </note>
-          </cit>
-          , ut dicit
-          <ref corresp="#da-3-d3c6-quote-qzba2x">
-            <name ref="#Aristotle">Aristoteles</name>
-          </ref>
-          , sed ut
-          <ref corresp="#da-3-d3c6-quote-rswbhu">idem</ref>
-          testatur,
-          <cit>
-            <quote xml:id="da-3-d3c6-quote-rswbhu" type="paraphrase">
-              ipse intellectus potest seipsum intelligere
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.DA">DA</title>
-              III.4 429b9.
-            </bibl>
-          </cit>
-          ; ergo ipse intellectus est species et similitudo sui; ergo signat se
-          ipsum. Unde dicit
-          <ref corresp="#da-3-d3c6-quote-v3zm23">
-            <name ref="#Aristotle">Aristoteles</name>
-          </ref>
-          quod
-          <cit>
-            <quote xml:id="da-3-d3c6-quote-v3zm23">
-              idem contingit esse intellectum et quod intelligitur
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.DA">DA</title>
-              III.4 430a3--4.
-            </bibl>
-          </cit>
-          ; hoc nullatenus contingere posset nisi ipse intellectus seipsum per
-          seipsum intelligeret.
-        </p>
-        <p xml:id="da-3-d3c6-839eu6">
-          Item, anima est quaedam divina
-          <app>
-            <lem n="divina"/>
-            <rdg wit="#O" type="correction-deletion"><del>s</del></rdg>
-          </app>
-          substantia simplex et impertibilis; Deus autem et seipsum et omnia
-          alia per seipsum intelligit, nihil enim potest esse in Deo quod non
-          sit Deus; anima vero in sui simplicitate assimulatur Deo; unde homo
-          gratia interioris hominis, id est animae, dicitur imago et similitudo
-          Dei; ergo sicut Deus ita anima
-          <cb ed="#C" n="b"/>
-          aliquid saltem per seipsam potest intelligere, nihil autem potius quam
-          seipsam aut suum intellectum, et
-          <app>
-            <lem wit="#C">utrumvis</lem>
-            <rdg wit="#O">ulterius</rdg>
-          </app>
-          dicatur, sequitur idem esse signum sui.
-        </p>
-        <p xml:id="da-3-d3c6-bwivhg">
-          Item, iste terminus <mentioned>homo</mentioned> significat intellectum
-          qui est signum cuiuslibet hominis, similiter ergo iste terminus
-          <mentioned>intellectus</mentioned> significat intellectum qui est
-          signum cuiuslibet intellectus; sed intellectus huius termini
-          <mentioned>intellectus</mentioned> est aliquis intellectus, ergo iste
-          intellectus significatur per istum intellectum; ergo iste intellectus
-          est signum sui.
-        </p>
-        <p xml:id="da-3-d3c6-so1dqe">
-          Multa alia possent ad hoc probandum induci, sed haec ad praesens
-          sufficiant ut credamus intellectum esse signum sui ipsius.
-        </p>
-        <p xml:id="da-3-d3c6-g0pv59">
-          Unde, sicut refert
-          <ref corresp="#da-3-d3c6-quote-senn4r">
-            <name ref="#Calcidius">Calcidius</name> <title
-            ref="Plato.Timaeus">Super Timaeum Platonis</title>,
-          </ref>
-          <name ref="#Plato">Plato</name> dicebat
-          <cit>
-            <quote xml:id="da-3-d3c6-quote-senn4r" type="paraphrase">
-              animam circulum esse, ipsa enim
-              <app>
-                <!-- Correction before copy of O -->
-                <lem n="enim"/>
-                <rdg wit="#C" type="correction-deletion"><del>est</del></rdg>
-              </app>
-              per seipsam est rediens ad seipsam
-            </quote>
-            <bibl>
-              <name ref="#Calcidius">Calc.</name>
-              <title ref="#Calc.InTim">In Tim.</title>
-              cap. 58--59 (ad <name ref="#Plato">Pl.</name>
-              <title ref="#Plato.Tim">Tim.</title> 34a2--c5).
-            </bibl>
-          </cit>
-          , licet ipsa in hac mortali vita seipsam plene et perfecte non
-          comprehendat (nihil enim a nobis plene scitur et perfecte).
-        </p>
-        <p xml:id="da-3-d3c6-9exvkn">
-          Unde Socrates dicebat
-          <cit>
-            <quote>hoc solum scio me nihil scire</quote>
-            <bibl>
-              <name ref="#Cicero">Cic.</name>
-              <title ref="#Cic.Acad">Acad.</title>
-              I 16.
-            </bibl>
-            <note>
-              Cf. <name ref="#Plato">Pl.</name> <title ref="#Pl.Apol">Apol.</title>
-              29b.
-            </note>
-          </cit>
-          ; ipsa
-          tamen seipsam in suo intellectu comprehendit, et in comprehendendo
-          seipsam finis est et principium suae comprehensionis et redit super
-          <app>
-            <!-- Correction before copy of O -->
-            <lem wit="#O">illud</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above-line">illud</add>
-            </rdg>
-          </app>
-          a quo incohavit, et ideo est sicut circulus in quo utique idem est
-          principium et finis.
-        </p>
-        <p xml:id="da-3-d3c6-t26lt0">
-          Unde etiam <cb ed="#O" n="b"/>
-          <ref>
-            <name ref="#Avicenna">Avicennes</name>
-            <title ref="#Avic.InDA">Super Librum de anima</title>
-          </ref>
-          dicit quod
-          <cit>
-            <quote>
-              anima intelligit seipsam et hoc facit eam intelligere se esse
-              intelligentem et rem intellectam.
-            </quote>
-            <bibl>???</bibl>
-          </cit>
-          Unde anima et seipsam et suum intellectum intelligit, etsi non plene et
-          perfecte, unde nihil mirum si ipsum Deum, cuius est imago, non plene
-          intelligit.
-        </p>
-        <p xml:id="da-3-d3c6-1m11tl">
-          Unde
-          <cit>
-            <ref>
-              <name ref="#Augustine">Augustinus</name>
-              <title ref="#Aug.Trin">De trinitate</title>:
-            </ref>
-            <!-- Really long Augustine quote! -->
-            <quote>
-              Quo
-              <app>
-                <lem n="quo"/>
-                <rdg wit="#O" type="variation-present">in</rdg>
-              </app>
-              intellectu homo Deum capit qui ipsum suum intellectum quo eum vult
-              capere nondum capitur? Si autem hunc nondum capit,
-              <app>
-                <lem wit="#C">attendat</lem>
-                <rdg wit="#O">attendatur</rdg>
-              </app>
-              tamen diligenter, nihil eo
-              <app>
-                <lem n="eo" />
-                <rdg wit="#O" type="correction-deletion"><del>sive</del></rdg>
-              </app>
-              esse in sua natura melius, et videat utrum ibi videat ulla lineamenta
-              formarum, nitores colorum, spatiosam granditatem, partium distantiam
-              <app>
-                <!-- Lacuna in O. Probably just a skipped line (although no
-                     homoioteleuton) -->
-                <lem wit="#C">
-                  molis distensionem, aliquas per locorum intervalla motiones,
-                </lem>
-                <rdg wit="#O" type="variation-absent"/>
-              </app>
-              vel
-              <app>
-                <lem wit="#C">aliquid</lem>
-                <rdg wit="#O">quid</rdg>
-              </app>
-              huiusmodi; nihil certe istorum invenimus in eo quo in natura
-              <app>
-                <lem wit="#O">nostra</lem>
-                <rdg wit="#C" type="correction-addition">
-                  <add place="right-margin">nostra</add>
-                </rdg>
-              </app>
-              nihil melius invenimus, id est in nostro intellectu quo sapientiam
-              capimus quanto capaces sumus; quod ergo non invenimus in meliore
-              nostro non debemus quaerere in illo quod longe est nostro meliore
-              melius, ut sic intelligamus Deum, si possumus et quantum possumus,
-              sine qualitate bonum, sine quantitate magnum, sine indigentia
-              creatorem, sine situ praesentem, sine habitu omnia continentem, sine
-              loco ubique totum, sine tempore sempiternum, sine ulla sui mutatione
-              mutabilia facientem nihilque patientem.
-            </quote>
-            <bibl>
-              <name ref="#Augustine">Aug.</name>
-              <title ref="#Aug.SuperGenesim">Trin.</title>
-              V.1.2 (Corpus Christianorum 50.1, p. 206.29--207.44).
-            </bibl>
-          </cit>
-        </p>
-        <p xml:id="da-3-d3c6-de9rjw">
-          Licet autem intellectus seipsum non plene intelligat, seipsum tamen
-          quocumque modo intelligit, et non nisi per seipsum, cum enim ipse sit
-          species omnium intellectorum et ipse seipsum intelligat, ipse
-          <app>
-            <lem wit="#C">nimirum</lem>
-            <rdg wit="#O">ne mirum</rdg>
-          </app>
-          est species sui ipsius, sicut enim in tabula depicta imprimitur imago
-          alicuius rei extrinsecae per quam imaginem, si tabula possit
-          intelligere et apprehendere,
-          <app>
-            <lem wit="#C">apprehenderet</lem>
-            <rdg wit="#O">apprehendet</rdg>
-          </app>
-          tam id cuius est imago quam ipsam eandem imaginem, ita omnes formas
-          rerum quasi scriptas et depictas in anima ipsa anima per se, id est per
-          suum intellectum, apprehendit, et sub illis sive mediantibus illis alias
-          res quarum sunt exempla et similitudines seipsam vero et suum
-          intellectum per seipsam et per
-          <app>
-            <lem wit="#C">ipsum suum</lem>
-            <rdg wit="#O" type="variation-inversion">suum ipsum</rdg>
-          </app>
-          intellectum intelligit; et est idem <pb ed="#C" n="135-v"/><cb ed="#C"
-          n="a"/> intellectus et intellectum et intelligens, anima enim per
-          seipsam seipsam intelligit, et intellectus seipsum per seipsum,
-          quapropter idem in re est ipsa anima et suus intellectus, sicut patebit
-          inferius capitulis sequentibus.
-        </p>
-        <p xml:id="da-3-d3c6-9ylfma">
-          In aliis autem multis evenit aliqua quae videntur esse diversa, idem
-          tamen esse in subiecto
-          <app>
-            <!-- Correction before copy of O -->
-            <lem wit="#O">et in substantia</lem>
-            <rdg wit="#C" type="variation-addition">
-              <add place="margin-left">et in substantia</add>
-            </rdg>
-          </app>
-          , diversa vero tamen in ratione; grammaticum enim et musicum idem est
-          in subiecto et substantia, alia tamen est ratio grammatici alia
-          musici; idemque et unum est materia et privatio, sed ratione diversa,
-          <app>
-            <lem wit="#O">
-              et secundum diversas rationes diversas sortitur denominationes
-              diversosque effectus
-            </lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="margin-left">
-                et secundum diversas rationes diversas sortitur denominationes
-                diversosque effectus
-              </add>
-            </rdg>
-          </app>
-          , et secundum ratione
-          <app>
-            <lem wit="#C">qua</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          est materia prior est seipsa secundum rationem qua est privatio et
-          dignior, et ita secundum diversitatem habitudinis idem seipso prius
-          est et dignius. Similiter cum circa intellectum vel huiusmodi idem
-          contingit signum esse et signatum, diversa tamen est ratio eius
-          secundum quod signum et secundum quod signatum, et secundum rationem
-          qua est signum prius et dignius est seipso secundum rationem qua est
-          signatum; sicut etiam idem est hoc animal et iste homo, et tamen
-          <app>
-            <!-- Correction before copy of O -->
-            <lem wit="#O">hoc</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="margin-left">hoc</add>
-            </rdg>
-          </app>
-          animal secundum quod animal prius est hoc homine secundum quod homo, et
-          ita nihil est quod quasi contra hoc supra inductum
-          <app>
-            <!-- Correction before copy of O -->
-            <lem wit="#O">est</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above-line">est</add>
-            </rdg>
-          </app>
-          pro inconvenienti.
-        </p>
-      </div>
-      <div type="section">
-        <head>
-          <supplied ana="#meta-text">Ad rationes principales</supplied>
-        </head>
-        <p xml:id="da-3-d3c6-kfwosi">
-          Manifestum est enim intellectum non nisi per seipsum intelligi, et
-          ipsum sui ipsius esse signum. Anima enim rationalis habet in se vim
-          sentiendi et vim intelligendi; ipsa tamen in se tantum intelligibilis
-          est et non sensibilis, et ideo sensibilia non apprehendit nisi mediante
-          aliquo, quod est passio ipsius animae et similitudo rei extrinsicae,
-          nihil enim
-          <app>
-            <lem wit="#C">apprehendit</lem>
-            <rdg wit="#O">apprehendi</rdg>
-          </app>
-          nisi per suum simile, anima vero rationalis nulli sensibilium aut
-          corporalium est similis, ergo nullum sensibile aut corporeum
-          apprehendit per se; sed cum ipsa sit simplex et intelligibilis, omnia
-          simplicia et <pb ed="#O" n="93-r"/><cb ed="#O" n="a"/> intelligibilia
-          apprehendit per se sine omni alio medio, ipsa enim in se est
-          similitudo et exemplum omnium simplicium et intelligibilium et omnis
-          divinae et intelligibilis substantiae, quoniam ipsa est quaedam
-          <app>
-            <lem wit="#C">substantia divina</lem>
-            <rdg wit="#O" type="variation-inversion">divina substantia</rdg>
-          </app>
-          simplex et intelligibilis, non autem sensibilis aut corporea.
-          Instrumenta vero corporea huiusmodi privilegium habere non possunt;
-          corporea enim instrumenta tantum rebus corporeis percipiendis et
-          apprehendendis deserviunt, corporeum enim non agit in incorporeum nec
-          immutatur ab illo, omnis enim actio sensibilis fit secundum contactum
-          sicut superius in tractatu de sensibus declaratum est, corporeum autem
-          non tangit incorporeum neque mediate neque immediate; instrumentum
-          autem intelligendi prae omnibus aliis organis suam habet praerogativam
-          sibi apropriatam qua tam corporea quam incorporea apprehendit, sed cum
-          aliquid apprehendit corporeum per abstractionem et formationem
-          intelligibilem ex corporeo, facit
-          <app>
-            <lem wit="#O">illud</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="margin-left">illud</add>
-            </rdg>
-          </app>
-          incorporeum. Forma
-          <app>
-            <lem wit="#C">enim</lem>
-            <rdg wit="#O" type="variation-absent" />
-          </app>
-          sive species corporea per intellectum abstrahentem et denudantem fit
-          incorporea, quanto autem magis a sensibilibus et corporalibus
-          retrahitur, tanto perspicacius et subtilius ad
-          <app>
-            <lem wit="#C">insensibilia et intelligibilia</lem>
-            <rdg wit="#O">intelligibilia et insensibilia</rdg>
-          </app>
-          speculanda disponitur; unde anima omnino a terrenis et sensibilibus
-          rebus suspensa et se et Deum cuius est imago contemplando speculatur,
-          qua de re homines terrenis affectibus omnino
-          dedic<supplied>at</supplied>i nec seipsos nec intellectum suum sive
-          animam suam aut etiam Deum possunt intelligere, et
-          <cb ed="#C" n="b"/>
-          tales profecto insipientes iudicandi sunt, de quibus dicitur
-          <cit>
-            <quote>
-              dixit insipiens in corde suo <quote>non est
-              Deus</quote>
-            </quote>
-            <bibl>
-              <title>Psalms</title> 14.1.
-            </bibl>
-          </cit>
-          . Patet igitur quanta sit differentia inter instrumentum corporeum et
-          instrumentum incorporeum, de quo tamen inferius plenius dicetur et
-          evidentius capitulo proximo, unde non est plena et praecisa similitudo
-          inter apprehensionem sensibilem et intelligibilem, nec inter visionem
-          sensibilem et visionem intellectualem, aliter enim est in coporeis
-          aliter in incorporeis, et ideo non valent argumentationes inductae a
-          simili, licet enim oculus non se videat, non tamen consequens est ut
-          intellectus non se intelligat.
-        </p>
-        <p xml:id="da-3-d3c6-dcyya3">
-          Notandum tamen quod in
-          <app>
-            <lem wit="#C">omni</lem>
-            <rdg wit="#O" type="variation-absent" />
-          </app>
-          apprehensione intellectuali quodam modo est dualitas, sed dualitas alia
-          realis alia rationalis. Intellectu alia a se intelligente tam secundum
-          rem quam secundum rationem est dualitas, ipso autem seipsum
-          intelligente unitas, identitas et mera simplicitas est in re, dualitas
-          autem et diversitas tantum in ratione, licet enim idem secundum rem sit
-          signum et signatum, alia tamen est ratio signi secundum quod signum
-          alia signati secundum quod signatum.
-        </p>
-        <p xml:id="da-3-d3c6-8ec1aq">
-          Ad tertium obiectum dicamus quod re vera voces sunt notae earum quae
-          sunt in anima passionum, et passiones sunt notae rerum; passiones vero
-          relictae ex rebus corporeis et sensibilibus diversae sunt ab ipsis
-          rebus
-          <app>
-            <!-- O probably started the same line twice -->
-            <lem n="rebus"/>
-            <rdg wit="#O" type="correction-deletion">
-              <del>corporeis et sensibilibus</del>
-            </rdg>
-          </app>
-          intellectu apprehensis, sed passio relicta ab ipso intellectu idem est quod
-          <app>
-            <!-- O probably just overlooked the word (like he does sometimes)
-                 and then added it. -->
-            <lem wit="#C">ipse</lem>
-            <rdg wit="#O" type="correction-addition">
-              <add place="margin-left">ipse</add>
-            </rdg>
-          </app>
-          intellectus, passio enim qua a seipso patitur intellectus
-          nihil est nisi ipse intellectus agens in seipsum, et sic idem est agens
-          et patiens, actio et passio, haec quatuor idem (idem inquam in re, sed
-          diversa tamen in ratione); hoc mirabile non accidit in coporeis et
-          sensibilibus rebus aut instrumentis, cum enim intellectus sit primum
-          intelligendi instrumentum, eo impossibile est aliud instrumentum
-          intelligendi esse prius.
-        </p>
-        <p xml:id="da-3-d3c6-3e99ef">
-          Unde cum ipse seipsum sine dubio intelligat, ipsum per seipsum necesse
-          est intelligi; sed cum idem sit agens et patiens, actio et passio,
-          haec tamen non simpliciter esse dicetur, sed secundum accidens; unde
-          id quod est substantia prout est vis et potentia naturalis et
-          substantialis, quasi accidentaliter se habet, et quasi accidens est,
-          prout est passio, non tamen est proprie passio sive actio; sed quoniam
-          intellectus seipsum apprehendendo in exercitio est circa seipsum et
-          operando in seipsum, agit in seipsum et patitur a seipso; in his ergo
-          non est alietas sive diversitas secundum rem sed tantum secundum
-          rationem.
-        </p>
-        <p xml:id="da-3-d3c6-zvyzg0">
-          Ad ultimum dicimus quod licet intellectus sit semper intelligens et
-          sic semper sit praesens animae, non tamen necesse est ut ipse seipsum
-          <cb ed="#O" n="b"/> semper intelligat, neque etiam oportet ut
-          simpliciter semper intelligat. Potest enim esse intellectus etsi non
-          intelligat aliquid, sicut accidit circa sensum et imaginationem; in
-          sensu enim relinquuntur similitudines quae statim destruuntur sublatis
-          sensibilibus, in
-          <app>
-            <lem wit="#C">imaginatione</lem>
-            <rdg wit="#O">imaginationes</rdg>
-          </app>
-          autem rerum similitudines imprimuntur
-          <app>
-            <!-- Shared error from C -->
-            <lem type="conjecture-corrected"><corr>quae</corr></lem>
-            <rdg wit="#C #O">qui</rdg>
-          </app>
-          non statim destruuntur sed remanent sublatis sensibilibus, quae
-          similitudines, licet in instrumento imaginationis remaneant, non tamen
-          semper circa eas considerandas occupatur; haec enim vis, sicut in
-          praecedentibus dictum est, duplex est; est enim <pb ed="#C"
-          n="136r"/><cb ed="#C" n="a"/> receptiva et retentiva imaginum et
-          impressionum relictarum ex sensu, est et operativa, sed licet semper
-          recepta retineat, non tamen semper operatur, et ideo non semper in actu
-          imaginatur; quandoque enim retrahitur ab una
-          <app>
-            <lem wit="#C">imagine</lem>
-            <rdg wit="#O">imaginatione</rdg>
-          </app>
-          et considerat aliam, quandoque ab
-          <app>
-            <lem n="ab"/>
-            <rdg wit="#O" type="correction-deletion">
-              <del>a</del>
-            </rdg>
-          </app>
-          omnibus imaginalibus formis suspenditur anima soli intelligibilium
-          rerum inqusitioni et speculationi intendens, sicut superius
-          <app>
-            <lem wit="#C">satis distinctum</lem>
-            <rdg wit="#O">dictum</rdg>
-          </app>
-          est capitulo de communi sensu. Similiter autem est de
-          intellectu; ipse enim
-          <app>
-            <lem wit="#O">est</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above">est</add>
-            </rdg>
-          </app>
-          vis receptiva
-          <app>
-            <lem>et retentiva</lem>
-            <rdg wit="#O" type="variation-absent" />
-          </app>
-          , et est vis operativa; inquantum intellectus est operativus
-          <app>
-            <lem wit="#O">cum</lem>
-            <rdg wit="#C"><unclear>cum</unclear></rdg>
-          </app>
-          operatur circa corporalia et sensibilia abstracta tum circa se ipsum
-          et suum principium et res simplices et incorruptibiles; iste autem
-          operationes sunt dissidentes et impedientes se invicem, unde cum fiunt
-          anima occupata circa unum, retrahitur ab alio, unde simul plura non
-          contingit
-          <app>
-            <lem wit="#C">intelligi</lem>
-            <rdg wit="#O">intelligit</rdg>
-          </app>
-          , quandoque igitur occupatur
-          <app>
-            <lem>circa</lem>
-            <rdg wit="#O" type="variation-absent" />
-          </app>
-          alia, et tunc se non apprehendit, quandoque
-          <app>
-            <lem wit="#C">omissis</lem>
-            <rdg wit="#O">amissis</rdg>
-          </app>
-          aliis ipsa convertitur ad se et seipsam per seipsam considerat; licet
-          ergo intellectus semper sit sibi praesens, non tamen seipsum
-          <app>
-            <lem wit="#O">semper</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="right-margin">semper</add>
-            </rdg>
-          </app>
-          intelligit, semper enim sibi praesens est per essentiam sed non semper
-          per considerationem.
-        </p>
-        <!-- From this point, the rest of the text on each folio is surrounded
-             by a frame with the note "vacat" marking it as a deletion in C.
-             This deletion has clearly been made after the copy of O's ancestor,
-             as it is all present in O. -->
-        <p xml:id="da-3-d3c6-elka1r">
-          <del xml:id="da-3-d3c6-del-xf7auu" rend="vacat" next="#da-3-d3c6-del-e52rvc"/>
-          <del rend="overstrike">
-            Ex hiis manifestum est quod cum dico <mentioned>ego dico
-            falsum</mentioned> haec dictio falsum bene potest constituere
-          </del>
-          intellectum de eo cuius est pars et de quolibet falso, quod (ut melius
-          intelligatur) obiciatur sic: Cum dico <mentioned>ego dico
-          falsum</mentioned>, me dicere falsum aut est verum aut falsum; si verum
-          ergo haec dictio falsum non constituit intellectum de ipso, sed tantum
-          de aliis quae sunt falsa, nihil autem
-          <app>
-            <!-- Correction before O ancestor -->
-            <lem wit="#O">aliud</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above">aliud</add>
-            </rdg>
-          </app>
-          dicitur a me, ergo falsum
-          est me dicere falsum, et prius dictum est quod verum; si falsum est me
-          dicere falsum, et hoc dicitur a me, ergo ego dico falsum, ergo verum est
-          me dicere falsum, et prius
-          <app>
-            <lem wit="#C">dictum est</lem>
-            <rdg wit="#O">dicitur</rdg>
-          </app>
-          quod falsum. Hoc modo et multipliciter potest opponi.
-        </p>
-        <p xml:id="da-3-d3c6-rb5p6n">
-          Dicimus ad hoc quod nihil prohibet unum et idem simul et semel esse
-          verum et falsum, quia hominem esse album est verum
-          <app>
-            <lem wit="#C">pro</lem>
-            <rdg wit="#O">per</rdg>
-          </app>
-          <!-- Aequalitas would usually be adequatio -->
-          aliquo falsum pro aliquo, sed non contingit idem secundum idem et pro
-          eodem simul esse verum et falsum; veritas enim enuntiabilis est
-          dispositio intellectuum compositorum aequalis dispositioni rerum
-          designatarum in compositione perfecta sive
-          <app>
-            <lem wit="#C">divisione</lem>
-            <rdg wit="#O">dicere perfecta</rdg>
-          </app>
-          (compositione perfecta dico pro enuntiationibus affirmativis,
-          <app>
-            <lem wit="#C">divisione</lem>
-            <rdg wit="#O">dicere</rdg>
-          </app>
-          perfecta pro negationis); si autem non sit aequalis dispositio
-          intellectuum et rerum, falsitas est. Veritas igitur est quaedam
-          aequalitas, falsitas quaedam inaequalitas, sicut etiam testatur
-          <cit>
-            <ref>
-              <name ref="#Aristotle">Augustinus</name>
-            </ref>
-            <bibl>
-              <name ref="#Augustine">Aug.</name>
-              <title ref="#Aug.Soll">Soll.</title>
-              II, cap. XV (Patr. Lat. 32, cols. 898--9, §29).
-            </bibl>
-          </cit>
-          . Iste autem intellectus <mentioned>homo</mentioned> communis est ad
-          omnem particularem hominem, et sive praefigatur pro Socrate sive pro
-          Platone sive pro quovis
-          <app>
-            <lem wit="#C">alio</lem>
-            <rdg wit="#O">aliquo</rdg>
-          </app>
-          , semper eundem significat intellectum. Cum igitur dico
-          <mentioned>homo est Socrates</mentioned>, hunc terminum
-          <app>
-            <lem wit="#C">communem</lem>
-            <rdg wit="#O" type="variation-absent" />
-          </app>
-          <mentioned>homo</mentioned> possum praefigere pro quocumque hominum
-          voluero, et si praefigatur
-          <app>
-            <!-- Correction after copy of O ancestor. -->
-            <lem wit="#O">pro</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="margin-left">pro</add>
-            </rdg>
-          </app>
-          Socrate, fit veritas in compositione, sicut enim est res ita dicit
-          intellectus, et ita est ibi aequalitas inter intellecum et rem; si autem
-          praefigatur pro alio a Socrate, est in eadem compositione inaequalitas
-          inter intellectus et res, non enim ita est res sicut dicit intellectus;
-          una igitur et eadem compositio intellectuum simul et semel potest esse
-          vera et falsa, sed gratia diversorum.
-        </p>
-        <p xml:id="da-3-d3c6-n4mizj">
-          Hoc idem testatur
-          <ref corresp="#da-3-d3c6-quote-4os1aj">
-            <name ref="#Aristotle">Aristoteles</name> in <title
-            ref="#Arist.Top">Topicis</title>, libro de definitione, versus
-            finem
-          </ref>
-          ubi
-          <app>
-            <lem wit="#C">ait</lem>
-            <rdg wit="#O" type="correction-substitution">
-              <subst>
-                <add>ait</add>
-                <del>aiot</del>
-              </subst>
-            </rdg>
-          </app>
-          :
-          <cit>
-            <quote xml:id="da-3-d3c6-quote-4os1aj">
-              Si debeat quis definire ad aliquid, et in eius definitione non
-              ponitur illud ad quod dicitur sed aliquid plura complectens, male
-              definivit, ut si dixerit medicinam dis<cb ed="#C" n="b"/>ciplinam
-              <app>
-                <lem>entis</lem>
-                <rdg wit="#C">entis</rdg>
-                <rdg wit="#O">eritis</rdg>
-              </app>
-              , nam si nullius eorum quae sunt medicina est disciplina, palam
-              quoniam totaliter <pb ed="#O" n="93-v"/><cb ed="#O" n="a"/> oratio
-              falsa est, si autem alicuius est disciplina alicuius non, in
-              aliquo mentitur et in aliquo verus est.
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.Top">Top.</title>
-              VI 12.149b4--9 (Arist. Lat. 3.1, p. 139.15--21).
-            </bibl>
-          </cit>
-        </p>
-        <p xml:id="da-3-d3c6-grczpn">
-          A simili, cum dico <mentioned>homo est Socrates</mentioned>, cum aliquis
-          homo sit Socrates aliquis non, pro aliquo sum verus pro aliquo falsus;
-          pari itaque modo hanc compositionem <mentioned>ego dico
-          falsum</mentioned> dicimus esse simul et semel veram et falsam, sed
-          gratia diversorum; cum enim haec dictio falsum significet intellectum
-          communem ad omne falsum et nullum aliud falsum dicatur a me, evidens
-          est
-          <app>
-            <lem wit="#C">quod</lem>
-            <rdg wit="#O">et</rdg>
-          </app>
-          gratia aliorum falsorum falsum est <mentioned>me dicere
-          falsum</mentioned>, cum autem hoc ipsum sit falsum et pars possit
-          constituere intellectum de toto, sicut praeostensum est, gratia huius
-          falsi quod a me dicitur verum est <mentioned>me dicere
-          falsum</mentioned>, ergo <mentioned>me dicere falsum</mentioned>
-          falsum est gratia aliorum falsorum, verum autem gratia istius falsi
-          quod dicitur a me, et ita eadem compositio est vera et falsa.
-        </p>
-        <p xml:id="da-3-d3c6-lec8fx">
-          Utrum autem eadem de causa et eodem respectu sit vera et falsa quaeri
-          potest. Ex hoc enim quod nullum aliud
-          <app>
-            <lem wit="#C">falsum</lem>
-            <rdg wit="#O">finem</rdg>
-          </app>
-          dicitur a me falsa est, sed ex hoc quod
-          <app>
-            <lem wit="#C">hoc</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          est falsum, et a me dicitur vera est, compositio illa ergo, quia
-          falsum est me dicere falsum, dicendo hoc ipsum verum est me dicere
-          falsum, ergo quia est falsum ideo est verum, ergo causa qua est
-          falsum est verum, ergo eadem de causa est verum et falsum, quod est
-          inconveniens, impossibile enim est ut eadem sit causa aequalitatis et
-          inaequalitatis. Sequitur etiam ex hoc ut falsitas sit causa veritatis
-          et inaequalitatis causa aequalitatis et huiusmodi quae videntur
-          inconvenientia.
-        </p>
-        <p xml:id="da-3-d3c6-wi176p">
-          Licet autem ad praesentem tractatum non pertineat huius rei discussio,
-          ne tam negligenter
-          <app>
-            <lem wit="#C">vel</lem>
-            <rdg wit="#O">quam</rdg>
-          </app>
-          ignoranter videamur pertransire,
-          <app>
-            <lem wit="#C">dicimus</lem>
-            <rdg wit="#O"><unclear>dicimus</unclear></rdg>
-          </app>
-          ad praesens quod duplex est causa, scilicet propinqua et remota.
-          Secundum causam propinquam sive proximam unquam eadem est causa
-          veritatis et falsitatis, nihilque simul et semel verum est et falsum
-          eadem causa proxima; propria enim et proxima causa veritatis est
-          aequalitas dispositionis intellectuum et rerum, falsitatis autem
-          inaequalitas; sed tamen id quod est propinqua et propria causa
-          falsitatis potest esse remota et impropria causa veritatis in eodem
-          enuntiabili, quoniam inaequalis dispositio huius intellectus
-          <mentioned>me dicere falsum</mentioned> respectu aliorum falsorum est
-          causa praecedens ad hoc, ut respectu istius sit aequalis dispositio in
-          eodem intellectu; unde falsitas procul dubio est causa veritatis, sed
-          causa remota et per accidens, et quod est causa falsitatis per se et
-          proprie
-          <app>
-            <lem wit="#C">et</lem>
-            <rdg wit="#O">ut</rdg>
-          </app>
-          causa propinqua hoc idem est causa veritatis per accidens et
-          improprie, et causa remota
-          <app>
-            <lem wit="#C" type="correction-addition">
-              <add place="margin-right">non tamen proprie causa sed
-              occasio</add>
-            </lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          .
-        </p>
-        <p xml:id="da-3-d3c6-nq241n">
-          Similiter est de hoc sophismate super initium praedicamentorum
-          <cit>
-            <ref>
-              <name ref="#Aristotle">Aristotelis</name>
-            </ref>
-            <quote>Aequivoca dicuntur et ceterea.</quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.Cat">Cat.</title>
-              1.1a1 (Arist. Lat. 1.1, p. 5.3).
-            </bibl>
-          </cit>
-          Ibi enim dicitur quod aliqua in eo quod sunt aequivoca sunt univoca, et
-          in eo quod univoca
-          <app>
-            <lem wit="#C" n="univoca"/>
-            <rdg wit="#O" type="variation-present">sunt</rdg>
-          </app>
-          aequivoca, ita quod haec determinatio in eo quod communiter teneatur
-          pro causa propinqua et causa
-          <app>
-            <!-- Correction after copy of O ancestor -->
-            <lem wit="#C" type="correction-addition">
-              <add place="above">id est occasione</add>
-            </lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          remota, sive pro causa per se et causa per accidens; unde hic accidit
-          circularitas causarum, quod esse non potest in causis propriis et
-          per se, sed
-          <app>
-            <lem wit="#C">in aliis</lem>
-            <rdg wit="#O">intelligentiis</rdg>
-          </app>
-          bene contingit. Quod autem idem sit simul et semel verum et falsum
-          testatur
-          <ref corresp="#da-3-d3c6-quote-rpf8du">
-            <name ref="#Aristotle">Aristoteles</name>
-          </ref>
-          in secundo <title ref="#Arist.SE">Elenchorum</title> ubi docet solvere
-          paralogismos qui fiunt secundum quid et simpliciter. Dicit enim
-          <cit>
-            <quote xml:id="da-3-d3c6-quote-rpf8du">
-              nihil prohibet eundem quoad quid esse verum simpliciter autem
-              falsum aut econverso, quoniam si haec quidem simpliciter illud
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.SE">SE</title>
-              25.180b5--7 (Arist. Lat. 6.1, p. 50.6--8).
-            </bibl>
-          </cit>
-          , autem quo nondum fit elenchus, et ita
-          <app>
-            <lem wit="#C">infra</lem>
-            <rdg wit="#O">false</rdg>
-          </app>
-          idem exemplificat dicens
-          <cit>
-            <quote>
-              ergo contingit eundem simul <pb ed="#C"
-              n="136-v"/><cb ed="#C" n="a"/> bene iurare et
-              <app>
-                <lem wit="#C">peierare</lem>
-                <rdg wit="#O">periurare</rdg>
-              </app>
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.SE">SE</title>
-              25.180a38--180b1 (Arist. Lat. 6.1, pp. 49.30--50.2).
-            </bibl>
-          </cit>
-          . Et infra similis autem ratio
-          <app>
-            <lem wit="#C">est</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          de eo quod est mentiri aliquem et verum dicere.
-        </p>
-        <p xml:id="da-3-d3c6-ynkn7i">
-          Postea, vero
-          <app>
-            <lem wit="#C">docens</lem>
-            <rdg wit="#O">dicens</rdg>
-          </app>
-          solvere et respondere ad huiusmodi dicit:
-          <cit>
-            <quote>
-              prohibet autem eundem nihil simpliciter quidem esse mendacem, quo
-              autem verum vel aliquo modo etiam esse verum aliquem, verum autem
-              non est
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.SE">SE</title>
-              25.180b5--7 (Arist. Lat. 6.1, pp. 50.6--8).
-            </bibl>
-          </cit>
-          , igitur solutio auctoris, quod qui dicit se mentiri simpliciter
-          falsus est sed non est simpliciter verus, immo secundum quid sive
-          <app>
-            <lem wit="#C">aliquo</lem>
-            <rdg wit="#O">alio</rdg>
-          </app>
-          modo vel aliquo respectu verus; non ergo debet dici simul falsus et
-          verus, hoc est enim ac si diceretur simpliciter falsus et simpliciter
-          verus, sed debet
-          <app>
-            <!-- Correction before copy of O ancestor -->
-            <lem wit="#O">dici</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above-line">dici</add>
-            </rdg>
-          </app>
-          <app>
-            <lem wit="#C">falsus</lem>
-            <rdg wit="#O"><unclear>falsus/talis</unclear></rdg>
-          </app>
-          sine determinatione, verus autem non nisi cum determinatione aliqua,
-          et hoc
-          <app>
-            <!-- Correction before coyp of O ancestor -->
-            <lem wit="#O">est</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above">est</add>
-            </rdg>
-          </app>
-          quod dicit <mentioned>simpliciter
-          <app>
-            <lem wit="#C">falsus</lem>
-            <rdg wit="#O"><unclear>falsus</unclear></rdg>
-          </app>
-          et secundum quid verus</mentioned>; ergo non valet haec argumentatio
-          <mentioned>iste est verus secundum hoc, ergo iste est
-          verus</mentioned>, similiter, <mentioned>iste dicit verum secundum
-          hoc, ergo dicit <cb ed="#O" n="b"/> verum</mentioned>, fallit enim
-          argumentatio a praedicatione determinata ad praedicationem simplicem.
-          Cum ergo dicit aliquis <quote>ego dico falsum</quote>, debes
-          respondere <quote>simpliciter falsum est</quote>, et non debes dicere
-          <quote>verum est simpliciter</quote>, sed <quote>verum est secundum
-          quid</quote>, id est secundum hoc quod dico esse simpliciter falsum
-          est; unde sicut non valet haec argumentatio <mentioned>iste bene iurat
-          secundum hoc, ergo iste bene iurat</mentioned>, ita non valet haec
-          argumentatio <mentioned>iste dicit verum secundum hoc, ergo iste dicit
-          verum</mentioned>, neque haec <mentioned>hoc est verum secundum hoc,
-          ergo hoc est verum</mentioned>.
-        </p>
-        <p xml:id="da-3-d3c6-xygw5c">
-          Dato igitur quod sit simpliciter falsum, sicut dictum est, obviabitur
-          hoc modo: Hoc est falsum, scilicet <mentioned>me dicere
-          falsum</mentioned>, sed ego dico hoc, ergo ego dico falsum, ergo verum
-          est me dicere falsum, ergo sicut falsum applicatur ei simpliciter ita
-          verum, ergo sicut est simpliciter falsum ita est simpliciter verum,
-          quod est inconveniens. Videtur secundum sententiam Aristotelis quod
-          haec argumentatio non valet <mentioned>hoc est falsum, et dico hoc,
-          ergo ego dico falsum</mentioned>, sed debet inferri
-          <mentioned>
-            ergo ego dico falsum secundum
-            <app>
-              <!-- Shared error (if we accept it as an error) -->
-              <lem type="conjecture-correction"><corr>quid</corr></lem>
-              <rdg wit="#C #O">hoc</rdg>
-            </app>
-          </mentioned>
-          . Similiter
-          haec argumentatio non
-          <app>
-            <lem wit="#O">valet</lem>
-            <rdg wit="#C"><unclear>valet</unclear></rdg>
-          </app>
-          <mentioned>dico hoc falsum, ergo dico falsum</mentioned>, quia dicere
-          <mentioned>hoc falsum</mentioned> est dicere <mentioned>falsum
-          secundum hoc</mentioned>; similiter haec argumentatio non valet
-          <mentioned>dico hoc quod est falsum, ergo dico falsum</mentioned>; sic
-          enim a propositione sumpta secundum quid ad conclusionem sumptam
-          simpliciter et de similibus similiter; omnes enim tales locutiones
-          quasi synecdochicae sunt, et quod est partis non debet attribui toti.
-        </p>
-        <p xml:id="da-3-d3c6-7j399n">
-          Sed adhuc obicitur. Dicitur pro regula quod<mentioned>omnis indifinita
-          est vera cuius aliqua particularis est vera</mentioned>; si autem
-          fuerit aliqua singularis falsa vel etiam multae singulares
-          <app>
-            <lem wit="#C">falsae</lem>
-            <rdg wit="#O"><unclear>falsae</unclear></rdg>
-          </app>
-          , non ideo sequitur
-          <app>
-            <lem wit="#C">indefinitam</lem>
-            <rdg wit="#O">definitam</rdg>
-          </app>
-          esse falsam; unica enim particularis vera verificat indefinitam, sed non
-          unica
-          <app>
-            <lem wit="#C">falsa</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          falsificat eam, nisi forte secundum accidens; sed cum
-          <app>
-            <lem wit="#C">dico <mentioned>ego dico falsum</mentioned></lem>
-            <rdg wit="#O">ego dico</rdg>
-          </app>
-          , hoc ipsum quod dico tu dicis esse falsum, et haec dictio falsum
-          construit intellectum
-          <app>
-            <lem wit="#O">communem et indefinitum</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="margin-left">communem et indefinitum</add>
-            </rdg>
-          </app>
-          de hoc ipso falso cuius est pars et de quolibet alio falso, et hoc
-          ipsum dicitur a me, ergo haec indefinitas verificatur
-          <app>
-            <lem wit="#C">pro</lem>
-            <rdg wit="#O">per</rdg>
-          </app>
-          aliquo particulari; ergo est simpliciter vera, sicut si videam Socratem,
-          verum est simpliciter me videre hominem, licet neminem videam alium a
-          Socrate; ergo nihil est quod dicit
-          <ref corresp="#da-3-d3c6-quote-mjye6j">
-            <name ref="#Aristotle">Aristoteles</name>
-          </ref>
-          qui
-          <app>
-            <lem wit="#C">dicit</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          <cit>
-            <quote xml:id="da-3-d3c6-quote-mjye6j" type="paraphrase">
-              se mentiri quoad
-              <app>
-                <lem wit="#C">quid</lem>
-                <rdg wit="#O">aliquid</rdg>
-              </app>
-              verus est sed simpliciter falsus, et qui iurat se
-              <app>
-                <lem wit="#C">peierare</lem>
-                <rdg wit="#O">periurare</rdg>
-              </app>
-              quoad quid bene iurat simpliciter autem
-              <app>
-                <lem wit="#C">peierat</lem>
-                <rdg wit="#O">periurat</rdg>
-              </app>
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.SE">SE</title>
-              25.180a35--180b8 (Arist. Lat. 6.1, pp. 49.27--50.8).
-            </bibl>
-          </cit>
-          .
-        </p>
-        <p xml:id="da-3-d3c6-bspxe8">
-          Solutio secundum praedicta: Manifestum est quod pars sumitur in
-          designatione totius, et ita synecdochica est locutio et figurativa
-          secundum hoc, ergo impropria; figura enim
-          <app>
-            <!-- Correction before copy of O ancestor -->
-            <lem wit="#O">est</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above">est</add>
-            </rdg>
-          </app>
-          vitium quoddam, sed ratione excusatum; prout igitur falsum sumitur in
-          designatione sui totius,
-          <cb ed="#C" n="b"/>
-          figurativa, et impropria et quodammodo vitiosa est designatio, prout
-          ad aliorum falsorum designationem extenditur, nulla est ibi
-          synecdoche, nulla figura, nulla improprietas, nec etiam vitium
-          apparens quantum ad hoc. Dico ergo secundum
-          <app>
-            <!-- Correction after copy of O ancestor -->
-            <lem wit="#O">quod</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above">quod</add>
-            </rdg>
-          </app>
-          designatio extenditur ad alia debita, et propria est designatio
-          secundum autem quod contrahitur ad ipsum cuius est pars, indebita et
-          impropria est designatio secundum modum praedictum; rationabiliter
-          igitur secundum debitam et propriam designationem qui dicit se dicere
-          falsum simpliciter est falsus, cum nullum dicatur falsum aliud ab eo
-          ipso quod dicitur,
-          <app>
-            <!-- Homoioteleuton. Error either by scribe of O or ancestor. -->
-            <lem wit="#C">
-              secundum indebitam autem et impropriam designationem non dicitur
-              simpliciter verus sed verus secundum quid, id est secundum hoc
-              ipsum falsum quod dicitur
-            </lem>
-            <rdg wit="#O" type="variation-absent" />
-          </app>
-          , quod est simpliciter falsum.
-        </p>
-        <p xml:id="da-3-d3c6-6hncwy">
-          Quod etiam (ut melius intelligatur) notandum quod quatuor sunt quae
-          debemus attendere: litterae, voces, intellectus et res;
-          <app>
-            <lem wit="#C">sicut autem</lem>
-            <rdg wit="#O" type="variation-inversion">autem sicut</rdg>
-          </app>
-          litterae proprie sunt notae vocum, et voces intellectuum, ita
-          intellectus sunt proprie notae rerum, sunt enim animae passiones et
-          rerum similitudines; vocum igitur significatio mediante intellectu ad
-          aliquam rem sentiendam et compraehendendam nos perducit; omnis
-          <app>
-            <lem wit="#C">ergo</lem>
-            <rdg wit="#O">igitur</rdg>
-          </app>
-          compositio vocum fit non propter ipsam vocum compositione, immo proprie
-          et principaliter propter compositionem rerum; sicut haec compositio
-          <quote>homo est animal</quote> non proponitur ut designetur
-          haec ipsa vocum compositio quae est <mentioned>homo est
-          animal</mentioned>, sic enim esset tantum falsa quoniam haec vox non
-          est illa, sed ut designetur sub vocibus mediante intellectu compositio
-          rerum, id est animalitatem
-          <app>
-            <lem wit="#C">componi</lem>
-            <rdg wit="#O" type="variation-absent" />
-          </app>
-          cum homine; nec igitur compositio vocum se designat nec compositio
-          intellectuum se designat, sicut enim haec vox non est illa, <pb
-          ed="#O" n="94-r"/><cb ed="#O" n="a"/> ita iste intellectus non est
-          ille; tam igitur vocum quam intellectuum compositio non se ipsam sed
-          rerum dispositionem declarat, et similiter in omnibus. Omnis ergo
-          enuntiabilium compositio non gratia sui proponitur sed gratia
-          alterius, id est gratia compositionis quae est in rebus designatis
-          (proprie, dico, et principaliter). Cum ergo dico <mentioned>ego
-          <app>
-            <lem wit="#C">dico</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          falsum</mentioned>, proprie et principaliter designantur aliae
-          compositiones quae cointelliguntur in ista vel sub ista in coniunctate
-          huius termini falsum, sed per consequens et quasi per accidens et
-          secundum quid animus dirigitur ad hanc ipsam compositionem quae est
-          <mentioned>me dicere falsum</mentioned>, semper enim sub intellectu
-          nititur animus recurrere ad rem cuius imago et similitudo est
-          intellectus, et si in ipso intellectu sistat animus nihil ulterius
-          percipiendo sub intellectu, imperfecta est consideratio et impropria
-          quia, in similitudine sistitur, et ad id cuius est
-          <app>
-            <lem wit="#C">similitudo</lem>
-            <rdg wit="#O">habitudo</rdg>
-          </app>
-          non pervenitur.
-        </p>
-        <p xml:id="da-3-d3c6-xux86k">
-          Quod exempli gratia declaramus hoc modo: Statua Petri et se ipsam
-          significat et Petrum, sed Petrum proprie et
-          <app>
-            <lem wit="#C" n="et" />
-            <rdg wit="#O" type="correction-deletion">
-              <del>proprii</del>
-            </rdg>
-          </app>
-          per se, se ipsam autem improprie et per accidens. Principaliter enim
-          et finaliter facta est statua ad designandum Petrum, et non ad
-          designandum se ipsam. Unde duplex est consideratio statuae; potest
-          enim quis intuens statuam ea uti pro Petro et non pro se in ipsa,
-          scilicet non seipsam sed Petrum attendens, et hoc est uti statua sicut
-          similitudine non autem sicut re. Quod autem utitur statua pro seipsa
-          non pro Petro cuius est imago, utique utitur ea sicut re non autem
-          sicut similitudine, sicut nos adorando imagines in ecclesia eis utimur
-          sicut signis non autem sicut rebus, id est non pro seipsis sed pro
-          sanctis quorum sunt signa, et is est finis principalis et proprius
-          statuarum fixarum in ecclesiis.
-          <app>
-            <lem>
-              Unde
-              <ref corresp="#da-3-d3c6-quote-4dmsup">
-                <name ref="#Basilius">Basilius</name>
+          <p xml:id="da-3-d3c6-p27fzh">
+            Quod autem non ita sit, sed quod ipse intellectus sit signum et iudex
+            sui per se, et non per aliud, ratione et auctoritate probemus.
+          </p>
+          <p xml:id="da-3-d3c6-zo63m7">
+            <cit>
+              <quote>
+                Anima
+              </quote>
+              <ref>
+                , ut ait <name ref="#Aristotle">Aristoteles</name>,
               </ref>
-              magnus theologus ait
-              <cit>
-                <quote xml:id="da-3-d3c6-quote-4dmsup">Imaginis honor ad
+              <quote>potentia est omnia</quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title>
+                III.4 430a30--31.
+              </bibl>
+              <note>
+                Cf.
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title>
+                III.4 429a24 and III.8 431b21. Themistius and Philoponus are
+                closer to the phrasing in their commentaries, e.g.
+                <name ref="#Themistius">Them.</name>
+                <title ref="#Them.InDA">In DA</title>
+                ad III.4 429a15, p. 214.5, and
+                <name ref="#Philoponus">Philop.</name>
+                <title ref="#Philop.InDA">In DA</title>
+                ad III.4 429a21--22, p. 11.57.
+              </note>
+            </cit>
+            ,
+            <cit>
+              <quote type="paraphrase">ipsa est enim locus omnium formarum</quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title>
+                III.4 429a25--29.
+              </bibl>
+            </cit>
+            , ut in qua sunt omnes formae et similitudines intelligibiles, sicut
+            in materia sunt formae sensibiles, et ipsa etiam seipsam sine dubio
+            potest intelligere et suum intellectum; sed quicquid intelligit
+            intellectu; intelligit ergo seipsam et suum intellectum non nisi
+            intellectu intelligit. Si autem
+            <app>
+              <lem wit="#C">comprehenderem</lem>
+              <rdg wit="#O">apprehenderem</rdg>
+            </app>
+            me in mea albidine per meam albidinem, ipsam meam albidinem per ipsam
+            meam albidinem comprehenderem, et etiam totum per partem, id est album
+            per albidinem; album enim est subiectum in albidine, et sic albedo est
+            pars albi secundum quod <pb ed="#C" n="135-r"/><cb ed="#C" n="a"/>
+            album (pars inquam formalis sive accidentalis). Similiter si anima per
+            intellectum seipsam in suo intelligit intellectu,
+            <app>
+              <lem n="intellectu" />
+              <rdg wit="#C" type="correction-deletion"><del>ipsa</del></rdg>
+              <rdg wit="#O">ipsa</rdg>
+              <witDetail wit="#C">ut vid.</witDetail>
+            </app>
+            utique per intellectum intelligit ipsum intellectum et idem per se, et
+            sic idem est signum et iudex sui.
+          </p>
+          <p xml:id="da-3-d3c6-l28yln">
+            Item, nemo sani intellectus dubitat quin anima suum intellectum
+            intelligat, hoc enim <name ref="#Aristotle">Aristoteles</name> et
+            beatus <name ref="#Augustine">Augustinus</name> et alii
+            <app>
+              <lem wit="#C">viri</lem>
+              <rdg wit="#O" type="correction-substitution">
+                <subst>
+                  <del>veiri</del>
+                  <add>viri</add>
+                </subst>
+              </rdg>
+            </app>
+            auctentici testantur.
+          </p>
+          <p xml:id="da-3-d3c6-p9idg6">
+            <!-- Tjek lombardus -->
+            Unde
+            <cit>
+              <ref>
+                <name ref="#Augustine">Augustinus</name>
+                <title ref="#Aug.SuperGenesim">
+                  Super Genesim ad <pb ed="#O" n="92-v"/><cb ed="#O" n="a"/>
+                  litteram,
+                </title>
+                libro
                 <app>
-                  <lem>prototypum</lem>
-                  <rdg wit="#O" type="correction-substitution">
-                    <subst>
-                      <add>prototypum</add>
-                      <del>protototypum</del>
-                    </subst>
+                  <lem n="libro" />
+                  <rdg wit="#O" type="variation-present"><unclear>X</unclear></rdg>
+                </app>
+                XII:
+              </ref>
+              <quote>
+                Quo enim alio modo intellectus nisi intelligendo conspicitur?
+              </quote>
+              <bibl>
+                <name ref="#Augustine">Aug.</name>
+                <title ref="#Aug.SuperGenesim">Sup. Gen. ad litt.</title>
+                XII, cap. 24 (Patr. Lat. 34, col. 474, §50).
+              </bibl>
+            </cit>
+            , et
+            <cit>
+              <ref>
+                <title ref="#Aug.Trin">De trinitate</title>
+                , libro V, capitolo II:
+              </ref>
+              <quote>
+                Quo intellectu homo Deum capit, nisi ipsum intellectum suum quo eum
+                vult capere capiatur?
+              </quote>
+              <bibl>
+                <name ref="#Augustine">Aug.</name>
+                <title ref="#Aug.SuperGenesim">Trin.</title>
+                V.1.2 (Corp. Chr. 50.1, p. 206.29--30).
+              </bibl>
+            </cit>
+            , quasi dicat <quote>cum homo secundum intellectum sit imago et
+            similitudo Dei, nullo modo Deum poterit intellectu capere, nisi etiam
+            ipsum suum intellectum intelligat</quote>, et cetera multa.
+          </p>
+          <p xml:id="da-3-d3c6-rkaodn">
+            Et
+            <ref corresp="#da-3-d3c6-quote-lckzx6">
+              <name ref="#Aristotle">Aristoteles</name>
+            </ref>
+            dicit quod
+            <cit>
+              <quote xml:id="da-3-d3c6-quote-lckzx6" type="paraphrase">
+                intellectus et omnia alia et seipsum intelligit
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title>
+                III.4 430a2--3.
+              </bibl>
+              <note>
+                He does not literally say that in this passage, but it is as
+                close as we get.
+              </note>
+            </cit>
+            . Quomodo etiam nos loqueremur de nostro intellectu nisi ipsum nostrum
+            intellectum intelligeremus? Voces enim sunt notae intellectuum;
+            intellectus autem sunt signa rerum; cum ergo intelligitur intellectus,
+            aut ipse intellectus intelligit seipsum per seipsum, aut per aliud; si
+            per seipsum habeo propositum, si per aliud, illud aliud iterum
+            contingit intelligi, aut ergo per se aut per aliud; si per se, habeo
+            propositum, quoniam inde sequitur aliquem intellectum esse signum sui;
+            si per aliud, aut ergo per primum intellectum aut per alium, tam ab
+            hoc ipso quam a primo; si per primum, ergo primum est signum
+            <app>
+              <lem wit="#C">huius</lem>
+              <rdg wit="#O">huiusmodi</rdg>
+            </app>
+            , sed hoc dicebatur esse signum primi, ergo per medium hoc est signum
+            sui;
+            <app>
+              <lem wit="#C">praeterea</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            , si utrumque intelligitur per reliquum, ergo ibi
+            <app>
+              <!-- Change added before O copied -->
+              <lem wit="#O">est</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above">est</add>
+              </rdg>
+            </app>
+            circularis intellectio, et talis nulla est; si autem illud secundum
+            intelligitur per aliud a primo, iterum illud aliud quod iam est
+            tertium aut intelligitur per se aut per alterum duorum primorum aut
+            per aliud ab illis, quod sit quartum, et
+            <app>
+              <lem wit="#C">sic</lem>
+              <rdg wit="#O">ergo</rdg>
+            </app>
+            procedendo aut infinitas proveniet aut circulatio, quorum utrumque ars
+            et natura repudiat, ergo necesse est aliquem intellectum esse signum
+            sui.
+          </p>
+          <p xml:id="da-3-d3c6-fee39d">
+            Praeterea, si anima comprehendit suum intellectum per aliud ab ipso
+            intellectu, illud aliud non est nisi intellectus, nihil enim
+            intelligimus nisi per intellectum.
+            <app>
+              <lem wit="#C">Isti</lem>
+              <rdg wit="#O">nisi</rdg>
+            </app>
+            duo
+            <app>
+              <lem wit="#C">intellectus</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            sunt diversi in numero et non in specie, uterque enim est ad eundem
+            finem; sic ergo contingit duas formas eiusdem speciei simul et semel
+            esse in eodem subiecto, quod est inconveniens, duae enim albidines non
+            coniunguntur
+            <app>
+              <lem wit="#C">simul</lem>
+              <rdg wit="#O">scibilis</rdg>
+            </app>
+            in eodem subiecto.
+          </p>
+          <p xml:id="da-3-d3c6-zrtkx4">
+            Praeterea, similitudo et id
+            <app>
+              <lem wit="#C">cuius</lem>
+              <rdg wit="#O">quod</rdg>
+            </app>
+            est similitudo numquam sunt in eodem simul, ut albedo et imago eius,
+            albedo enim est in subiecto corpore albo quod videtur, similitudo autem
+            eius primo in aere lucido medio, deinde in oculo; sed si intellectus
+            intelligitur per aliud a se ipso, cum utrumque sit in anima, erit
+            similitudo et id cuius est similitudo simul in eodem, hoc autem est
+            inconveniens.
+          </p>
+          <p xml:id="da-3-d3c6-xm4g9s">
+            Item,
+            <cit>
+              <quote xml:id="da-3-d3c6-quote-qzba2x" type="paraphrase">
+                intellectus est similitudo et species omnium intellectorum
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title>
+                III.8 432a1--3.
+              </bibl>
+              <note>
+                The reference to <mentioned>similitudines</mentioned> is difficult
+                to support.
+              </note>
+            </cit>
+            , ut dicit
+            <ref corresp="#da-3-d3c6-quote-qzba2x">
+              <name ref="#Aristotle">Aristoteles</name>
+            </ref>
+            , sed ut
+            <ref corresp="#da-3-d3c6-quote-rswbhu">idem</ref>
+            testatur,
+            <cit>
+              <quote xml:id="da-3-d3c6-quote-rswbhu" type="paraphrase">
+                ipse intellectus potest seipsum intelligere
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title>
+                III.4 429b9.
+              </bibl>
+            </cit>
+            ; ergo ipse intellectus est species et similitudo sui; ergo signat se
+            ipsum. Unde dicit
+            <ref corresp="#da-3-d3c6-quote-v3zm23">
+              <name ref="#Aristotle">Aristoteles</name>
+            </ref>
+            quod
+            <cit>
+              <quote xml:id="da-3-d3c6-quote-v3zm23">
+                idem contingit esse intellectum et quod intelligitur
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.DA">DA</title>
+                III.4 430a3--4.
+              </bibl>
+            </cit>
+            ; hoc nullatenus contingere posset nisi ipse intellectus seipsum per
+            seipsum intelligeret.
+          </p>
+          <p xml:id="da-3-d3c6-839eu6">
+            Item, anima est quaedam divina
+            <app>
+              <lem n="divina"/>
+              <rdg wit="#O" type="correction-deletion"><del>s</del></rdg>
+            </app>
+            substantia simplex et impertibilis; Deus autem et seipsum et omnia
+            alia per seipsum intelligit, nihil enim potest esse in Deo quod non
+            sit Deus; anima vero in sui simplicitate assimulatur Deo; unde homo
+            gratia interioris hominis, id est animae, dicitur imago et similitudo
+            Dei; ergo sicut Deus ita anima
+            <cb ed="#C" n="b"/>
+            aliquid saltem per seipsam potest intelligere, nihil autem potius quam
+            seipsam aut suum intellectum, et
+            <app>
+              <lem wit="#C">utrumvis</lem>
+              <rdg wit="#O">ulterius</rdg>
+            </app>
+            dicatur, sequitur idem esse signum sui.
+          </p>
+          <p xml:id="da-3-d3c6-bwivhg">
+            Item, iste terminus <mentioned>homo</mentioned> significat intellectum
+            qui est signum cuiuslibet hominis, similiter ergo iste terminus
+            <mentioned>intellectus</mentioned> significat intellectum qui est
+            signum cuiuslibet intellectus; sed intellectus huius termini
+            <mentioned>intellectus</mentioned> est aliquis intellectus, ergo iste
+            intellectus significatur per istum intellectum; ergo iste intellectus
+            est signum sui.
+          </p>
+          <p xml:id="da-3-d3c6-so1dqe">
+            Multa alia possent ad hoc probandum induci, sed haec ad praesens
+            sufficiant ut credamus intellectum esse signum sui ipsius.
+          </p>
+          <p xml:id="da-3-d3c6-g0pv59">
+            Unde, sicut refert
+            <ref corresp="#da-3-d3c6-quote-senn4r">
+              <name ref="#Calcidius">Calcidius</name> <title
+              ref="Plato.Timaeus">Super Timaeum Platonis</title>,
+            </ref>
+            <name ref="#Plato">Plato</name> dicebat
+            <cit>
+              <quote xml:id="da-3-d3c6-quote-senn4r" type="paraphrase">
+                animam circulum esse, ipsa enim
+                <app>
+                  <!-- Correction before copy of O -->
+                  <lem n="enim"/>
+                  <rdg wit="#C" type="correction-deletion"><del>est</del></rdg>
+                </app>
+                per seipsam est rediens ad seipsam
+              </quote>
+              <bibl>
+                <name ref="#Calcidius">Calc.</name>
+                <title ref="#Calc.InTim">In Tim.</title>
+                cap. 58--59 (ad <name ref="#Plato">Pl.</name>
+                <title ref="#Plato.Tim">Tim.</title> 34a2--c5).
+              </bibl>
+            </cit>
+            , licet ipsa in hac mortali vita seipsam plene et perfecte non
+            comprehendat (nihil enim a nobis plene scitur et perfecte).
+          </p>
+          <p xml:id="da-3-d3c6-9exvkn">
+            Unde Socrates dicebat
+            <cit>
+              <quote>hoc solum scio me nihil scire</quote>
+              <bibl>
+                <name ref="#Cicero">Cic.</name>
+                <title ref="#Cic.Acad">Acad.</title>
+                I 16.
+              </bibl>
+              <note>
+                Cf. <name ref="#Plato">Pl.</name> <title ref="#Pl.Apol">Apol.</title>
+                29b.
+              </note>
+            </cit>
+            ; ipsa
+            tamen seipsam in suo intellectu comprehendit, et in comprehendendo
+            seipsam finis est et principium suae comprehensionis et redit super
+            <app>
+              <!-- Correction before copy of O -->
+              <lem wit="#O">illud</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above-line">illud</add>
+              </rdg>
+            </app>
+            a quo incohavit, et ideo est sicut circulus in quo utique idem est
+            principium et finis.
+          </p>
+          <p xml:id="da-3-d3c6-t26lt0">
+            Unde etiam <cb ed="#O" n="b"/>
+            <ref>
+              <name ref="#Avicenna">Avicennes</name>
+              <title ref="#Avic.InDA">Super Librum de anima</title>
+            </ref>
+            dicit quod
+            <cit>
+              <quote>
+                anima intelligit seipsam et hoc facit eam intelligere se esse
+                intelligentem et rem intellectam.
+              </quote>
+              <bibl>???</bibl>
+            </cit>
+            Unde anima et seipsam et suum intellectum intelligit, etsi non plene et
+            perfecte, unde nihil mirum si ipsum Deum, cuius est imago, non plene
+            intelligit.
+          </p>
+          <p xml:id="da-3-d3c6-1m11tl">
+            Unde
+            <cit>
+              <ref>
+                <name ref="#Augustine">Augustinus</name>
+                <title ref="#Aug.Trin">De trinitate</title>:
+              </ref>
+              <!-- Really long Augustine quote! -->
+              <quote>
+                Quo
+                <app>
+                  <lem n="quo"/>
+                  <rdg wit="#O" type="variation-present">in</rdg>
+                </app>
+                intellectu homo Deum capit qui ipsum suum intellectum quo eum vult
+                capere nondum capitur? Si autem hunc nondum capit,
+                <app>
+                  <lem wit="#C">attendat</lem>
+                  <rdg wit="#O">attendatur</rdg>
+                </app>
+                tamen diligenter, nihil eo
+                <app>
+                  <lem n="eo" />
+                  <rdg wit="#O" type="correction-deletion"><del>sive</del></rdg>
+                </app>
+                esse in sua natura melius, et videat utrum ibi videat ulla lineamenta
+                formarum, nitores colorum, spatiosam granditatem, partium distantiam
+                <app>
+                  <!-- Lacuna in O. Probably just a skipped line (although no
+                       homoioteleuton) -->
+                  <lem wit="#C">
+                    molis distensionem, aliquas per locorum intervalla motiones,
+                  </lem>
+                  <rdg wit="#O" type="variation-absent"/>
+                </app>
+                vel
+                <app>
+                  <lem wit="#C">aliquid</lem>
+                  <rdg wit="#O">quid</rdg>
+                </app>
+                huiusmodi; nihil certe istorum invenimus in eo quo in natura
+                <app>
+                  <lem wit="#O">nostra</lem>
+                  <rdg wit="#C" type="correction-addition">
+                    <add place="right-margin">nostra</add>
                   </rdg>
                 </app>
-                pervenit, id est ad id ad cuius similitudinem facta est.
-                </quote>
-                <bibl>
-                  <name ref="#BasiliusCaesariensis">Basil. Caes.</name>
-                  <title ref="#BasiliusCaesariensis_DeSpirituSancto">De spirit.
-                  sanct.</title>
-                  cap. 18, n. 45.
-                </bibl>
-                <note>Cf.
-                <name ref="#JohnDamascenus">John. Damasc.</name>
-                <title ref="#JohnDamascenus_DeFideOrthodoxa">De Fid.
-                Orth.</title>
-                cap. 89.1 (ed. Buytaert, p. 331.9--11).
-                </note>
-              </cit>
-              Prototypus enim est exemplar ad cuius imitatione fit aliquid, ut
-              Petrus est prototypus ad imaginem quem repraesentat Petrum.
-            </lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="margin-below">
+                nihil melius invenimus, id est in nostro intellectu quo sapientiam
+                capimus quanto capaces sumus; quod ergo non invenimus in meliore
+                nostro non debemus quaerere in illo quod longe est nostro meliore
+                melius, ut sic intelligamus Deum, si possumus et quantum possumus,
+                sine qualitate bonum, sine quantitate magnum, sine indigentia
+                creatorem, sine situ praesentem, sine habitu omnia continentem, sine
+                loco ubique totum, sine tempore sempiternum, sine ulla sui mutatione
+                mutabilia facientem nihilque patientem.
+              </quote>
+              <bibl>
+                <name ref="#Augustine">Aug.</name>
+                <title ref="#Aug.SuperGenesim">Trin.</title>
+                V.1.2 (Corpus Christianorum 50.1, p. 206.29--207.44).
+              </bibl>
+            </cit>
+          </p>
+          <p xml:id="da-3-d3c6-de9rjw">
+            Licet autem intellectus seipsum non plene intelligat, seipsum tamen
+            quocumque modo intelligit, et non nisi per seipsum, cum enim ipse sit
+            species omnium intellectorum et ipse seipsum intelligat, ipse
+            <app>
+              <lem wit="#C">nimirum</lem>
+              <rdg wit="#O">ne mirum</rdg>
+            </app>
+            est species sui ipsius, sicut enim in tabula depicta imprimitur imago
+            alicuius rei extrinsecae per quam imaginem, si tabula possit
+            intelligere et apprehendere,
+            <app>
+              <lem wit="#C">apprehenderet</lem>
+              <rdg wit="#O">apprehendet</rdg>
+            </app>
+            tam id cuius est imago quam ipsam eandem imaginem, ita omnes formas
+            rerum quasi scriptas et depictas in anima ipsa anima per se, id est per
+            suum intellectum, apprehendit, et sub illis sive mediantibus illis alias
+            res quarum sunt exempla et similitudines seipsam vero et suum
+            intellectum per seipsam et per
+            <app>
+              <lem wit="#C">ipsum suum</lem>
+              <rdg wit="#O" type="variation-inversion">suum ipsum</rdg>
+            </app>
+            intellectum intelligit; et est idem <pb ed="#C" n="135-v"/><cb ed="#C"
+            n="a"/> intellectus et intellectum et intelligens, anima enim per
+            seipsam seipsam intelligit, et intellectus seipsum per seipsum,
+            quapropter idem in re est ipsa anima et suus intellectus, sicut patebit
+            inferius capitulis sequentibus.
+          </p>
+          <p xml:id="da-3-d3c6-9ylfma">
+            In aliis autem multis evenit aliqua quae videntur esse diversa, idem
+            tamen esse in subiecto
+            <app>
+              <!-- Correction before copy of O -->
+              <lem wit="#O">et in substantia</lem>
+              <rdg wit="#C" type="variation-addition">
+                <add place="margin-left">et in substantia</add>
+              </rdg>
+            </app>
+            , diversa vero tamen in ratione; grammaticum enim et musicum idem est
+            in subiecto et substantia, alia tamen est ratio grammatici alia
+            musici; idemque et unum est materia et privatio, sed ratione diversa,
+            <app>
+              <lem wit="#O">
+                et secundum diversas rationes diversas sortitur denominationes
+                diversosque effectus
+              </lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="margin-left">
+                  et secundum diversas rationes diversas sortitur denominationes
+                  diversosque effectus
+                </add>
+              </rdg>
+            </app>
+            , et secundum ratione
+            <app>
+              <lem wit="#C">qua</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            est materia prior est seipsa secundum rationem qua est privatio et
+            dignior, et ita secundum diversitatem habitudinis idem seipso prius
+            est et dignius. Similiter cum circa intellectum vel huiusmodi idem
+            contingit signum esse et signatum, diversa tamen est ratio eius
+            secundum quod signum et secundum quod signatum, et secundum rationem
+            qua est signum prius et dignius est seipso secundum rationem qua est
+            signatum; sicut etiam idem est hoc animal et iste homo, et tamen
+            <app>
+              <!-- Correction before copy of O -->
+              <lem wit="#O">hoc</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="margin-left">hoc</add>
+              </rdg>
+            </app>
+            animal secundum quod animal prius est hoc homine secundum quod homo, et
+            ita nihil est quod quasi contra hoc supra inductum
+            <app>
+              <!-- Correction before copy of O -->
+              <lem wit="#O">est</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above-line">est</add>
+              </rdg>
+            </app>
+            pro inconvenienti.
+          </p>
+        </div>
+        <div type="section">
+          <head>
+            <supplied ana="#meta-text">Ad rationes principales</supplied>
+          </head>
+          <p xml:id="da-3-d3c6-kfwosi">
+            Manifestum est enim intellectum non nisi per seipsum intelligi, et
+            ipsum sui ipsius esse signum. Anima enim rationalis habet in se vim
+            sentiendi et vim intelligendi; ipsa tamen in se tantum intelligibilis
+            est et non sensibilis, et ideo sensibilia non apprehendit nisi mediante
+            aliquo, quod est passio ipsius animae et similitudo rei extrinsicae,
+            nihil enim
+            <app>
+              <lem wit="#C">apprehendit</lem>
+              <rdg wit="#O">apprehendi</rdg>
+            </app>
+            nisi per suum simile, anima vero rationalis nulli sensibilium aut
+            corporalium est similis, ergo nullum sensibile aut corporeum
+            apprehendit per se; sed cum ipsa sit simplex et intelligibilis, omnia
+            simplicia et <pb ed="#O" n="93-r"/><cb ed="#O" n="a"/> intelligibilia
+            apprehendit per se sine omni alio medio, ipsa enim in se est
+            similitudo et exemplum omnium simplicium et intelligibilium et omnis
+            divinae et intelligibilis substantiae, quoniam ipsa est quaedam
+            <app>
+              <lem wit="#C">substantia divina</lem>
+              <rdg wit="#O" type="variation-inversion">divina substantia</rdg>
+            </app>
+            simplex et intelligibilis, non autem sensibilis aut corporea.
+            Instrumenta vero corporea huiusmodi privilegium habere non possunt;
+            corporea enim instrumenta tantum rebus corporeis percipiendis et
+            apprehendendis deserviunt, corporeum enim non agit in incorporeum nec
+            immutatur ab illo, omnis enim actio sensibilis fit secundum contactum
+            sicut superius in tractatu de sensibus declaratum est, corporeum autem
+            non tangit incorporeum neque mediate neque immediate; instrumentum
+            autem intelligendi prae omnibus aliis organis suam habet praerogativam
+            sibi apropriatam qua tam corporea quam incorporea apprehendit, sed cum
+            aliquid apprehendit corporeum per abstractionem et formationem
+            intelligibilem ex corporeo, facit
+            <app>
+              <lem wit="#O">illud</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="margin-left">illud</add>
+              </rdg>
+            </app>
+            incorporeum. Forma
+            <app>
+              <lem wit="#C">enim</lem>
+              <rdg wit="#O" type="variation-absent" />
+            </app>
+            sive species corporea per intellectum abstrahentem et denudantem fit
+            incorporea, quanto autem magis a sensibilibus et corporalibus
+            retrahitur, tanto perspicacius et subtilius ad
+            <app>
+              <lem wit="#C">insensibilia et intelligibilia</lem>
+              <rdg wit="#O">intelligibilia et insensibilia</rdg>
+            </app>
+            speculanda disponitur; unde anima omnino a terrenis et sensibilibus
+            rebus suspensa et se et Deum cuius est imago contemplando speculatur,
+            qua de re homines terrenis affectibus omnino
+            dedic<supplied>at</supplied>i nec seipsos nec intellectum suum sive
+            animam suam aut etiam Deum possunt intelligere, et
+            <cb ed="#C" n="b"/>
+            tales profecto insipientes iudicandi sunt, de quibus dicitur
+            <cit>
+              <quote>
+                dixit insipiens in corde suo <quote>non est
+                Deus</quote>
+              </quote>
+              <bibl>
+                <title>Psalms</title> 14.1.
+              </bibl>
+            </cit>
+            . Patet igitur quanta sit differentia inter instrumentum corporeum et
+            instrumentum incorporeum, de quo tamen inferius plenius dicetur et
+            evidentius capitulo proximo, unde non est plena et praecisa similitudo
+            inter apprehensionem sensibilem et intelligibilem, nec inter visionem
+            sensibilem et visionem intellectualem, aliter enim est in coporeis
+            aliter in incorporeis, et ideo non valent argumentationes inductae a
+            simili, licet enim oculus non se videat, non tamen consequens est ut
+            intellectus non se intelligat.
+          </p>
+          <p xml:id="da-3-d3c6-dcyya3">
+            Notandum tamen quod in
+            <app>
+              <lem wit="#C">omni</lem>
+              <rdg wit="#O" type="variation-absent" />
+            </app>
+            apprehensione intellectuali quodam modo est dualitas, sed dualitas alia
+            realis alia rationalis. Intellectu alia a se intelligente tam secundum
+            rem quam secundum rationem est dualitas, ipso autem seipsum
+            intelligente unitas, identitas et mera simplicitas est in re, dualitas
+            autem et diversitas tantum in ratione, licet enim idem secundum rem sit
+            signum et signatum, alia tamen est ratio signi secundum quod signum
+            alia signati secundum quod signatum.
+          </p>
+          <p xml:id="da-3-d3c6-8ec1aq">
+            Ad tertium obiectum dicamus quod re vera voces sunt notae earum quae
+            sunt in anima passionum, et passiones sunt notae rerum; passiones vero
+            relictae ex rebus corporeis et sensibilibus diversae sunt ab ipsis
+            rebus
+            <app>
+              <!-- O probably started the same line twice -->
+              <lem n="rebus"/>
+              <rdg wit="#O" type="correction-deletion">
+                <del>corporeis et sensibilibus</del>
+              </rdg>
+            </app>
+            intellectu apprehensis, sed passio relicta ab ipso intellectu idem est quod
+            <app>
+              <!-- O probably just overlooked the word (like he does sometimes)
+                   and then added it. -->
+              <lem wit="#C">ipse</lem>
+              <rdg wit="#O" type="correction-addition">
+                <add place="margin-left">ipse</add>
+              </rdg>
+            </app>
+            intellectus, passio enim qua a seipso patitur intellectus
+            nihil est nisi ipse intellectus agens in seipsum, et sic idem est agens
+            et patiens, actio et passio, haec quatuor idem (idem inquam in re, sed
+            diversa tamen in ratione); hoc mirabile non accidit in coporeis et
+            sensibilibus rebus aut instrumentis, cum enim intellectus sit primum
+            intelligendi instrumentum, eo impossibile est aliud instrumentum
+            intelligendi esse prius.
+          </p>
+          <p xml:id="da-3-d3c6-3e99ef">
+            Unde cum ipse seipsum sine dubio intelligat, ipsum per seipsum necesse
+            est intelligi; sed cum idem sit agens et patiens, actio et passio,
+            haec tamen non simpliciter esse dicetur, sed secundum accidens; unde
+            id quod est substantia prout est vis et potentia naturalis et
+            substantialis, quasi accidentaliter se habet, et quasi accidens est,
+            prout est passio, non tamen est proprie passio sive actio; sed quoniam
+            intellectus seipsum apprehendendo in exercitio est circa seipsum et
+            operando in seipsum, agit in seipsum et patitur a seipso; in his ergo
+            non est alietas sive diversitas secundum rem sed tantum secundum
+            rationem.
+          </p>
+          <p xml:id="da-3-d3c6-zvyzg0">
+            Ad ultimum dicimus quod licet intellectus sit semper intelligens et
+            sic semper sit praesens animae, non tamen necesse est ut ipse seipsum
+            <cb ed="#O" n="b"/> semper intelligat, neque etiam oportet ut
+            simpliciter semper intelligat. Potest enim esse intellectus etsi non
+            intelligat aliquid, sicut accidit circa sensum et imaginationem; in
+            sensu enim relinquuntur similitudines quae statim destruuntur sublatis
+            sensibilibus, in
+            <app>
+              <lem wit="#C">imaginatione</lem>
+              <rdg wit="#O">imaginationes</rdg>
+            </app>
+            autem rerum similitudines imprimuntur
+            <app>
+              <!-- Shared error from C -->
+              <lem type="conjecture-corrected"><corr>quae</corr></lem>
+              <rdg wit="#C #O">qui</rdg>
+            </app>
+            non statim destruuntur sed remanent sublatis sensibilibus, quae
+            similitudines, licet in instrumento imaginationis remaneant, non tamen
+            semper circa eas considerandas occupatur; haec enim vis, sicut in
+            praecedentibus dictum est, duplex est; est enim <pb ed="#C"
+            n="136r"/><cb ed="#C" n="a"/> receptiva et retentiva imaginum et
+            impressionum relictarum ex sensu, est et operativa, sed licet semper
+            recepta retineat, non tamen semper operatur, et ideo non semper in actu
+            imaginatur; quandoque enim retrahitur ab una
+            <app>
+              <lem wit="#C">imagine</lem>
+              <rdg wit="#O">imaginatione</rdg>
+            </app>
+            et considerat aliam, quandoque ab
+            <app>
+              <lem n="ab"/>
+              <rdg wit="#O" type="correction-deletion">
+                <del>a</del>
+              </rdg>
+            </app>
+            omnibus imaginalibus formis suspenditur anima soli intelligibilium
+            rerum inqusitioni et speculationi intendens, sicut superius
+            <app>
+              <lem wit="#C">satis distinctum</lem>
+              <rdg wit="#O">dictum</rdg>
+            </app>
+            est capitulo de communi sensu. Similiter autem est de
+            intellectu; ipse enim
+            <app>
+              <lem wit="#O">est</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above">est</add>
+              </rdg>
+            </app>
+            vis receptiva
+            <app>
+              <lem>et retentiva</lem>
+              <rdg wit="#O" type="variation-absent" />
+            </app>
+            , et est vis operativa; inquantum intellectus est operativus
+            <app>
+              <lem wit="#O">cum</lem>
+              <rdg wit="#C"><unclear>cum</unclear></rdg>
+            </app>
+            operatur circa corporalia et sensibilia abstracta tum circa se ipsum
+            et suum principium et res simplices et incorruptibiles; iste autem
+            operationes sunt dissidentes et impedientes se invicem, unde cum fiunt
+            anima occupata circa unum, retrahitur ab alio, unde simul plura non
+            contingit
+            <app>
+              <lem wit="#C">intelligi</lem>
+              <rdg wit="#O">intelligit</rdg>
+            </app>
+            , quandoque igitur occupatur
+            <app>
+              <lem>circa</lem>
+              <rdg wit="#O" type="variation-absent" />
+            </app>
+            alia, et tunc se non apprehendit, quandoque
+            <app>
+              <lem wit="#C">omissis</lem>
+              <rdg wit="#O">amissis</rdg>
+            </app>
+            aliis ipsa convertitur ad se et seipsam per seipsam considerat; licet
+            ergo intellectus semper sit sibi praesens, non tamen seipsum
+            <app>
+              <lem wit="#O">semper</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="right-margin">semper</add>
+              </rdg>
+            </app>
+            intelligit, semper enim sibi praesens est per essentiam sed non semper
+            per considerationem.
+          </p>
+          <!-- From this point, the rest of the text on each folio is surrounded
+               by a frame with the note "vacat" marking it as a deletion in C.
+               This deletion has clearly been made after the copy of O's ancestor,
+               as it is all present in O. -->
+          <p xml:id="da-3-d3c6-elka1r">
+            <del xml:id="da-3-d3c6-del-xf7auu" rend="vacat" next="#da-3-d3c6-del-e52rvc"/>
+            <del rend="overstrike">
+              Ex hiis manifestum est quod cum dico <mentioned>ego dico
+              falsum</mentioned> haec dictio falsum bene potest constituere
+            </del>
+            intellectum de eo cuius est pars et de quolibet falso, quod (ut melius
+            intelligatur) obiciatur sic: Cum dico <mentioned>ego dico
+            falsum</mentioned>, me dicere falsum aut est verum aut falsum; si verum
+            ergo haec dictio falsum non constituit intellectum de ipso, sed tantum
+            de aliis quae sunt falsa, nihil autem
+            <app>
+              <!-- Correction before O ancestor -->
+              <lem wit="#O">aliud</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above">aliud</add>
+              </rdg>
+            </app>
+            dicitur a me, ergo falsum
+            est me dicere falsum, et prius dictum est quod verum; si falsum est me
+            dicere falsum, et hoc dicitur a me, ergo ego dico falsum, ergo verum est
+            me dicere falsum, et prius
+            <app>
+              <lem wit="#C">dictum est</lem>
+              <rdg wit="#O">dicitur</rdg>
+            </app>
+            quod falsum. Hoc modo et multipliciter potest opponi.
+          </p>
+          <p xml:id="da-3-d3c6-rb5p6n">
+            Dicimus ad hoc quod nihil prohibet unum et idem simul et semel esse
+            verum et falsum, quia hominem esse album est verum
+            <app>
+              <lem wit="#C">pro</lem>
+              <rdg wit="#O">per</rdg>
+            </app>
+            <!-- Aequalitas would usually be adequatio -->
+            aliquo falsum pro aliquo, sed non contingit idem secundum idem et pro
+            eodem simul esse verum et falsum; veritas enim enuntiabilis est
+            dispositio intellectuum compositorum aequalis dispositioni rerum
+            designatarum in compositione perfecta sive
+            <app>
+              <lem wit="#C">divisione</lem>
+              <rdg wit="#O">dicere perfecta</rdg>
+            </app>
+            (compositione perfecta dico pro enuntiationibus affirmativis,
+            <app>
+              <lem wit="#C">divisione</lem>
+              <rdg wit="#O">dicere</rdg>
+            </app>
+            perfecta pro negationis); si autem non sit aequalis dispositio
+            intellectuum et rerum, falsitas est. Veritas igitur est quaedam
+            aequalitas, falsitas quaedam inaequalitas, sicut etiam testatur
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Augustinus</name>
+              </ref>
+              <bibl>
+                <name ref="#Augustine">Aug.</name>
+                <title ref="#Aug.Soll">Soll.</title>
+                II, cap. XV (Patr. Lat. 32, cols. 898--9, §29).
+              </bibl>
+            </cit>
+            . Iste autem intellectus <mentioned>homo</mentioned> communis est ad
+            omnem particularem hominem, et sive praefigatur pro Socrate sive pro
+            Platone sive pro quovis
+            <app>
+              <lem wit="#C">alio</lem>
+              <rdg wit="#O">aliquo</rdg>
+            </app>
+            , semper eundem significat intellectum. Cum igitur dico
+            <mentioned>homo est Socrates</mentioned>, hunc terminum
+            <app>
+              <lem wit="#C">communem</lem>
+              <rdg wit="#O" type="variation-absent" />
+            </app>
+            <mentioned>homo</mentioned> possum praefigere pro quocumque hominum
+            voluero, et si praefigatur
+            <app>
+              <!-- Correction after copy of O ancestor. -->
+              <lem wit="#O">pro</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="margin-left">pro</add>
+              </rdg>
+            </app>
+            Socrate, fit veritas in compositione, sicut enim est res ita dicit
+            intellectus, et ita est ibi aequalitas inter intellecum et rem; si autem
+            praefigatur pro alio a Socrate, est in eadem compositione inaequalitas
+            inter intellectus et res, non enim ita est res sicut dicit intellectus;
+            una igitur et eadem compositio intellectuum simul et semel potest esse
+            vera et falsa, sed gratia diversorum.
+          </p>
+          <p xml:id="da-3-d3c6-n4mizj">
+            Hoc idem testatur
+            <ref corresp="#da-3-d3c6-quote-4os1aj">
+              <name ref="#Aristotle">Aristoteles</name> in <title
+              ref="#Arist.Top">Topicis</title>, libro de definitione, versus
+              finem
+            </ref>
+            ubi
+            <app>
+              <lem wit="#C">ait</lem>
+              <rdg wit="#O" type="correction-substitution">
+                <subst>
+                  <add>ait</add>
+                  <del>aiot</del>
+                </subst>
+              </rdg>
+            </app>
+            :
+            <cit>
+              <quote xml:id="da-3-d3c6-quote-4os1aj">
+                Si debeat quis definire ad aliquid, et in eius definitione non
+                ponitur illud ad quod dicitur sed aliquid plura complectens, male
+                definivit, ut si dixerit medicinam dis<cb ed="#C" n="b"/>ciplinam
+                <app>
+                  <lem>entis</lem>
+                  <rdg wit="#C">entis</rdg>
+                  <rdg wit="#O">eritis</rdg>
+                </app>
+                , nam si nullius eorum quae sunt medicina est disciplina, palam
+                quoniam totaliter <pb ed="#O" n="93-v"/><cb ed="#O" n="a"/> oratio
+                falsa est, si autem alicuius est disciplina alicuius non, in
+                aliquo mentitur et in aliquo verus est.
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.Top">Top.</title>
+                VI 12.149b4--9 (Arist. Lat. 3.1, p. 139.15--21).
+              </bibl>
+            </cit>
+          </p>
+          <p xml:id="da-3-d3c6-grczpn">
+            A simili, cum dico <mentioned>homo est Socrates</mentioned>, cum aliquis
+            homo sit Socrates aliquis non, pro aliquo sum verus pro aliquo falsus;
+            pari itaque modo hanc compositionem <mentioned>ego dico
+            falsum</mentioned> dicimus esse simul et semel veram et falsam, sed
+            gratia diversorum; cum enim haec dictio falsum significet intellectum
+            communem ad omne falsum et nullum aliud falsum dicatur a me, evidens
+            est
+            <app>
+              <lem wit="#C">quod</lem>
+              <rdg wit="#O">et</rdg>
+            </app>
+            gratia aliorum falsorum falsum est <mentioned>me dicere
+            falsum</mentioned>, cum autem hoc ipsum sit falsum et pars possit
+            constituere intellectum de toto, sicut praeostensum est, gratia huius
+            falsi quod a me dicitur verum est <mentioned>me dicere
+            falsum</mentioned>, ergo <mentioned>me dicere falsum</mentioned>
+            falsum est gratia aliorum falsorum, verum autem gratia istius falsi
+            quod dicitur a me, et ita eadem compositio est vera et falsa.
+          </p>
+          <p xml:id="da-3-d3c6-lec8fx">
+            Utrum autem eadem de causa et eodem respectu sit vera et falsa quaeri
+            potest. Ex hoc enim quod nullum aliud
+            <app>
+              <lem wit="#C">falsum</lem>
+              <rdg wit="#O">finem</rdg>
+            </app>
+            dicitur a me falsa est, sed ex hoc quod
+            <app>
+              <lem wit="#C">hoc</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            est falsum, et a me dicitur vera est, compositio illa ergo, quia
+            falsum est me dicere falsum, dicendo hoc ipsum verum est me dicere
+            falsum, ergo quia est falsum ideo est verum, ergo causa qua est
+            falsum est verum, ergo eadem de causa est verum et falsum, quod est
+            inconveniens, impossibile enim est ut eadem sit causa aequalitatis et
+            inaequalitatis. Sequitur etiam ex hoc ut falsitas sit causa veritatis
+            et inaequalitatis causa aequalitatis et huiusmodi quae videntur
+            inconvenientia.
+          </p>
+          <p xml:id="da-3-d3c6-wi176p">
+            Licet autem ad praesentem tractatum non pertineat huius rei discussio,
+            ne tam negligenter
+            <app>
+              <lem wit="#C">vel</lem>
+              <rdg wit="#O">quam</rdg>
+            </app>
+            ignoranter videamur pertransire,
+            <app>
+              <lem wit="#C">dicimus</lem>
+              <rdg wit="#O"><unclear>dicimus</unclear></rdg>
+            </app>
+            ad praesens quod duplex est causa, scilicet propinqua et remota.
+            Secundum causam propinquam sive proximam unquam eadem est causa
+            veritatis et falsitatis, nihilque simul et semel verum est et falsum
+            eadem causa proxima; propria enim et proxima causa veritatis est
+            aequalitas dispositionis intellectuum et rerum, falsitatis autem
+            inaequalitas; sed tamen id quod est propinqua et propria causa
+            falsitatis potest esse remota et impropria causa veritatis in eodem
+            enuntiabili, quoniam inaequalis dispositio huius intellectus
+            <mentioned>me dicere falsum</mentioned> respectu aliorum falsorum est
+            causa praecedens ad hoc, ut respectu istius sit aequalis dispositio in
+            eodem intellectu; unde falsitas procul dubio est causa veritatis, sed
+            causa remota et per accidens, et quod est causa falsitatis per se et
+            proprie
+            <app>
+              <lem wit="#C">et</lem>
+              <rdg wit="#O">ut</rdg>
+            </app>
+            causa propinqua hoc idem est causa veritatis per accidens et
+            improprie, et causa remota
+            <app>
+              <lem wit="#C" type="correction-addition">
+                <add place="margin-right">non tamen proprie causa sed
+                occasio</add>
+              </lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            .
+          </p>
+          <p xml:id="da-3-d3c6-nq241n">
+            Similiter est de hoc sophismate super initium praedicamentorum
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Aristotelis</name>
+              </ref>
+              <quote>Aequivoca dicuntur et ceterea.</quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.Cat">Cat.</title>
+                1.1a1 (Arist. Lat. 1.1, p. 5.3).
+              </bibl>
+            </cit>
+            Ibi enim dicitur quod aliqua in eo quod sunt aequivoca sunt univoca, et
+            in eo quod univoca
+            <app>
+              <lem wit="#C" n="univoca"/>
+              <rdg wit="#O" type="variation-present">sunt</rdg>
+            </app>
+            aequivoca, ita quod haec determinatio in eo quod communiter teneatur
+            pro causa propinqua et causa
+            <app>
+              <!-- Correction after copy of O ancestor -->
+              <lem wit="#C" type="correction-addition">
+                <add place="above">id est occasione</add>
+              </lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            remota, sive pro causa per se et causa per accidens; unde hic accidit
+            circularitas causarum, quod esse non potest in causis propriis et
+            per se, sed
+            <app>
+              <lem wit="#C">in aliis</lem>
+              <rdg wit="#O">intelligentiis</rdg>
+            </app>
+            bene contingit. Quod autem idem sit simul et semel verum et falsum
+            testatur
+            <ref corresp="#da-3-d3c6-quote-rpf8du">
+              <name ref="#Aristotle">Aristoteles</name>
+            </ref>
+            in secundo <title ref="#Arist.SE">Elenchorum</title> ubi docet solvere
+            paralogismos qui fiunt secundum quid et simpliciter. Dicit enim
+            <cit>
+              <quote xml:id="da-3-d3c6-quote-rpf8du">
+                nihil prohibet eundem quoad quid esse verum simpliciter autem
+                falsum aut econverso, quoniam si haec quidem simpliciter illud
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.SE">SE</title>
+                25.180b5--7 (Arist. Lat. 6.1, p. 50.6--8).
+              </bibl>
+            </cit>
+            , autem quo nondum fit elenchus, et ita
+            <app>
+              <lem wit="#C">infra</lem>
+              <rdg wit="#O">false</rdg>
+            </app>
+            idem exemplificat dicens
+            <cit>
+              <quote>
+                ergo contingit eundem simul <pb ed="#C"
+                n="136-v"/><cb ed="#C" n="a"/> bene iurare et
+                <app>
+                  <lem wit="#C">peierare</lem>
+                  <rdg wit="#O">periurare</rdg>
+                </app>
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.SE">SE</title>
+                25.180a38--180b1 (Arist. Lat. 6.1, pp. 49.30--50.2).
+              </bibl>
+            </cit>
+            . Et infra similis autem ratio
+            <app>
+              <lem wit="#C">est</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            de eo quod est mentiri aliquem et verum dicere.
+          </p>
+          <p xml:id="da-3-d3c6-ynkn7i">
+            Postea, vero
+            <app>
+              <lem wit="#C">docens</lem>
+              <rdg wit="#O">dicens</rdg>
+            </app>
+            solvere et respondere ad huiusmodi dicit:
+            <cit>
+              <quote>
+                prohibet autem eundem nihil simpliciter quidem esse mendacem, quo
+                autem verum vel aliquo modo etiam esse verum aliquem, verum autem
+                non est
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.SE">SE</title>
+                25.180b5--7 (Arist. Lat. 6.1, pp. 50.6--8).
+              </bibl>
+            </cit>
+            , igitur solutio auctoris, quod qui dicit se mentiri simpliciter
+            falsus est sed non est simpliciter verus, immo secundum quid sive
+            <app>
+              <lem wit="#C">aliquo</lem>
+              <rdg wit="#O">alio</rdg>
+            </app>
+            modo vel aliquo respectu verus; non ergo debet dici simul falsus et
+            verus, hoc est enim ac si diceretur simpliciter falsus et simpliciter
+            verus, sed debet
+            <app>
+              <!-- Correction before copy of O ancestor -->
+              <lem wit="#O">dici</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above-line">dici</add>
+              </rdg>
+            </app>
+            <app>
+              <lem wit="#C">falsus</lem>
+              <rdg wit="#O"><unclear>falsus/talis</unclear></rdg>
+            </app>
+            sine determinatione, verus autem non nisi cum determinatione aliqua,
+            et hoc
+            <app>
+              <!-- Correction before coyp of O ancestor -->
+              <lem wit="#O">est</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above">est</add>
+              </rdg>
+            </app>
+            quod dicit <mentioned>simpliciter
+            <app>
+              <lem wit="#C">falsus</lem>
+              <rdg wit="#O"><unclear>falsus</unclear></rdg>
+            </app>
+            et secundum quid verus</mentioned>; ergo non valet haec argumentatio
+            <mentioned>iste est verus secundum hoc, ergo iste est
+            verus</mentioned>, similiter, <mentioned>iste dicit verum secundum
+            hoc, ergo dicit <cb ed="#O" n="b"/> verum</mentioned>, fallit enim
+            argumentatio a praedicatione determinata ad praedicationem simplicem.
+            Cum ergo dicit aliquis <quote>ego dico falsum</quote>, debes
+            respondere <quote>simpliciter falsum est</quote>, et non debes dicere
+            <quote>verum est simpliciter</quote>, sed <quote>verum est secundum
+            quid</quote>, id est secundum hoc quod dico esse simpliciter falsum
+            est; unde sicut non valet haec argumentatio <mentioned>iste bene iurat
+            secundum hoc, ergo iste bene iurat</mentioned>, ita non valet haec
+            argumentatio <mentioned>iste dicit verum secundum hoc, ergo iste dicit
+            verum</mentioned>, neque haec <mentioned>hoc est verum secundum hoc,
+            ergo hoc est verum</mentioned>.
+          </p>
+          <p xml:id="da-3-d3c6-xygw5c">
+            Dato igitur quod sit simpliciter falsum, sicut dictum est, obviabitur
+            hoc modo: Hoc est falsum, scilicet <mentioned>me dicere
+            falsum</mentioned>, sed ego dico hoc, ergo ego dico falsum, ergo verum
+            est me dicere falsum, ergo sicut falsum applicatur ei simpliciter ita
+            verum, ergo sicut est simpliciter falsum ita est simpliciter verum,
+            quod est inconveniens. Videtur secundum sententiam Aristotelis quod
+            haec argumentatio non valet <mentioned>hoc est falsum, et dico hoc,
+            ergo ego dico falsum</mentioned>, sed debet inferri
+            <mentioned>
+              ergo ego dico falsum secundum
+              <app>
+                <!-- Shared error (if we accept it as an error) -->
+                <lem type="conjecture-correction"><corr>quid</corr></lem>
+                <rdg wit="#C #O">hoc</rdg>
+              </app>
+            </mentioned>
+            . Similiter
+            haec argumentatio non
+            <app>
+              <lem wit="#O">valet</lem>
+              <rdg wit="#C"><unclear>valet</unclear></rdg>
+            </app>
+            <mentioned>dico hoc falsum, ergo dico falsum</mentioned>, quia dicere
+            <mentioned>hoc falsum</mentioned> est dicere <mentioned>falsum
+            secundum hoc</mentioned>; similiter haec argumentatio non valet
+            <mentioned>dico hoc quod est falsum, ergo dico falsum</mentioned>; sic
+            enim a propositione sumpta secundum quid ad conclusionem sumptam
+            simpliciter et de similibus similiter; omnes enim tales locutiones
+            quasi synecdochicae sunt, et quod est partis non debet attribui toti.
+          </p>
+          <p xml:id="da-3-d3c6-7j399n">
+            Sed adhuc obicitur. Dicitur pro regula quod<mentioned>omnis indifinita
+            est vera cuius aliqua particularis est vera</mentioned>; si autem
+            fuerit aliqua singularis falsa vel etiam multae singulares
+            <app>
+              <lem wit="#C">falsae</lem>
+              <rdg wit="#O"><unclear>falsae</unclear></rdg>
+            </app>
+            , non ideo sequitur
+            <app>
+              <lem wit="#C">indefinitam</lem>
+              <rdg wit="#O">definitam</rdg>
+            </app>
+            esse falsam; unica enim particularis vera verificat indefinitam, sed non
+            unica
+            <app>
+              <lem wit="#C">falsa</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            falsificat eam, nisi forte secundum accidens; sed cum
+            <app>
+              <lem wit="#C">dico <mentioned>ego dico falsum</mentioned></lem>
+              <rdg wit="#O">ego dico</rdg>
+            </app>
+            , hoc ipsum quod dico tu dicis esse falsum, et haec dictio falsum
+            construit intellectum
+            <app>
+              <lem wit="#O">communem et indefinitum</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="margin-left">communem et indefinitum</add>
+              </rdg>
+            </app>
+            de hoc ipso falso cuius est pars et de quolibet alio falso, et hoc
+            ipsum dicitur a me, ergo haec indefinitas verificatur
+            <app>
+              <lem wit="#C">pro</lem>
+              <rdg wit="#O">per</rdg>
+            </app>
+            aliquo particulari; ergo est simpliciter vera, sicut si videam Socratem,
+            verum est simpliciter me videre hominem, licet neminem videam alium a
+            Socrate; ergo nihil est quod dicit
+            <ref corresp="#da-3-d3c6-quote-mjye6j">
+              <name ref="#Aristotle">Aristoteles</name>
+            </ref>
+            qui
+            <app>
+              <lem wit="#C">dicit</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            <cit>
+              <quote xml:id="da-3-d3c6-quote-mjye6j" type="paraphrase">
+                se mentiri quoad
+                <app>
+                  <lem wit="#C">quid</lem>
+                  <rdg wit="#O">aliquid</rdg>
+                </app>
+                verus est sed simpliciter falsus, et qui iurat se
+                <app>
+                  <lem wit="#C">peierare</lem>
+                  <rdg wit="#O">periurare</rdg>
+                </app>
+                quoad quid bene iurat simpliciter autem
+                <app>
+                  <lem wit="#C">peierat</lem>
+                  <rdg wit="#O">periurat</rdg>
+                </app>
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.SE">SE</title>
+                25.180a35--180b8 (Arist. Lat. 6.1, pp. 49.27--50.8).
+              </bibl>
+            </cit>
+            .
+          </p>
+          <p xml:id="da-3-d3c6-bspxe8">
+            Solutio secundum praedicta: Manifestum est quod pars sumitur in
+            designatione totius, et ita synecdochica est locutio et figurativa
+            secundum hoc, ergo impropria; figura enim
+            <app>
+              <!-- Correction before copy of O ancestor -->
+              <lem wit="#O">est</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above">est</add>
+              </rdg>
+            </app>
+            vitium quoddam, sed ratione excusatum; prout igitur falsum sumitur in
+            designatione sui totius,
+            <cb ed="#C" n="b"/>
+            figurativa, et impropria et quodammodo vitiosa est designatio, prout
+            ad aliorum falsorum designationem extenditur, nulla est ibi
+            synecdoche, nulla figura, nulla improprietas, nec etiam vitium
+            apparens quantum ad hoc. Dico ergo secundum
+            <app>
+              <!-- Correction after copy of O ancestor -->
+              <lem wit="#O">quod</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above">quod</add>
+              </rdg>
+            </app>
+            designatio extenditur ad alia debita, et propria est designatio
+            secundum autem quod contrahitur ad ipsum cuius est pars, indebita et
+            impropria est designatio secundum modum praedictum; rationabiliter
+            igitur secundum debitam et propriam designationem qui dicit se dicere
+            falsum simpliciter est falsus, cum nullum dicatur falsum aliud ab eo
+            ipso quod dicitur,
+            <app>
+              <!-- Homoioteleuton. Error either by scribe of O or ancestor. -->
+              <lem wit="#C">
+                secundum indebitam autem et impropriam designationem non dicitur
+                simpliciter verus sed verus secundum quid, id est secundum hoc
+                ipsum falsum quod dicitur
+              </lem>
+              <rdg wit="#O" type="variation-absent" />
+            </app>
+            , quod est simpliciter falsum.
+          </p>
+          <p xml:id="da-3-d3c6-6hncwy">
+            Quod etiam (ut melius intelligatur) notandum quod quatuor sunt quae
+            debemus attendere: litterae, voces, intellectus et res;
+            <app>
+              <lem wit="#C">sicut autem</lem>
+              <rdg wit="#O" type="variation-inversion">autem sicut</rdg>
+            </app>
+            litterae proprie sunt notae vocum, et voces intellectuum, ita
+            intellectus sunt proprie notae rerum, sunt enim animae passiones et
+            rerum similitudines; vocum igitur significatio mediante intellectu ad
+            aliquam rem sentiendam et compraehendendam nos perducit; omnis
+            <app>
+              <lem wit="#C">ergo</lem>
+              <rdg wit="#O">igitur</rdg>
+            </app>
+            compositio vocum fit non propter ipsam vocum compositione, immo proprie
+            et principaliter propter compositionem rerum; sicut haec compositio
+            <quote>homo est animal</quote> non proponitur ut designetur
+            haec ipsa vocum compositio quae est <mentioned>homo est
+            animal</mentioned>, sic enim esset tantum falsa quoniam haec vox non
+            est illa, sed ut designetur sub vocibus mediante intellectu compositio
+            rerum, id est animalitatem
+            <app>
+              <lem wit="#C">componi</lem>
+              <rdg wit="#O" type="variation-absent" />
+            </app>
+            cum homine; nec igitur compositio vocum se designat nec compositio
+            intellectuum se designat, sicut enim haec vox non est illa, <pb
+            ed="#O" n="94-r"/><cb ed="#O" n="a"/> ita iste intellectus non est
+            ille; tam igitur vocum quam intellectuum compositio non se ipsam sed
+            rerum dispositionem declarat, et similiter in omnibus. Omnis ergo
+            enuntiabilium compositio non gratia sui proponitur sed gratia
+            alterius, id est gratia compositionis quae est in rebus designatis
+            (proprie, dico, et principaliter). Cum ergo dico <mentioned>ego
+            <app>
+              <lem wit="#C">dico</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            falsum</mentioned>, proprie et principaliter designantur aliae
+            compositiones quae cointelliguntur in ista vel sub ista in coniunctate
+            huius termini falsum, sed per consequens et quasi per accidens et
+            secundum quid animus dirigitur ad hanc ipsam compositionem quae est
+            <mentioned>me dicere falsum</mentioned>, semper enim sub intellectu
+            nititur animus recurrere ad rem cuius imago et similitudo est
+            intellectus, et si in ipso intellectu sistat animus nihil ulterius
+            percipiendo sub intellectu, imperfecta est consideratio et impropria
+            quia, in similitudine sistitur, et ad id cuius est
+            <app>
+              <lem wit="#C">similitudo</lem>
+              <rdg wit="#O">habitudo</rdg>
+            </app>
+            non pervenitur.
+          </p>
+          <p xml:id="da-3-d3c6-xux86k">
+            Quod exempli gratia declaramus hoc modo: Statua Petri et se ipsam
+            significat et Petrum, sed Petrum proprie et
+            <app>
+              <lem wit="#C" n="et" />
+              <rdg wit="#O" type="correction-deletion">
+                <del>proprii</del>
+              </rdg>
+            </app>
+            per se, se ipsam autem improprie et per accidens. Principaliter enim
+            et finaliter facta est statua ad designandum Petrum, et non ad
+            designandum se ipsam. Unde duplex est consideratio statuae; potest
+            enim quis intuens statuam ea uti pro Petro et non pro se in ipsa,
+            scilicet non seipsam sed Petrum attendens, et hoc est uti statua sicut
+            similitudine non autem sicut re. Quod autem utitur statua pro seipsa
+            non pro Petro cuius est imago, utique utitur ea sicut re non autem
+            sicut similitudine, sicut nos adorando imagines in ecclesia eis utimur
+            sicut signis non autem sicut rebus, id est non pro seipsis sed pro
+            sanctis quorum sunt signa, et is est finis principalis et proprius
+            statuarum fixarum in ecclesiis.
+            <app>
+              <lem>
                 Unde
                 <ref corresp="#da-3-d3c6-quote-4dmsup">
                   <name ref="#Basilius">Basilius</name>
                 </ref>
                 magnus theologus ait
-                <quote>
-                  Imaginis honor ad prototypum pervenit, id est ad id ad cuius
-                  similitudinem facta est.
-                </quote>
+                <cit>
+                  <quote xml:id="da-3-d3c6-quote-4dmsup">Imaginis honor ad
+                  <app>
+                    <lem>prototypum</lem>
+                    <rdg wit="#O" type="correction-substitution">
+                      <subst>
+                        <add>prototypum</add>
+                        <del>protototypum</del>
+                      </subst>
+                    </rdg>
+                  </app>
+                  pervenit, id est ad id ad cuius similitudinem facta est.
+                  </quote>
+                  <bibl>
+                    <name ref="#BasiliusCaesariensis">Basil. Caes.</name>
+                    <title ref="#BasiliusCaesariensis_DeSpirituSancto">De spirit.
+                    sanct.</title>
+                    cap. 18, n. 45.
+                  </bibl>
+                  <note>Cf.
+                  <name ref="#JohnDamascenus">John. Damasc.</name>
+                  <title ref="#JohnDamascenus_DeFideOrthodoxa">De Fid.
+                  Orth.</title>
+                  cap. 89.1 (ed. Buytaert, p. 331.9--11).
+                  </note>
+                </cit>
                 Prototypus enim est exemplar ad cuius imitatione fit aliquid, ut
                 Petrus est prototypus ad imaginem quem repraesentat Petrum.
-              </add>
-            </rdg>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          Si autem ponatur statua quasi res et non quasi rei
-          <app>
-            <lem wit="#O">signum</lem>
-            <rdg wit="#C"><unclear reason="damage">signum</unclear></rdg>
-          </app>
-          , hoc est sicut lapis aut lignum, nihil in ea ulterius <pb ed="#C"
-          n="137-r"/><cb ed="#C" n="a"/> attendendo nisi seipsam, tunc quidem
-          indebite et improprie ea
-          <app>
-            <lem>utimur</lem>
-            <rdg wit="#O">utitur</rdg>
-            <rdg wit="#C">utimur et utitur</rdg>
-            <witDetail wit="#C">
-              lectionem duplicem vocis <mentioned>utitur</mentioned> et
-              <mentioned>utimur</mentioned> ut videtur habet
-            </witDetail>
-          </app>
-          , cum non
-          <app>
-            <lem>utamur</lem>
-            <rdg wit="#O">utatur</rdg>
-            <rdg wit="#C">utamur et utatur</rdg>
-            <witDetail wit="#C">
-              lectionem duplicem vocis <mentioned>utatur</mentioned> et
-              <mentioned>utamur</mentioned> ut videtur habet
-            </witDetail>
-          </app>
-          <app>
-            <lem wit="#C">statua</lem>
-            <rdg wit="#O">statuam</rdg>
-          </app>
-          ad finem propter
-          <app>
-            <lem wit="#C">quem</lem>
-            <rdg wit="#O">quam</rdg>
-          </app>
-          facta est statua, et secundum hunc respectum potius comburenda est
-          statua quam adoranda; si autem utamur statua et pro se et pro re cuius
-          est statua, ut si verbi causa designet nobis et se ipsam et
-          <app>
-            <lem wit="#C">Petrum</lem>
-            <rdg wit="#O">petram</rdg>
-          </app>
-          , quantum ad hoc quod signat Petrum proprium est signum et proprie
-          utimur ea, quantum autem ad hoc quod signat seipsam improprium est
-          signum et improprie utimur ea. Et sic utens statua in communi
-          simpliciter et
-          <app>
-            <lem wit="#C">proprie</lem>
-            <rdg wit="#O">improprie</rdg>
-          </app>
-          est bene utens, secundum quid autem et per
-          accidens sive improprie male.
-        </p>
-        <p xml:id="da-3-d3c6-xlifql">
-          Similiter intellige de intellectu et re
-          signata sub intellectu. Possumus enim uti intellectu tum pro se tum pro
-          re, sed pro se improprie cum in ipso nihil attendamus nisi impsum et
-          non rem propter quam est intellectus et de qua; cum autem
-          <app>
-            <lem n="autem"/>
-            <rdg wit="#C" type="correction-deletion">
-              <del rend="overstrike punctuation">utimur</del>
-            </rdg>
-          </app>
-          utimur intellectu non pro se sed pro re cuius est imago et similitudo,
-          tunc utimur proprie, hoc est simpliciter et per se; cum vero per ipsum
-          intellectum concipimus
-          <app>
-            <lem wit="#C">ipsum</lem>
-            <rdg wit="#O" type="variation-absent"/>
-          </app>
-          <!-- Intereting: "Et" is added in O and then deleted between
-               simpliciter and proprie. If proprie is substitution for simul in
-               C, and it is written above the line, a copy of that may read it
-               the same way I did at first, as the part of that line. This means
-               that the "et" added is a solution to the problem that arises from
-               that misreading. This then means that the deletion of simul is
-               just skipped and hence the correction to "... plura proprie
-               simul" just becomes "... plura simul". This would give reason to
-               believe that O is copied from a copy of C. -->
-          intellectum et rem cuius est signum simpliciter,
-          <app>
-            <lem n="simpliciter"/>
-            <rdg wit="#O" type="variation-present">et proprie</rdg>
-            <witDetail wit="#O">sed del. <mentioned>et</mentioned></witDetail>
-          </app>
-          concipimus quoad quid autem improprie. In his tamen non dicuntur plura
-          <app>
-            <lem>proprie</lem>
-            <rdg wit="#C" type="correction-substitution">
-              <subst>
-                <del>simul</del>
-                <add>proprie</add>
-              </subst>
-            </rdg>
-          </app>
-          simul concipi vel intelligi, quoniam unum
-          <app>
-            <lem wit="#O">principaliter</lem>
-            <rdg wit="#C"><unclear>principaliter</unclear></rdg>
-          </app>
-          <!-- Bon mot -->
-          et simpliciter concipitur aliud per accidens et secundum quid. Ubi
-          autem unum propter alterum, utrobique tantum, cum igitur aliquis dicit
-          <mentioned>ego dico falsum</mentioned>, per hanc dictionem falsum fit
-          designatio multarum compositionum falsarum, sed simpliciter et proprie
-          designat compositiones extrinsecas quae non sunt haec ipsa compositio,
-          sed aliae ab ista, ut <mentioned>Socratem esse asinum</mentioned>,
-          <mentioned>album esse nigrum</mentioned> et cetera, quorum falsorum
-          cum nullum dicatur est etiam falsa haec ipsa compositio quae est
-          <mentioned>me dicere falsum</mentioned>, et sic reflectitur et
-          retorquetur intellectus huius termini falsum ad se ipsum mediante
-          totali compositione cuius est pars; et ita quoad hoc etiam improprie
-          est designativus sui ipsius, unde compositio illa simpliciter et
-          proprie sit gratia aliorum, secundum quid autem et improprie gratia
-          sui et ipsius cuius est pars, cum secundum hunc respectum pars
-          <app>
-            <!-- Correction before copy of O ancestor -->
-            <lem n="pars"/>
-            <rdg wit="#C" type="correction-deletion">
-              <del rend="ovestrike">accipiatur</del>
-            </rdg>
-          </app>
-          synecdochicae accipiatur in designatione sui totius, hoc est hoc ipsum
-          falsum in designatione
-          <app>
-            <!-- Correction before copy of O ancestor -->
-            <lem wit="#O">eius</lem>
-            <rdg wit="#C" type="correction-addition">
-              <add place="above-line">eius</add>
-            </rdg>
-          </app>
-          quod est <mentioned>me dicere falsum</mentioned>; merito igitur utens
-          tali compositione <cb ed="#O" n="b"/> falsus est simpliciter, id est
-          gratia illorum pro quibus simpliciter et proprie sit illa compositio,
-          verus autem est non simpliciter sed quoad quid, id est gratia ipsius
-          compositionis improprie et per accidens designatae. Et hoc est quod
-          dicit
-          <cit>
-            <ref>
-              <name ref="#Aristotle">Aristoteles</name>:
-            </ref>
-            <quote>
-              Qui iurat se
-              <app>
-                <lem wit="#C">peierare</lem>
-                <rdg wit="#O">periurare</rdg>
-              </app>
-              quoad quid bene iurat simpliciter, autem non bene iurat sed male
-            </quote>
-            <bibl>
-              <name ref="#Aristotle">Arist.</name>
-              <title ref="#Arist.SE">SE</title>
-              25.180a38--180b1 (Arist. Lat. 6.1, pp. 49.30--50.2).
-            </bibl>
-          </cit>
-          , et eodem modo in eo quod est mentiri aliquem et
-          verum dicere, id est quid dicit se mentiri, ut si dicat <quote>ego
-          mentior</quote>, quoad quid verus est, simpliciter autem mendax. Quia
-          igitur non proprie et per se instrumenta quaelibet secundum quod
-          instrumenta se ipsa vel sua tota designant, ideo dicebant quidam
-          praedecessores doctores nostri quasi pro regula quod instrumenta dicendi
-          suis dictionibus non deserviunt, intelligendum est enim principaliter
-          et per se, deserviunt tamen secundario et secundum quid quod est
-          improprie et per accidens.
-        </p>
-        <p xml:id="da-3-d3c6-wtn1xc">
-          Adhuc obicitur contra praedicta. Ex hoc enim quod haec dictio falsum
-          intellectum constituit
-          <app>
-            <!-- If this is a correction from pro, it is made after the copy of
-                 O ancestor -->
-            <lem wit="#C">de</lem>
-            <rdg wit="#O">pro</rdg>
-            <witDetail wit="#C">fortasse corr. ex <mentioned>pro</mentioned></witDetail>
-          </app>
-          eo cuius est pars, videtur accidere infinitas in comprehensione et
-          circulatio, et sic nihil posse comprehendi per talem compositionem, cum
-          omnis comprehensio infinitatem repudiet et terminum requirat in quo
-          quiescat.
-        </p>
-        <p xml:id="da-3-d3c6-q8w6qb">
-          Item, cum sicut dictum est, haec dictio falsum constituat intellectum de
-          eo cuius est pars in designatione communi, quaeratur
-          <app>
-            <!-- Okay. Correction in O, not in C. C seems to have a meta-mark
-                 here, but no marginal content. -->
-            <lem wit="#O">utrum</lem>
-            <rdg wit="#C" type="variation-absent"/>
-          </app>
-          haec vox <c type="variable">a</c> in designatione speciali possit
-          intellectum constituere de eo quod est <mentioned>a esse</mentioned>
-          sive <mentioned>a esse falsum</mentioned> vel huiusmodi. Si
-          <app>
-            <lem wit="#C">non</lem>
-            <rdg wit="#O"><unclear>vero/non</unclear></rdg>
-          </app>
-          , quaeratur ratio quare non, si potest, contra hoc quod est
-          <mentioned>a esse falsum</mentioned> dicatur <c type="variable">a</c>
-          aut ergo <mentioned>a est verum</mentioned> aut <mentioned>est
-          falsum</mentioned>, et sequitur manifesta contradictio. Hoc etiam dato,
-          sequitur idem secundum idem simul et semel esse verum et falsum.
-          Sequitur etiam idem esse <!-- esse splotched out with ink -->
-          <cb ed="#C" n="a"/>
-          totum et partem respectu unius et eiusdem, scilicet sui ipsius,
-          quoniam iste intellectus <c type="variable">a</c> est iste
-          <mentioned><c type="variable">a</c> esse falsum</mentioned> sed
-          <mentioned>a esse falsum</mentioned> est totum ad <c
-          type="variable">a</c>; ergo <c type="variable">a</c> est pars <c
-          type="variable">a</c>, et
-          <app>
-            <lem n="et"/>
-            <rdg wit="#O" type="correction-deletion">
-              <del>a</del>
-            </rdg>
-          </app>
-          totum ad <c type="variable">a</c>, ergo unum et idem est totum et pars
-          sui ipsius, quod est impossibile. Et hic manifesta inciderit infinitas
-          et circulatio.
-        </p>
-        <p xml:id="da-3-d3c6-0q7d42">
-          Ad hoc notandum quod aliud est intellectus, aliud est res, ut dictum
-          est. Res enim secundum quod res sunt extra animam quarum similitudines
-          in anima, sicut in tabula depinguuntur quae similitudines, et
-          passiones animae dicuntur, et intellectus et ex talium passionum sive
-          intellectuum coniunctione debita, id est ex intellectu subiectivo et
-          intellectu praedicativo, conficitur enuntiabile. Sicut ergo haec res
-          quae est homo non est iste intellectus <mentioned>homo</mentioned> qui
-          est in anima, nec pars eius, ita res non est enuntiabile nec pars
-          enuntiabilis,
-          <app>
-            <lem wit="#C">ut</lem>
-            <rdg wit="#O">et</rdg>
-          </app>
-          cum dicitur <mentioned>homo currit</mentioned>, haec res homo sive
-          cursus non sunt de enuntiabili, sed iste intellectus
-          <mentioned>homo</mentioned> et iste intellectus
-          <mentioned>currit</mentioned> constituunt enuntiabile, cuius qualitas
-          rerum qualitati comparata veritatem producit aut falsitatem; equalitas
-          enim intellectuum et rerum facit veritatem, inequalitas falsitatem; cum
-          igitur iste terminus <mentioned>falsum</mentioned> intellectum
-          constituat in communi de multis falsis, omnia supposita per hunc
-          terminum <mentioned>falsum</mentioned>
-          <app>
-            <lem wit="#C">constituuntur</lem>
-            <rdg wit="#O">constituitur</rdg>
-          </app>
-          , ut res et nullum eorum est pars huius enuntiabilis <mentioned>ego
-          dico falsum</mentioned>. Iste enim terminus
-          <mentioned>falsum</mentioned> communem intellectum significat ad omne
-          falsum, ad <mentioned>Socratem esse asinum</mentioned> et alia omnia
-          quorum nullum est iste intellectus <mentioned>falsum</mentioned>; iste
-          enim intellectus <mentioned>falsum</mentioned> est intellectus simplex
-          et incomplexus, sed iste intellectus <mentioned>Socratem esse
-          asinum</mentioned> est intellectus complexus et compositus. Simplex
-          autem non est compositum neque complexum incomplexum et tamen sub hoc
-          communi simplici et incomplexo intellectu omnes tales speciales
-          compositi et complexi intellectus continentur. Iste vero communis
-          intellectus <mentioned>falsum</mentioned> pars est huius enuntiabilis
-          <mentioned>ego dico falsum</mentioned>, et nullius aliorum est pars
-          nec aliquod aliorum est pars ipsius; unde sicut iste intellectus
-          <mentioned>Socratem esse asinum</mentioned> non est pars
-          <app>
-            <lem n="pars"/>
-            <rdg wit="#O" type="correction-deletion">
-              <del>eius</del>
-            </rdg>
-          </app>
-          huius intellectus <mentioned>ego dico falsum</mentioned>, ita nec iste
-          intellectus <mentioned>me dicere falsum</mentioned> pars est ipsius,
-          id est huius intellectus <mentioned>me dicere falsum</mentioned>,
-          licet in communi designetur per hunc terminum
-          <mentioned>falsum</mentioned>; incomplexum enim est pars complexi, sed
-          impossibile est ut complexum sit pars
-          <app>
-            <lem wit="#C">incomplexi</lem>
-            <rdg wit="#O">complexi</rdg>
-          </app>
-          , et sic patet quod hic neque infinitas accidit neque circulatio.
-          Secus est de terminis discretis. Licet enim concedamus quod terminus
-          communis in communi possit signare id cuius est pars, non tamen illud
-          generaliter <pb ed="#O" n="94-v"/><cb ed="#O" n="a"/> admittimus in
-          terminis discretis discrete, unde <c type="variable">a</c> non potest
-          signare <mentioned>a esse</mentioned> secundum quod est eius pars,
-          quod patet per impossibile quod sequitur; sequitur enim unum et idem
-          esse totum et partem sui ipsius et si <c type="variable">a</c> dicatur
-          discrete <mentioned>a esse falsum</mentioned>, sequitur idem respectu
-          eiusdem esse verum et falsum et alia huiusmodi sequuntur impossibilia;
-          impossibile autem est quo posito sequitur impossibile haec et
-          huiusmodi inconvenientia nonquam eveniunt in terminis communibus.
-        </p>
-        <p xml:id="da-3-d3c6-3ofj1r">
-          Alia multa possunt circa haec inquiri et dubitari quibus ad presens
-          supersedemus ut ad principale propositum festinemus.
-        </p>
-      </div>
+              </lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="margin-below">
+                  Unde
+                  <ref corresp="#da-3-d3c6-quote-4dmsup">
+                    <name ref="#Basilius">Basilius</name>
+                  </ref>
+                  magnus theologus ait
+                  <quote>
+                    Imaginis honor ad prototypum pervenit, id est ad id ad cuius
+                    similitudinem facta est.
+                  </quote>
+                  Prototypus enim est exemplar ad cuius imitatione fit aliquid, ut
+                  Petrus est prototypus ad imaginem quem repraesentat Petrum.
+                </add>
+              </rdg>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            Si autem ponatur statua quasi res et non quasi rei
+            <app>
+              <lem wit="#O">signum</lem>
+              <rdg wit="#C"><unclear reason="damage">signum</unclear></rdg>
+            </app>
+            , hoc est sicut lapis aut lignum, nihil in ea ulterius <pb ed="#C"
+            n="137-r"/><cb ed="#C" n="a"/> attendendo nisi seipsam, tunc quidem
+            indebite et improprie ea
+            <app>
+              <lem>utimur</lem>
+              <rdg wit="#O">utitur</rdg>
+              <rdg wit="#C">utimur et utitur</rdg>
+              <witDetail wit="#C">
+                lectionem duplicem vocis <mentioned>utitur</mentioned> et
+                <mentioned>utimur</mentioned> ut videtur habet
+              </witDetail>
+            </app>
+            , cum non
+            <app>
+              <lem>utamur</lem>
+              <rdg wit="#O">utatur</rdg>
+              <rdg wit="#C">utamur et utatur</rdg>
+              <witDetail wit="#C">
+                lectionem duplicem vocis <mentioned>utatur</mentioned> et
+                <mentioned>utamur</mentioned> ut videtur habet
+              </witDetail>
+            </app>
+            <app>
+              <lem wit="#C">statua</lem>
+              <rdg wit="#O">statuam</rdg>
+            </app>
+            ad finem propter
+            <app>
+              <lem wit="#C">quem</lem>
+              <rdg wit="#O">quam</rdg>
+            </app>
+            facta est statua, et secundum hunc respectum potius comburenda est
+            statua quam adoranda; si autem utamur statua et pro se et pro re cuius
+            est statua, ut si verbi causa designet nobis et se ipsam et
+            <app>
+              <lem wit="#C">Petrum</lem>
+              <rdg wit="#O">petram</rdg>
+            </app>
+            , quantum ad hoc quod signat Petrum proprium est signum et proprie
+            utimur ea, quantum autem ad hoc quod signat seipsam improprium est
+            signum et improprie utimur ea. Et sic utens statua in communi
+            simpliciter et
+            <app>
+              <lem wit="#C">proprie</lem>
+              <rdg wit="#O">improprie</rdg>
+            </app>
+            est bene utens, secundum quid autem et per
+            accidens sive improprie male.
+          </p>
+          <p xml:id="da-3-d3c6-xlifql">
+            Similiter intellige de intellectu et re
+            signata sub intellectu. Possumus enim uti intellectu tum pro se tum pro
+            re, sed pro se improprie cum in ipso nihil attendamus nisi impsum et
+            non rem propter quam est intellectus et de qua; cum autem
+            <app>
+              <lem n="autem"/>
+              <rdg wit="#C" type="correction-deletion">
+                <del rend="overstrike punctuation">utimur</del>
+              </rdg>
+            </app>
+            utimur intellectu non pro se sed pro re cuius est imago et similitudo,
+            tunc utimur proprie, hoc est simpliciter et per se; cum vero per ipsum
+            intellectum concipimus
+            <app>
+              <lem wit="#C">ipsum</lem>
+              <rdg wit="#O" type="variation-absent"/>
+            </app>
+            <!-- Intereting: "Et" is added in O and then deleted between
+                 simpliciter and proprie. If proprie is substitution for simul in
+                 C, and it is written above the line, a copy of that may read it
+                 the same way I did at first, as the part of that line. This means
+                 that the "et" added is a solution to the problem that arises from
+                 that misreading. This then means that the deletion of simul is
+                 just skipped and hence the correction to "... plura proprie
+                 simul" just becomes "... plura simul". This would give reason to
+                 believe that O is copied from a copy of C. -->
+            intellectum et rem cuius est signum simpliciter,
+            <app>
+              <lem n="simpliciter"/>
+              <rdg wit="#O" type="variation-present">et proprie</rdg>
+              <witDetail wit="#O">sed del. <mentioned>et</mentioned></witDetail>
+            </app>
+            concipimus quoad quid autem improprie. In his tamen non dicuntur plura
+            <app>
+              <lem>proprie</lem>
+              <rdg wit="#C" type="correction-substitution">
+                <subst>
+                  <del>simul</del>
+                  <add>proprie</add>
+                </subst>
+              </rdg>
+            </app>
+            simul concipi vel intelligi, quoniam unum
+            <app>
+              <lem wit="#O">principaliter</lem>
+              <rdg wit="#C"><unclear>principaliter</unclear></rdg>
+            </app>
+            <!-- Bon mot -->
+            et simpliciter concipitur aliud per accidens et secundum quid. Ubi
+            autem unum propter alterum, utrobique tantum, cum igitur aliquis dicit
+            <mentioned>ego dico falsum</mentioned>, per hanc dictionem falsum fit
+            designatio multarum compositionum falsarum, sed simpliciter et proprie
+            designat compositiones extrinsecas quae non sunt haec ipsa compositio,
+            sed aliae ab ista, ut <mentioned>Socratem esse asinum</mentioned>,
+            <mentioned>album esse nigrum</mentioned> et cetera, quorum falsorum
+            cum nullum dicatur est etiam falsa haec ipsa compositio quae est
+            <mentioned>me dicere falsum</mentioned>, et sic reflectitur et
+            retorquetur intellectus huius termini falsum ad se ipsum mediante
+            totali compositione cuius est pars; et ita quoad hoc etiam improprie
+            est designativus sui ipsius, unde compositio illa simpliciter et
+            proprie sit gratia aliorum, secundum quid autem et improprie gratia
+            sui et ipsius cuius est pars, cum secundum hunc respectum pars
+            <app>
+              <!-- Correction before copy of O ancestor -->
+              <lem n="pars"/>
+              <rdg wit="#C" type="correction-deletion">
+                <del rend="ovestrike">accipiatur</del>
+              </rdg>
+            </app>
+            synecdochicae accipiatur in designatione sui totius, hoc est hoc ipsum
+            falsum in designatione
+            <app>
+              <!-- Correction before copy of O ancestor -->
+              <lem wit="#O">eius</lem>
+              <rdg wit="#C" type="correction-addition">
+                <add place="above-line">eius</add>
+              </rdg>
+            </app>
+            quod est <mentioned>me dicere falsum</mentioned>; merito igitur utens
+            tali compositione <cb ed="#O" n="b"/> falsus est simpliciter, id est
+            gratia illorum pro quibus simpliciter et proprie sit illa compositio,
+            verus autem est non simpliciter sed quoad quid, id est gratia ipsius
+            compositionis improprie et per accidens designatae. Et hoc est quod
+            dicit
+            <cit>
+              <ref>
+                <name ref="#Aristotle">Aristoteles</name>:
+              </ref>
+              <quote>
+                Qui iurat se
+                <app>
+                  <lem wit="#C">peierare</lem>
+                  <rdg wit="#O">periurare</rdg>
+                </app>
+                quoad quid bene iurat simpliciter, autem non bene iurat sed male
+              </quote>
+              <bibl>
+                <name ref="#Aristotle">Arist.</name>
+                <title ref="#Arist.SE">SE</title>
+                25.180a38--180b1 (Arist. Lat. 6.1, pp. 49.30--50.2).
+              </bibl>
+            </cit>
+            , et eodem modo in eo quod est mentiri aliquem et
+            verum dicere, id est quid dicit se mentiri, ut si dicat <quote>ego
+            mentior</quote>, quoad quid verus est, simpliciter autem mendax. Quia
+            igitur non proprie et per se instrumenta quaelibet secundum quod
+            instrumenta se ipsa vel sua tota designant, ideo dicebant quidam
+            praedecessores doctores nostri quasi pro regula quod instrumenta dicendi
+            suis dictionibus non deserviunt, intelligendum est enim principaliter
+            et per se, deserviunt tamen secundario et secundum quid quod est
+            improprie et per accidens.
+          </p>
+          <p xml:id="da-3-d3c6-wtn1xc">
+            Adhuc obicitur contra praedicta. Ex hoc enim quod haec dictio falsum
+            intellectum constituit
+            <app>
+              <!-- If this is a correction from pro, it is made after the copy of
+                   O ancestor -->
+              <lem wit="#C">de</lem>
+              <rdg wit="#O">pro</rdg>
+              <witDetail wit="#C">fortasse corr. ex <mentioned>pro</mentioned></witDetail>
+            </app>
+            eo cuius est pars, videtur accidere infinitas in comprehensione et
+            circulatio, et sic nihil posse comprehendi per talem compositionem, cum
+            omnis comprehensio infinitatem repudiet et terminum requirat in quo
+            quiescat.
+          </p>
+          <p xml:id="da-3-d3c6-q8w6qb">
+            Item, cum sicut dictum est, haec dictio falsum constituat intellectum de
+            eo cuius est pars in designatione communi, quaeratur
+            <app>
+              <!-- Okay. Correction in O, not in C. C seems to have a meta-mark
+                   here, but no marginal content. -->
+              <lem wit="#O">utrum</lem>
+              <rdg wit="#C" type="variation-absent"/>
+            </app>
+            haec vox <c type="variable">a</c> in designatione speciali possit
+            intellectum constituere de eo quod est <mentioned>a esse</mentioned>
+            sive <mentioned>a esse falsum</mentioned> vel huiusmodi. Si
+            <app>
+              <lem wit="#C">non</lem>
+              <rdg wit="#O"><unclear>vero/non</unclear></rdg>
+            </app>
+            , quaeratur ratio quare non, si potest, contra hoc quod est
+            <mentioned>a esse falsum</mentioned> dicatur <c type="variable">a</c>
+            aut ergo <mentioned>a est verum</mentioned> aut <mentioned>est
+            falsum</mentioned>, et sequitur manifesta contradictio. Hoc etiam dato,
+            sequitur idem secundum idem simul et semel esse verum et falsum.
+            Sequitur etiam idem esse <!-- esse splotched out with ink -->
+            <cb ed="#C" n="a"/>
+            totum et partem respectu unius et eiusdem, scilicet sui ipsius,
+            quoniam iste intellectus <c type="variable">a</c> est iste
+            <mentioned><c type="variable">a</c> esse falsum</mentioned> sed
+            <mentioned>a esse falsum</mentioned> est totum ad <c
+            type="variable">a</c>; ergo <c type="variable">a</c> est pars <c
+            type="variable">a</c>, et
+            <app>
+              <lem n="et"/>
+              <rdg wit="#O" type="correction-deletion">
+                <del>a</del>
+              </rdg>
+            </app>
+            totum ad <c type="variable">a</c>, ergo unum et idem est totum et pars
+            sui ipsius, quod est impossibile. Et hic manifesta inciderit infinitas
+            et circulatio.
+          </p>
+          <p xml:id="da-3-d3c6-0q7d42">
+            Ad hoc notandum quod aliud est intellectus, aliud est res, ut dictum
+            est. Res enim secundum quod res sunt extra animam quarum similitudines
+            in anima, sicut in tabula depinguuntur quae similitudines, et
+            passiones animae dicuntur, et intellectus et ex talium passionum sive
+            intellectuum coniunctione debita, id est ex intellectu subiectivo et
+            intellectu praedicativo, conficitur enuntiabile. Sicut ergo haec res
+            quae est homo non est iste intellectus <mentioned>homo</mentioned> qui
+            est in anima, nec pars eius, ita res non est enuntiabile nec pars
+            enuntiabilis,
+            <app>
+              <lem wit="#C">ut</lem>
+              <rdg wit="#O">et</rdg>
+            </app>
+            cum dicitur <mentioned>homo currit</mentioned>, haec res homo sive
+            cursus non sunt de enuntiabili, sed iste intellectus
+            <mentioned>homo</mentioned> et iste intellectus
+            <mentioned>currit</mentioned> constituunt enuntiabile, cuius qualitas
+            rerum qualitati comparata veritatem producit aut falsitatem; equalitas
+            enim intellectuum et rerum facit veritatem, inequalitas falsitatem; cum
+            igitur iste terminus <mentioned>falsum</mentioned> intellectum
+            constituat in communi de multis falsis, omnia supposita per hunc
+            terminum <mentioned>falsum</mentioned>
+            <app>
+              <lem wit="#C">constituuntur</lem>
+              <rdg wit="#O">constituitur</rdg>
+            </app>
+            , ut res et nullum eorum est pars huius enuntiabilis <mentioned>ego
+            dico falsum</mentioned>. Iste enim terminus
+            <mentioned>falsum</mentioned> communem intellectum significat ad omne
+            falsum, ad <mentioned>Socratem esse asinum</mentioned> et alia omnia
+            quorum nullum est iste intellectus <mentioned>falsum</mentioned>; iste
+            enim intellectus <mentioned>falsum</mentioned> est intellectus simplex
+            et incomplexus, sed iste intellectus <mentioned>Socratem esse
+            asinum</mentioned> est intellectus complexus et compositus. Simplex
+            autem non est compositum neque complexum incomplexum et tamen sub hoc
+            communi simplici et incomplexo intellectu omnes tales speciales
+            compositi et complexi intellectus continentur. Iste vero communis
+            intellectus <mentioned>falsum</mentioned> pars est huius enuntiabilis
+            <mentioned>ego dico falsum</mentioned>, et nullius aliorum est pars
+            nec aliquod aliorum est pars ipsius; unde sicut iste intellectus
+            <mentioned>Socratem esse asinum</mentioned> non est pars
+            <app>
+              <lem n="pars"/>
+              <rdg wit="#O" type="correction-deletion">
+                <del>eius</del>
+              </rdg>
+            </app>
+            huius intellectus <mentioned>ego dico falsum</mentioned>, ita nec iste
+            intellectus <mentioned>me dicere falsum</mentioned> pars est ipsius,
+            id est huius intellectus <mentioned>me dicere falsum</mentioned>,
+            licet in communi designetur per hunc terminum
+            <mentioned>falsum</mentioned>; incomplexum enim est pars complexi, sed
+            impossibile est ut complexum sit pars
+            <app>
+              <lem wit="#C">incomplexi</lem>
+              <rdg wit="#O">complexi</rdg>
+            </app>
+            , et sic patet quod hic neque infinitas accidit neque circulatio.
+            Secus est de terminis discretis. Licet enim concedamus quod terminus
+            communis in communi possit signare id cuius est pars, non tamen illud
+            generaliter <pb ed="#O" n="94-v"/><cb ed="#O" n="a"/> admittimus in
+            terminis discretis discrete, unde <c type="variable">a</c> non potest
+            signare <mentioned>a esse</mentioned> secundum quod est eius pars,
+            quod patet per impossibile quod sequitur; sequitur enim unum et idem
+            esse totum et partem sui ipsius et si <c type="variable">a</c> dicatur
+            discrete <mentioned>a esse falsum</mentioned>, sequitur idem respectu
+            eiusdem esse verum et falsum et alia huiusmodi sequuntur impossibilia;
+            impossibile autem est quo posito sequitur impossibile haec et
+            huiusmodi inconvenientia nonquam eveniunt in terminis communibus.
+          </p>
+          <p xml:id="da-3-d3c6-3ofj1r">
+            Alia multa possunt circa haec inquiri et dubitari quibus ad presens
+            supersedemus ut ad principale propositum festinemus.
+          </p>
+        </div>
       </div>
     </body>
   </text>
