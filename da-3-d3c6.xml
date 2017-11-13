@@ -227,8 +227,11 @@
                 <name ref="#Aristotle">Aristotele</name>
               </ref>
               <quote type="paraphrase">
-                , voces sunt notae earum quae sunt in anima passionum. Passiones
-                autem sunt notae rerum quas etiam passiones aristoteles
+                , voces sunt notae earum quae sunt in anima passionum; passiones
+                autem sunt notae rerum quas etiam passiones
+                <ref>
+                  <name ref="#Aristotle">Aristotele</name>
+                </ref>
                 similitudines rerum apellat,
               </quote>
               <bibl ana="#Aristotle_DeInterpretatione_1_fibmi7
@@ -855,7 +858,7 @@
             <lem wit="#C">substantia divina</lem>
             <rdg wit="#O" type="variation-inversion">divina substantia</rdg>
           </app>
-          simplex et intelligibilis non autem sensibilis aut corporea.
+          simplex et intelligibilis, non autem sensibilis aut corporea.
           Instrumenta vero corporea huiusmodi privilegium habere non possunt;
           corporea enim instrumenta tantum rebus corporeis percipiendis et
           apprehendendis deserviunt, corporeum enim non agit in incorporeum nec
@@ -885,7 +888,7 @@
             <rdg wit="#O">intelligibilia et insensibilia</rdg>
           </app>
           speculanda disponitur; unde anima omnino a terrenis et sensibilibus
-          rebus suspensa, et se et Deum cuius est imago contemplando speculatur,
+          rebus suspensa et se et Deum cuius est imago contemplando speculatur,
           qua de re homines terrenis affectibus omnino
           dedic<supplied>at</supplied>i nec seipsos nec intellectum suum sive
           animam suam aut etiam Deum possunt intelligere, et
@@ -925,8 +928,8 @@
         </p>
         <p xml:id="da-3-d3c6-8ec1aq">
           Ad tertium obiectum dicamus quod re vera voces sunt notae earum quae
-          sunt in anima passionum, et passiones sunt notae rerum passiones vero
-          relictae ex rebus corporeis et sensibilibus, diversae sunt ab ipsis
+          sunt in anima passionum, et passiones sunt notae rerum; passiones vero
+          relictae ex rebus corporeis et sensibilibus diversae sunt ab ipsis
           rebus
           <app>
             <!-- O probably started the same line twice -->
@@ -947,7 +950,7 @@
           intellectus, passio enim qua a seipso patitur intellectus
           nihil est nisi ipse intellectus agens in seipsum, et sic idem est agens
           et patiens, actio et passio, haec quatuor idem (idem inquam in re, sed
-          diversa tamen in ratione). Hoc mirabile non accidit in coporeis et
+          diversa tamen in ratione); hoc mirabile non accidit in coporeis et
           sensibilibus rebus aut instrumentis, cum enim intellectus sit primum
           intelligendi instrumentum, eo impossibile est aliud instrumentum
           intelligendi esse prius.
@@ -984,7 +987,7 @@
           </app>
           non statim destruuntur sed remanent sublatis sensibilibus, quae
           similitudines, licet in instrumento imaginationis remaneant, non tamen
-          semper circa eas considerandas occupatur. Haec enim vis, sicut in
+          semper circa eas considerandas occupatur; haec enim vis, sicut in
           praecedentibus dictum est, duplex est; est enim <pb ed="#C"
           n="136r"/><cb ed="#C" n="a"/> receptiva et retentiva imaginum et
           impressionum relictarum ex sensu, est et operativa, sed licet semper
@@ -1007,8 +1010,8 @@
             <lem wit="#C">satis distinctum</lem>
             <rdg wit="#O">dictum</rdg>
           </app>
-          est capitulo de communi sensu; similiter autem est de
-          intellectu, ipse enim
+          est capitulo de communi sensu. Similiter autem est de
+          intellectu; ipse enim
           <app>
             <lem wit="#O">est</lem>
             <rdg wit="#C" type="correction-addition">
@@ -1264,9 +1267,8 @@
           improprie, et causa remota
           <app>
             <lem wit="#C" type="correction-addition">
-              <add place="margin-right">
-                non tamen proprie causa sed occasio
-              </add>
+              <add place="margin-right">non tamen proprie causa sed
+              occasio</add>
             </lem>
             <rdg wit="#O" type="variation-absent"/>
           </app>
@@ -1766,9 +1768,7 @@
           intellectum et rem cuius est signum simpliciter,
           <app>
             <lem n="simpliciter"/>
-            <rdg wit="#O" type="variation-present">
-              et proprie
-            </rdg>
+            <rdg wit="#O" type="variation-present">et proprie</rdg>
             <witDetail wit="#O">sed del. <mentioned>et</mentioned></witDetail>
           </app>
           concipimus quoad quid autem improprie. In his tamen non dicuntur plura
