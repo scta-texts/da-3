@@ -1645,43 +1645,56 @@
           sanctis quorum sunt signa, et is est finis principalis et proprius
           statuarum fixarum in ecclesiis.
           <app>
-            <lem wit="#C" type="correction-addition">
+            <lem>
+              Unde
+              <ref corresp="#da-3-d3c6-quote-4dmsup">
+                <name ref="#Basilius">Basilius</name>
+              </ref>
+              magnus theologus ait
+              <cit>
+                <quote xml:id="da-3-d3c6-quote-4dmsup">Imaginis honor ad
+                <app>
+                  <lem>prototypum</lem>
+                  <rdg wit="#O" type="correction-substitution">
+                    <subst>
+                      <add>prototypum</add>
+                      <del>protototypum</del>
+                    </subst>
+                  </rdg>
+                </app>
+                pervenit, id est ad id ad cuius similitudinem facta est.
+                </quote>
+                <bibl>
+                  <name ref="#BasiliusCaesariensis">Basil. Caes.</name>
+                  <title ref="#BasiliusCaesariensis_DeSpirituSancto">De spirit.
+                  sanct.</title>
+                  cap. 18, n. 45.
+                </bibl>
+                <note>Cf.
+                <name ref="#JohnDamascenus">John. Damasc.</name>
+                <title ref="#JohnDamascenus_DeFideOrthodoxa">De Fid.
+                Orth.</title>
+                cap. 89.1 (ed. Buytaert, p. 331.9--11).
+                </note>
+              </cit>
+              Prototypus enim est exemplar ad cuius imitatione fit aliquid, ut
+              Petrus est prototypus ad imaginem quem repraesentat Petrum.
+            </lem>
+            <rdg wit="#C" type="correction-addition">
               <add place="margin-below">
                 Unde
                 <ref corresp="#da-3-d3c6-quote-4dmsup">
                   <name ref="#Basilius">Basilius</name>
                 </ref>
                 magnus theologus ait
-                <cit>
-                  <quote xml:id="da-3-d3c6-quote-4dmsup">Imaginis honor ad
-                  <app>
-                    <lem>prototypum</lem>
-                    <rdg wit="#O" type="correction-substitution">
-                      <subst>
-                        <add>prototypum</add>
-                        <del>protototypum</del>
-                      </subst>
-                    </rdg>
-                  </app>
-                  pervenit, id est ad id ad cuius similitudinem facta est.
-                  </quote>
-                  <bibl>
-                    <name ref="#BasiliusCaesariensis">Basil. Caes.</name>
-                    <title ref="#BasiliusCaesariensis_DeSpirituSancto">De spirit.
-                    sanct.</title>
-                    cap. 18, n. 45.
-                  </bibl>
-                  <note>Cf.
-                  <name ref="#JohnDamascenus">John. Damasc.</name>
-                  <title ref="#JohnDamascenus_DeFideOrthodoxa">De Fid.
-                  Orth.</title>
-                  cap. 89.1 (ed. Buytaert, p. 331.9--11).
-                  </note>
-                </cit>
+                <quote>
+                  Imaginis honor ad prototypum pervenit, id est ad id ad cuius
+                  similitudinem facta est.
+                </quote>
                 Prototypus enim est exemplar ad cuius imitatione fit aliquid, ut
                 Petrus est prototypus ad imaginem quem repraesentat Petrum.
               </add>
-            </lem>
+            </rdg>
             <rdg wit="#O" type="variation-absent"/>
           </app>
           Si autem ponatur statua quasi res et non quasi rei
