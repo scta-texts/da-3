@@ -1213,15 +1213,16 @@
                   VI 12.149b4--9 (Arist. Lat. 3.1, p. 139.15--21).
                 </bibl>
               </cit>
+              A simili, cum dico <mentioned>homo est Socrates</mentioned>, cum
+              aliquis homo sit Socrates aliquis non, pro aliquo sum verus pro
+              aliquo falsus.
             </p>
             <p xml:id="da-3-d3c6-grczpn">
-              A simili, cum dico <mentioned>homo est Socrates</mentioned>, cum aliquis
-              homo sit Socrates aliquis non, pro aliquo sum verus pro aliquo falsus;
-              pari itaque modo hanc compositionem <mentioned>ego dico
-              falsum</mentioned> dicimus esse simul et semel veram et falsam, sed
-              gratia diversorum; cum enim haec dictio falsum significet intellectum
-              communem ad omne falsum et nullum aliud falsum dicatur a me, evidens
-              est
+              Pari itaque modo hanc compositionem <mentioned>ego dico
+              falsum</mentioned> dicimus esse simul et semel veram et falsam,
+              sed gratia diversorum; cum enim haec dictio
+              <mentioned>falsum</mentioned> significet intellectum communem ad
+              omne falsum et nullum aliud falsum dicatur a me, evidens est
               <app>
                 <lem wit="#C">quod</lem>
                 <rdg wit="#O">et</rdg>
@@ -1497,7 +1498,7 @@
               </app>
               falsificat eam, nisi forte secundum accidens; sed cum
               <app>
-                <lem wit="#C">dico <mentioned>ego dico falsum</mentioned></lem>
+                <lem wit="#C">dico <quote>ego dico falsum</quote></lem>
                 <rdg wit="#O">ego dico</rdg>
               </app>
               , hoc ipsum quod dico tu dicis esse falsum, et haec dictio falsum
@@ -1577,8 +1578,8 @@
                   <add place="above">quod</add>
                 </rdg>
               </app>
-              designatio extenditur ad alia debita, et propria est designatio;
-              secundum autem quod contrahitur ad ipsum cuius est pars, indebita et
+              designatio extenditur ad alia debita et propria est designatio;
+              secundum autem quod contrahitur ad ipsum cuius est pars indebita et
               impropria est designatio secundum modum praedictum. Rationabiliter
               igitur secundum debitam et propriam designationem qui dicit se dicere
               falsum simpliciter est falsus, cum nullum dicatur falsum aliud ab eo
@@ -1586,9 +1587,9 @@
               <app>
                 <!-- Homoioteleuton. Error either by scribe of O or ancestor. -->
                 <lem wit="#C">
-                  secundum indebitam autem et impropriam designationem non dicitur
-                  simpliciter verus sed verus secundum quid, id est secundum hoc
-                  ipsum falsum quod dicitur
+                  secundum indebitam autem et impropriam designationem non
+                  dicitur simpliciter verus sed verus secundum quid, id est
+                  secundum hoc ipsum falsum quod dicitur
                 </lem>
                 <rdg wit="#O" type="variation-absent" />
               </app>
@@ -1633,14 +1634,15 @@
                 <rdg wit="#O" type="variation-absent"/>
               </app>
               falsum</mentioned>, proprie et principaliter designantur aliae
-              compositiones quae cointelliguntur in ista vel sub ista in coniunctate
-              huius termini falsum, sed per consequens et quasi per accidens et
-              secundum quid animus dirigitur ad hanc ipsam compositionem quae est
-              <mentioned>me dicere falsum</mentioned>, semper enim sub intellectu
-              nititur animus recurrere ad rem cuius imago et similitudo est
-              intellectus, et si in ipso intellectu sistat animus nihil ulterius
-              percipiendo sub intellectu, imperfecta est consideratio et impropria
-              quia, in similitudine sistitur, et ad id cuius est
+              compositiones quae cointelliguntur in ista vel sub ista in
+              coniunctate huius termini <mentioned>falsum</mentioned>, sed per
+              consequens et quasi per accidens et secundum quid animus dirigitur
+              ad hanc ipsam compositionem quae est <mentioned>me dicere
+              falsum</mentioned>; semper enim sub intellectu nititur animus
+              recurrere ad rem cuius imago et similitudo est intellectus, et si
+              in ipso intellectu sistat animus nihil ulterius percipiendo sub
+              intellectu, imperfecta est consideratio et impropria quia, in
+              similitudine sistitur, et ad id cuius est
               <app>
                 <lem wit="#C">similitudo</lem>
                 <rdg wit="#O">habitudo</rdg>
@@ -1815,22 +1817,23 @@
                 <rdg wit="#C"><unclear>principaliter</unclear></rdg>
               </app>
               <!-- Bon mot -->
-              et simpliciter concipitur aliud per accidens et secundum quid. Ubi
-              autem unum propter alterum, utrobique tantum. Cum igitur aliquis
-              dicit <mentioned>ego dico falsum</mentioned>, per hanc dictionem
-              <mentioned>falsum</mentioned> fit designatio multarum
+              et simpliciter concipitur aliud per accidens et secundum quid --
+              ubi autem unum propter alterum, utrobique tantum; cum igitur
+              aliquis dicit <mentioned>ego dico falsum</mentioned>, per hanc
+              dictionem <mentioned>falsum</mentioned> fit designatio multarum
               compositionum falsarum, sed simpliciter et proprie designat
               compositiones extrinsecas quae non sunt haec ipsa compositio, sed
               aliae ab ista, ut <mentioned>Socratem esse asinum</mentioned>,
               <mentioned>album esse nigrum</mentioned> et cetera, quorum
               falsorum cum nullum dicatur est etiam falsa haec ipsa compositio
               quae est <mentioned>me dicere falsum</mentioned>, et sic
-              reflectitur et retorquetur intellectus huius termini falsum ad se
-              ipsum mediante totali compositione cuius est pars; et ita quoad
-              hoc etiam improprie est designativus sui ipsius, unde compositio
-              illa simpliciter et proprie sit gratia aliorum, secundum quid
-              autem et improprie gratia sui et ipsius cuius est pars, cum
-              secundum hunc respectum pars
+              reflectitur et retorquetur intellectus huius termini
+              <mentioned>falsum</mentioned> ad se ipsum mediante totali
+              compositione cuius est pars; et ita quoad hoc etiam improprie est
+              designativus sui ipsius, unde compositio illa simpliciter et
+              proprie sit gratia aliorum, secundum quid autem et improprie
+              gratia sui et ipsius cuius est pars, cum secundum hunc respectum
+              pars
               <app>
                 <!-- Correction before copy of O ancestor -->
                 <lem n="pars"/>
@@ -1838,8 +1841,8 @@
                   <del rend="ovestrike">accipiatur</del>
                 </rdg>
               </app>
-              synecdochicae accipiatur in designatione sui totius, hoc est hoc ipsum
-              falsum in designatione
+              synecdochice accipiatur in designatione sui totius, hoc est hoc
+              ipsum <mentioned>falsum</mentioned> in designatione
               <app>
                 <!-- Correction before copy of O ancestor -->
                 <lem wit="#O">eius</lem>
@@ -1882,8 +1885,8 @@
               improprie et per accidens.
             </p>
             <p xml:id="da-3-d3c6-wtn1xc">
-              Adhuc obicitur contra praedicta. Ex hoc enim quod haec dictio falsum
-              intellectum constituit
+              Adhuc obicitur contra praedicta. Ex hoc enim quod haec dictio
+              <mentioned>falsum</mentioned> intellectum constituit
               <app>
                 <!-- If this is a correction from pro, it is made after the copy of
                      O ancestor -->
