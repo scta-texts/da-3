@@ -683,7 +683,11 @@
                   anima intelligit seipsam et hoc facit eam intelligere se esse
                   intelligentem et rem intellectam.
                 </quote>
-                <bibl>???</bibl>
+                <bibl>
+                  <name ref="#Avicenna">Avic.</name>
+                  <title ref="#Avic.DA">DA</title>
+                  V.2, p. 93.60--94.67 (ed. van Riet).
+                </bibl>
               </cit>
               Unde anima et seipsam et suum intellectum intelligit, etsi non plene et
               perfecte, unde nihil mirum si ipsum Deum, cuius est imago, non plene
