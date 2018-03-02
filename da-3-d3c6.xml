@@ -1085,11 +1085,14 @@
                as it is all present in O. -->
           <div corresp="#da-3-d3c6-0h3uxq">
             <p xml:id="da-3-d3c6-elka1r">
-              <del xml:id="da-3-d3c6-del-xf7auu" rend="vacat" next="#da-3-d3c6-del-e52rvc"/>
-              <del rend="overstrike">
-                Ex hiis manifestum est quod cum dico <mentioned>ego dico
-                falsum</mentioned> haec dictio falsum bene potest constituere
-              </del>
+              <app>
+                <lem>
+                  Ex hiis manifestum est quod cum dico <mentioned>ego dico
+                  falsum</mentioned> haec dictio falsum bene potest constituere
+                </lem>
+                <rdg wit="#O" />
+                <witDetail wit="#O">hoc et pars remanens huius capituli del.</witDetail>
+              </app>
               intellectum de eo cuius est pars et de quolibet falso, quod (ut melius
               intelligatur) obiciatur sic: Cum dico <mentioned>ego dico
               falsum</mentioned>, me dicere falsum aut est verum aut falsum; si verum
