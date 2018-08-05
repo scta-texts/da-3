@@ -160,9 +160,10 @@
               significatur
               <app>
                 <!-- Correction read by O. -->
-                <lem wit="#C" type="correction-addition">
+                <lem>hac</lem>
+                <rdg wit="#C" type="correction-addition">
                   <add place="above">hac</add>
-                </lem>
+                </rdg>
                 <rdg wit="#O">hac</rdg>
               </app>
               propositione <mentioned>ego dico falsum</mentioned>, ergo nihil
@@ -229,20 +230,18 @@
           <p xml:id="da-3-d3c6-j9y1li">
             <!-- De int. -->
             Item, teste
+            <ref>
+              <name ref="#Aristotle">Aristotele</name>
+            </ref>
+            ,
             <cit>
-              <ref>
-                <name ref="#Aristotle">Aristotele</name>
-              </ref>
               <quote type="paraphrase">
-                , voces sunt notae earum quae sunt in anima passionum; passiones
+                voces sunt notae earum quae sunt in anima passionum; passiones
                 autem sunt notae rerum, quas etiam passiones
-                <ref>
-                  <name ref="#Aristotle">Aristotele</name>
-                </ref>
+                <name ref="#Aristotle">Aristoteles</name>
                 similitudines rerum apellat,
               </quote>
-              <bibl ana="#Aristotle_DeInterpretatione_1_fibmi7
-                         #Aristotle_DeInterpretatione_1_gdm4fb" n="trans_boethii">
+              <bibl>
                 <name ref="#Aristotle">Arist.</name>
                 <title ref="#Arist.Int">Int. </title>
                 1.16a2--8.
@@ -322,12 +321,14 @@
             <p xml:id="da-3-d3c6-zo63m7">
               <cit>
                 <quote>
-                  Anima
-                </quote>
-                <ref>
+                  <seg type="qs">
+                    Anima
+                  </seg>
                   , ut ait <name ref="#Aristotle">Aristoteles</name>,
-                </ref>
-                <quote>potentia est omnia</quote>
+                  <seg type="qs">
+                    potentia est omnia
+                  </seg>
+                </quote>
                 <bibl>
                   <name ref="#Aristotle">Arist.</name>
                   <title ref="#Arist.DA">DA</title>
@@ -335,7 +336,7 @@
                 </bibl>
                 <note>
                   Cf. <name ref="#Aristotle">Arist.</name> <title
-                  ref="#Arist.DA">DA</title> III.4 429a21--24. and III.8 431b21.
+                  ref="#Arist.DA">DA</title> III.4 429a21--24 and III.8 431b21.
                   Themistius and Philoponus are closer to the phrasing in their
                   commentaries, e.g. <name ref="#Themistius">Them.</name> <title
                   ref="#Them.InDA">In DA</title> ad III.4 429a15, p. 214.5, and
@@ -369,9 +370,10 @@
               intellectum seipsam in suo intelligit intellectu,
               <app>
                 <lem n="intellectu" />
-                <rdg wit="#C" type="correction-deletion"><del>ipsa</del></rdg>
+                <rdg wit="#C" type="correction-deletion" cert="low">
+                  <del>ipsa</del>
+                </rdg>
                 <rdg wit="#O">ipsa</rdg>
-                <witDetail wit="#C">ut vid.</witDetail>
               </app>
               utique per intellectum intelligit ipsum intellectum et idem per se, et
               sic idem est signum et iudex sui.
@@ -727,11 +729,11 @@
                     <!-- Lacuna in O. Probably just a skipped line (although no
                          homoioteleuton) -->
                     <lem wit="#C">
-                      molis distensionem, aliquas per locorum intervalla motiones,
+                      molis distensionem, aliquas per locorum intervalla motiones
                     </lem>
                     <rdg wit="#O" type="variation-absent"/>
                   </app>
-                  vel
+                  , vel
                   <app>
                     <lem wit="#C">aliquid</lem>
                     <rdg wit="#O">quid</rdg>
@@ -920,7 +922,7 @@
                 Deus</quote>
               </quote>
               <bibl>
-                <title>Psalms</title> 14.1.
+                <title>Psalms</title> 14:1.
               </bibl>
             </cit>
             . Patet igitur quanta sit differentia inter instrumentum corporeum et
@@ -1086,7 +1088,7 @@
                by a frame with the note "vacat" marking it as a deletion in C.
                This deletion has clearly been made after the copy of O's ancestor,
                as it is all present in O. -->
-          <div corresp="#da-3-d3c6-0h3uxq">
+          <div xml:id="da-3-d3c6-7sclst" corresp="#da-3-d3c6-0h3uxq">
             <p xml:id="da-3-d3c6-elka1r">
               <app>
                 <lem>
