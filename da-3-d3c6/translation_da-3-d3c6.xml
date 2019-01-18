@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          Treaty on the soul
+        </title>
+        <author>Guillelmus Hedonensis</author>
+        <editor>Michael Stenskjær Christensen</editor>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.1.0">
+          <date when="2018-10-10">October 10, 2018</date>
+        </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>
+          <ref target="http://representationandreality.gu.se">
+            Representation and Reality: Historical and Contemporary Perspectives
+            on the Aristotelian Tradition
+          </ref>
+        </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-sa/4.0/">Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)</ref></p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="C" n="cam">Cambridge, Gonville &amp; Gaius, 342/538</witness>
+          <witness xml:id="O" n="chr">Oxford, Corpus Christi College 107, ff. 1--149r</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <variantEncoding method="parallel-segmentation" location="internal"/>
+      <schemaRef n="lbp-critical-1.0.0"
+                 url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/1.0/critical.rng">
+      </schemaRef>
+      <editorialDecl>
+        <p>
+          Encoding of this text has followed the recommendations of the
+          LombardPress 1.0.0 guidelines for a critical edition.
+        </p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2018-10-10" status="draft">
+          <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="en" type="translation">
+    <front>
+      <div xml:id="starts-on">
+        <pb ed="#C" n="134-v" /><cb ed="#C" n="a"/>
+        <pb ed="#O" n="92-r" /><cb ed="#O" n="a"/>
+      </div>
+    </front>
+    <body>
+      <div xml:id="da-3-d3c6">
+        <head>
+          Distinction three, chapter six: Whether the intellect knows itself and
+          how the same thing can be a sign of itself, arguments attacking that
+          and further arguments refuting them.
+        </head>
+        <p xml:id="da-3-d3c6-io7s60">
+          From the preceding we see that the intellect, the knower and the thing
+          known are the same. Against this somebody ignorant of
+          philosophy usually raises objections, which we will present in order
+          to be able to refute them. They therefore say, as if it were entirely
+          impossible, that it follows from this that one and the same thing will
+          be sign and signified in the same respect both before and after by
+          itself and such similar things.
+        </p>
+        <div ana="#rationes-principales" xml:id="da-3-d3c6-xrp5ue">
+          <head><supplied ana="#meta-text">Initial objections</supplied></head>
+          <p xml:id="da-3-d3c6-jj1y9m">
+            <supplied>
+              Argument: An instrument cannot affect itself, the intellect is
+              analogous to an instrument, hence the intellect cannot affect (and
+              hence know) itself.
+            </supplied>
+          </p>
+          <div xml:id="da-3-d3c6-0h3uxq">
+            <p xml:id="da-3-d3c6-lcvp0v">
+              Further, they want to argue the point by reducing it to a false or
+              impossible point in this way: If a part cannot establish a
+              knowledge about its whole, then it is so much more impossible for
+              the same thing to establish a knowledge of itself. They want to
+              prove the antecedent premise by using insoluble terms such as
+              <mentioned>what I say is false</mentioned>, for if this statement
+              results in a false understanding about me speaking a falsehood
+              then, when I say <mentioned>what I say is false</mentioned>, that
+              is the same as if I said <mentioned>I say that what I say is
+              false</mentioned>, but so far the statement <mentioned>what I say
+              is false</mentioned> gives the same meaning as before, hence it is
+              the same as if I said <mentioned>I say that I say that what I say
+              is false</mentioned>, and so forth in infinity. But it is
+              impossible for anything to proceed in infinity, ergo the first is
+              impossible, i.e. that the statement establishes a false
+              understanding of that to which it belongs, for that from which
+              something impossible follows is impossible.
+            </p>
+            <p xml:id="da-3-d3c6-pcpw02">
+              Further, if that were the case, there would be a procedure in
+              infinity, but it is not possible to follow infinite procedures in
+              thought, ergo it is impossible to understand that which is
+              signified by the proposition <mentioned>what I say is
+              false</mentioned>, ergo it does not signify anything. This is why
+              some say to this statement that <quote>you are saying
+              nothing</quote>, and when it is said that <mentioned>what I state
+              is false</mentioned>, they say <quote>you are not stating
+              anything</quote>, and that is the argument of annulment and the
+              reason for that. But whoever thinks of the statement realizes that
+              there is some meaning
+              to the sounds <mentioned>what I say is false</mentioned>, hence
+              the term <mentioned>false</mentioned> does not establish a
+              knowledge of that to which it belongs, ergo it is not a sign of
+              itself, and so it is for all other things.
+            </p>
+          </div>
+          <p xml:id="da-3-d3c6-l5c348">
+            <supplied>
+              Argument: There must be a difference between the knower and the
+              known in the process of knowing; if the intellect knows itself
+              there is no difference between knower and known; hence, the
+              intellect cannot know itself.
+            </supplied>
+          </p>
+          <p xml:id="da-3-d3c6-j9y1li">
+            <supplied>
+              Argument: The process of understanding combines an accidental and
+              an essential element in the soul; self-knowledge is an identity
+              between knower and known; the differences between the two elements
+              makes an identity and hence self-knowledge impossible.
+            </supplied>
+          </p>
+          <p xml:id="da-3-d3c6-kw5pkf">
+            <supplied>
+              Argument: If the intellect knows itself by being present to
+              itself, it would always know itself; the intellect can only know
+              one thing at the time; hence, if the intellect knew itself it
+              could not know anything else; the intellect cannot therefore know
+              itself by itself.
+            </supplied>
+          </p>
+        </div>
+        <div ana="#determinatio" xml:id="da-3-d3c6-vd9l98">
+          <head><supplied ana="#meta-text">Determination</supplied></head>
+          <p xml:id="da-3-d3c6-p27fzh" ana="#structure-head">
+            We now prove by arguments and through authority that this is not the
+            case, but that the intellect is a sign and judge of itself by itself.
+          </p>
+          <!-- Arguments for the doctrine -->
+          <p xml:id="da-3-d3c6-zo63m7">
+            <supplied>
+              Doctrinal arguments supporting the idea of essential
+              self-knowledge.
+            </supplied>
+          </p>
+          <p xml:id="da-3-d3c6-g0pv59">
+            <supplied>
+              Arguments based on authorities.
+            </supplied>
+          </p>
+          <p xml:id="da-3-d3c6-de9rjw">
+            <supplied>
+              Qualifications and closing reflections.
+            </supplied>
+          </p>
+        </div>
+        <div xml:id="da-3-d3c6-c2usdy" ana="#ad-rationes">
+          <head>
+            <supplied ana="#meta-text">On the initial objections</supplied>
+          </head>
+          <p xml:id="da-3-d3c6-kfwosi" corresp="#da-3-d3c6-jj1y9m">
+            <supplied>
+              Refutation: The impossibility of self-affection only applies to
+              material objects and senses.
+            </supplied>
+          </p>
+          <p xml:id="da-3-d3c6-dcyya3" corresp="#da-3-d3c6-l5c348">
+            <supplied>
+              Refutation: There is a difference between the knower and known in
+              their definition, but not in existence.
+            </supplied>
+          </p>
+          <p xml:id="da-3-d3c6-8ec1aq" corresp="#da-3-d3c6-j9y1li">
+            <supplied>
+              Refutation: As above, there is a difference between knower and
+              known in their definition, but not in existence.
+            </supplied>
+          </p>
+          <p xml:id="da-3-d3c6-zvyzg0" corresp="#da-3-d3c6-kw5pkf">
+            <supplied>
+              Refutation: Although the intellect is always present to itself it
+              need not always know itself, and it can therefore also know other
+              things. Self-knowledge implies process of consideration.
+            </supplied>
+          </p>
+          <!-- From this point, the rest of the text on each folio is surrounded
+               by a frame with the note "vacat" marking it as a deletion in C.
+               This deletion has clearly been made after the copy of O's ancestor,
+               as it is all present in O. -->
+          <div xml:id="da-3-d3c6-7sclst" corresp="#da-3-d3c6-0h3uxq">
+            <p xml:id="da-3-d3c6-elka1r">
+              From these discussions it is clear that when I say <mentioned>What
+              I say is false</mentioned>, that statement can easily establish a
+              false understanding about that which it is a part and about
+              something untrue, to which (to make it more clear) it could be
+              objected as follows: When I say <mentioned>What I say is
+              false</mentioned>, it is either true or false that is say
+              something false; if it is true, then that statement does not
+              constitute a false understanding about it, but still about other
+              things which are false, although I do not say anything else, ergo
+              it is false that I say something false, and the previous statement
+              is true; if it is false that I say something false, and I say
+              this, then I say something false, ergo it is true that I say
+              something false, and something false has been said. In this way
+              and in many ways counter-arguments can be made.
+            </p>
+            <p xml:id="da-3-d3c6-rb5p6n">
+              Let us say to this that there is nothing in the way of one and the
+              same thing to be true and false at the same time, because
+              <supplied>the statement</supplied> <mentioned>man is
+              white</mentioned> is true with respect to one and false with
+              respect to another. But it is impossible for the same thing to be
+              true and false in the same way and with respect to the same at the
+              same time. For speakable truth is an equal relation between
+              composite pieces of understanding and the disposition of signified
+              things in a perfect composition or division (with
+              <mentioned>perfect composition</mentioned> I mean affirmative
+              statements, with <mentioned>perfect division</mentioned> I mean
+              negations). But if there is not an equal relation between the
+              elements of understanding and the things, we have a falsity. Thus
+              truth is some kind of equality, falsity some kind of inequality,
+              just as also <name ref="#Augustine">Augustine</name> testifies to.
+              But the concept <mentioned>human</mentioned> is common to any
+              particular human, regardless of whether it refers to Socrates,
+              Plato, or anybody else, it still refers to the same concept. Thus
+              when I say <mentioned>Socrates is a human</mentioned> then I could
+              have that shared term, <mentioned>human</mentioned>, refer to
+              whichever human that I want, and if it refers to Socrates, then
+              there is a truth in the composition. For the thing is the same as
+              what the concept holds, and thus there is an equality
+              between concept and thing. But if it refers to somebody else than
+              Socrates, then there is an inequality in that same composition
+              between the concept and the thing, for the thing is not the same
+              as what the concept holds. Thus one and the same composition of
+              concepts can be true and false at the same time, but on account of
+              different things.
+            </p>
+            <p xml:id="da-3-d3c6-n4mizj">
+              <name ref="#Aristotle">Aristotle</name> gives evidence to this in
+              <title ref="#Arist.Top">Topics</title>, in the book about
+              definitions, towards the end where he says:
+              <quote>
+                If someone has to define something in relation to something
+                else, and he does not relate it to that which it is said in
+                relation to in the definition, but to something that contains
+                more things, then he has given a bad definition. Suppose for
+                example that
+                somebody said that medicine is the science of all things that
+                exist. For if medicine is not a science about anything that
+                exists, then it is clear that the statement is completely false,
+                but if it is a science of some things, and not of some other
+                things, then it is false in some sense and true in another
+                sense.
+              </quote>
+              Similarly, when I say <mentioned>Socrates is a human</mentioned>,
+              when Socrates is a certain human and not another, then it is true
+              in one sense and in another sense false.
+            </p>
+            <p xml:id="da-3-d3c6-grczpn">
+              And so in the same way we say that this composition, <mentioned>What I say is
+              false</mentioned>, is at the same time true and false, but on
+              account of different things. For when the statement
+              <mentioned>false</mentioned> signifies the common concept of any
+              false thing, and nothing else that is false is said by me, it is
+              clear that on account of other false things it is false that
+              <mentioned>what I say is false</mentioned>. But when that itself
+              is false, and the part can establish an understanding of the
+              whole, as it has been outlined, then because of that falseness
+              that I say, it is true that <mentioned>what I say is
+              false</mentioned>. Ergo <mentioned>what I say is false</mentioned>
+              is false on account of other false things, but it is true on
+              account of that falsehood that I am saying, and thus the same
+              composition is true and false.
+            </p>
+            <p xml:id="da-3-d3c6-lec8fx">
+              <supplied>
+                Discussion of the liar paradox continues with many further refinements.
+              </supplied>
+            </p>
+          </div>
+        </div>
+      </div>
+    </body>
+  </text>
+</TEI>
