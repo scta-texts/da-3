@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
-<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/critical.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xi="http://www.w3.org/2001/XInclude">
   <teiHeader>
     <fileDesc>
@@ -12,8 +12,8 @@
         <editor>Michael Stenskjær Christensen</editor>
       </titleStmt>
       <editionStmt>
-        <edition n="0.1.0-dev">
-          <date when="2019-01-18">January 18, 2019</date>
+        <edition n="1.0.0">
+          <date when="2019-11-24">November 24, 2019</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -71,6 +71,17 @@
           as <mentioned>synecdoch...</mentioned> even though these may be
           examples of established medieval variants. Punctuation and
           paragraphing are my own.
+        </p>
+        <p>
+          <!--Associated editorial articles at time of peer review-->
+          <ref target="http://scta.info/resource/da-3-about-da-3-d3c6/Qmc1r6ToeRoeBkmjUeWYCYdjnu2BrpWZGZq8NQM7EBzmiS"
+            n="Qmc1r6ToeRoeBkmjUeWYCYdjnu2BrpWZGZq8NQM7EBzmiS">
+            The edition of William of Hedons Tractatus de anima,
+            distinctio 3, chapter 6
+            </ref>
+          <ref target="http://scta.info/resource/da-3-HedonsDeAnima/Qmb21ByTAzWrax6XaLSzZHs7t3dfNfKrGpUmRNrwt3s642"
+            n="Qmb21ByTAzWrax6XaLSzZHs7t3dfNfKrGpUmRNrwt3s642">
+            William of Hedon's Tractatus de anima</ref>
         </p>
       </editorialDecl>
     </encodingDesc>
@@ -130,7 +141,7 @@
             superius; ergo a simili cum intellectus sit instrumentum intelligendi,
             ipse intellectus a se ipso non intelligitur.
           </p>
-          <div xml:id="da-3-d3c6-0h3uxq">
+          <!--<div xml:id="da-3-d3c6-0h3uxq">-->
             <p xml:id="da-3-d3c6-lcvp0v">
               Item,
               <app>
@@ -179,7 +190,7 @@
               constituit intellectum de eo cuius est pars, ergo non est signum
               sui et ita de omnibus aliis.
             </p>
-          </div>
+          <!--</div>-->
           <p xml:id="da-3-d3c6-l5c348">
             Item, cum anima per intellectum abstrahentem abstrahit lineam vel
             rectum sive huiusmodi aliquid in tali abstractione, aliud est ipsum
@@ -940,7 +951,7 @@
             signum et signatum, alia tamen est ratio signi secundum quod signum
             alia signati secundum quod signatum.
           </p>
-          <div corresp="#da-3-d3c6-j9y1li">
+          <!--<div corresp="#da-3-d3c6-j9y1li">-->
             <p xml:id="da-3-d3c6-8ec1aq">
               Ad tertium obiectum dicamus quod re vera voces sunt notae earum quae
               sunt in anima passionum, et passiones sunt notae rerum; passiones vero
@@ -982,7 +993,7 @@
               non est alietas sive diversitas secundum rem sed tantum secundum
               rationem.
             </p>
-          </div>
+          <!--</div>-->
           <p xml:id="da-3-d3c6-zvyzg0" corresp="#da-3-d3c6-kw5pkf">
             Ad ultimum dicimus quod licet intellectus sit semper intelligens et
             sic semper sit praesens animae, non tamen necesse est ut ipse seipsum
