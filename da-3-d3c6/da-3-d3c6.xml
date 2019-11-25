@@ -12,8 +12,8 @@
         <editor>Michael Stenskjær Christensen</editor>
       </titleStmt>
       <editionStmt>
-        <edition n="0.1.0">
-          <date when="2018-03-02">March 02, 2018</date>
+        <edition n="0.1.0-dev">
+          <date when="2019-01-18">January 18, 2019</date>
         </edition>
       </editionStmt>
       <publicationStmt>
@@ -76,6 +76,9 @@
     </encodingDesc>
     <revisionDesc status="draft">
       <listChange>
+        <change when="2017-05-29" status="draft">
+          <p>Revised with changes proposed by peer reivew readers.</p>
+        </change>
         <change when="2018-03-02" status="draft">
           <p>Prepared file for peer review.</p>
         </change>
@@ -135,7 +138,7 @@
                 <lem wit="#C">hoc</lem>
                 <rdg wit="#O">haec</rdg>
               </app>
-              volunt probare ducendo ad metam falsi vel impossibilis hoc modo: Si
+              volunt probare ducendo ad metam falsi vel impossibilis hoc modo: si
               pars non potest constituere intellectum de suo toto, multo fortius
               idem non potest constituere intellectum de se ipso. Huius autem
               conditionalis antecedens volunt probare in terminis insolubilibus, ut
@@ -160,11 +163,10 @@
               significatur
               <app>
                 <!-- Correction read by O. -->
-                <lem>hac</lem>
+                <lem wit="#O">hac</lem>
                 <rdg wit="#C" type="correction-addition">
                   <add place="above">hac</add>
                 </rdg>
-                <rdg wit="#O">hac</rdg>
               </app>
               propositione <mentioned>ego dico falsum</mentioned>, ergo nihil
               est quod ea significatur, et haec est causa quare quidam ad talia
@@ -198,7 +200,6 @@
             <app>
               <lem wit="#C">dualitas</lem>
               <rdg wit="#O"><unclear>dualitas</unclear></rdg>
-              <witDetail wit="#O"><mentioned>d</mentioned> splotched out with ink</witDetail>
             </app>
             , aliud est enim in anima interius aliud in materia exterius, et ita
             de aliis quibuscumque intellectis. Cum autem anima se ipsam sive
@@ -337,8 +338,7 @@
                 <note>
                   Cf. <name ref="#Aristotle">Arist.</name> <title
                   ref="#Arist.DA">DA</title> III.4 429a21--24 and III.8 431b21.
-                  Themistius and Philoponus are closer to the phrasing in their
-                  commentaries, e.g. <name ref="#Themistius">Them.</name> <title
+                  <name ref="#Themistius">Them.</name> <title
                   ref="#Them.InDA">In DA</title> ad III.4 429a15, p. 214.5, and
                   <name ref="#Philoponus">Philop.</name> <title
                   ref="#Philop.InDA">In DA</title> ad III.4 429a21--22, p.
@@ -452,12 +452,8 @@
                 <bibl>
                   <name ref="#Aristotle">Arist.</name>
                   <title ref="#Arist.DA">DA</title>
-                  III.4 430a2--3.
+                  III.4 430a2--3?
                 </bibl>
-                <note>
-                  He does not literally say that in this passage, but it is as
-                  close as we get.
-                </note>
               </cit>
               . Quomodo etiam nos loqueremur de nostro intellectu nisi ipsum nostrum
               intellectum intelligeremus? Voces enim sunt notae intellectuum;
@@ -543,12 +539,8 @@
                 <bibl>
                   <name ref="#Aristotle">Arist.</name>
                   <title ref="#Arist.DA">DA</title>
-                  III.8 432a1--3.
+                  III.8 432a1--3?
                 </bibl>
-                <note>
-                  The reference to <mentioned>similitudines</mentioned> is difficult
-                  to support.
-                </note>
               </cit>
               , ut dicit
               <ref corresp="#da-3-d3c6-quote-qzba2x">
@@ -922,14 +914,14 @@
                 Deus</quote>
               </quote>
               <bibl>
-                <title>Psalms</title> 14:1.
+                <title>Psalm</title> 14:1.
               </bibl>
             </cit>
             . Patet igitur quanta sit differentia inter instrumentum corporeum et
             instrumentum incorporeum, de quo tamen inferius plenius dicetur et
             evidentius capitulo proximo, unde non est plena et praecisa similitudo
             inter apprehensionem sensibilem et intelligibilem, nec inter visionem
-            sensibilem et visionem intellectualem, aliter enim est in coporeis
+            sensibilem et visionem intellectualem, aliter enim est in corporeis
             aliter in incorporeis, et ideo non valent argumentationes inductae a
             simili, licet enim oculus non se videat, non tamen consequens est ut
             intellectus non se intelligat.
@@ -1490,7 +1482,7 @@
               quasi synecdochicae sunt, et quod est partis non debet attribui toti.
             </p>
             <p xml:id="da-3-d3c6-7j399n">
-              Sed adhuc obicitur. Dicitur pro regula quod<mentioned>omnis indifinita
+              Sed adhuc obicitur. Dicitur pro regula quod <mentioned>omnis indifinit
               est vera cuius aliqua particularis est vera</mentioned>; si autem
               fuerit aliqua singularis falsa vel etiam multae singulares
               <app>
@@ -1662,7 +1654,7 @@
               non pervenitur.
             </p>
             <p xml:id="da-3-d3c6-xux86k">
-              Quod exempli gratia declaramus hoc modo: Statua Petri et se ipsam
+              Quod exempli gratia declaramus hoc modo: statua Petri et se ipsam
               significat et Petrum, sed Petrum proprie et
               <app>
                 <lem wit="#C" n="et" />
@@ -1691,7 +1683,7 @@
                     </ref>
                     magnus theologus ait
                     <cit>
-                      <quote xml:id="da-3-d3c6-quote-4dmsup">Imaginis honor ad
+                      <quote xml:id="da-3-d3c6-quote-4dmsup">imaginis honor ad
                       <app>
                         <lem>prototypum</lem>
                         <rdg wit="#O" type="correction-substitution">
@@ -1931,7 +1923,9 @@
               sive <mentioned>a esse falsum</mentioned> vel huiusmodi. Si
               <app>
                 <lem wit="#C">non</lem>
-                <rdg wit="#O"><unclear>vero/non</unclear></rdg>
+                <rdg wit="#O"/>
+                <witDetail wit="#O"><mentioned>vero</mentioned> vel
+                <mentioned>non</mentioned> ut vid.</witDetail>
               </app>
               , quaeratur ratio quare non, si potest, contra hoc quod est
               <mentioned>a esse falsum</mentioned> dicatur <c type="variable">a</c>
