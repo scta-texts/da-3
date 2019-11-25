@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://raw.githubusercontent.com/scta/tdf-schema/master/src/tdf-1.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<list>
+  <manifestation manifestationDefault="true">
+    <name>critical</name>
+    <title>Critical</title>
+    <transcriptions>
+      <transcription transcriptionDefault="true">
+        <title>Critical 1</title>
+        <type>critical</type>
+        <version versionDefault="true">
+          <hash>transcription</hash>
+          <versionNo n="1.0.0-dev">Version 1.0.0-dev</versionNo>
+          <url>da-3-d3c6.xml</url>
+        </version>
+        <version reviewed="true">
+          <hash>QmUj39fJDyoCLLzZv687rp3qaRUrq6S37noN8D7g8eaJ9V</hash>
+          <versionNo n="1.0.0">Version 1.0.0</versionNo>
+          <url>https://gateway.scta.info/ipfs/QmUj39fJDyoCLLzZv687rp3qaRUrq6S37noN8D7g8eaJ9V</url>
+        </version>
+      </transcription>
+    </transcriptions>
+  </manifestation>
+</list>
