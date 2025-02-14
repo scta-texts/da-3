@@ -704,12 +704,12 @@
             <p xml:id="da-3-d3c6-1m11tl">
               Unde
               <cit>
-                <ref>
+                <ref xml:id="da-3-d3c6-Rcndccc" corresp="da-3-d3c6-Qcnuyyy">
                   <name ref="#Augustine">Augustinus</name>
                   <title ref="#Aug.Trin">De trinitate</title>:
                 </ref>
                 <!-- Really long Augustine quote! -->
-                <quote>
+                <quote xml:id="da-3-d3c6-Qcnuyyy" source="http://scta.info/resource/adt-l5-d1e677@91-224">
                   Quo
                   <app>
                     <lem n="quo"/>
@@ -760,7 +760,7 @@
                 </quote>
                 <bibl>
                   <name ref="#Augustine">Aug.</name>
-                  <title ref="#Aug.SuperGenesim">Trin.</title>
+                  <title>Trin.</title>
                   V.1.2 (Corpus Christianorum 50.1, p. 206.29--207.44).
                 </bibl>
               </cit>
