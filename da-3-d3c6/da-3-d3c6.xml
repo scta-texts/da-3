@@ -432,11 +432,11 @@
               </cit>
               , et
               <cit>
-                <ref>
+                <ref xml:id="da-3-d3c6-Rddggdd" corresp="#da-3-d3c6-Qc8uuxx">
                   <title ref="#Aug.Trin">De trinitate</title>
                   , libro V, capitolo II:
                 </ref>
-                <quote>
+                <quote xml:id="da-3-d3c6-Qc8uuxx" source="http://scta.info/resource/adt-l5-d1e677@91-105">
                   Quo intellectu homo Deum capit, nisi ipsum intellectum suum quo eum
                   vult capere capiatur?
                 </quote>
